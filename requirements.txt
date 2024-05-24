@@ -1,0 +1,16 @@
+environs==9.5.0
+grpcio==1.63.0
+marshmallow==3.21.2
+milvus-lite==2.4.5
+numpy==1.26.4
+packaging==24.0
+pandas==2.2.2
+protobuf==5.26.1
+pymilvus==2.4.3
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2024.1
+setuptools==70.0.0
+six==1.16.0
+tzdata==2024.1
+ujson==5.10.0
