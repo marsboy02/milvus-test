@@ -1,35 +1,32 @@
+import random
+from korBERT import KorBERT
+
 from pymilvus import (
     connections,
-    utility,
     FieldSchema,
     CollectionSchema,
     DataType,
     Collection,
 )
-import random
-import time
+
+# 전역변수 선언
+dimension = 8
+
 
 connections.connect("default", host="localhost", port="19530")
 
 fields = [
     FieldSchema(name="pk", dtype=DataType.INT64, is_primary=True, auto_id=False),
-    FieldSchema(name="random", dtype=DataType.DOUBLE),
-    FieldSchema(name="embeddings", dtype=DataType.FLOAT_VECTOR, dim=8)
+    # FieldSchema(name="random", dtype=DataType.DOUBLE), random
+    FieldSchema(name="embeddings", dtype=DataType.FLOAT_VECTOR, dim=dimension)
 ]
-schema = CollectionSchema(fields, "hello_milvus is the simplest demo to introduce the APIs")
-hello_milvus = Collection("hello_milvus", schema)
 
-fields = [
-    FieldSchema(name="pk", dtype=DataType.INT64, is_primary=True, auto_id=False),
-    FieldSchema(name="random", dtype=DataType.DOUBLE),
-    FieldSchema(name="embeddings", dtype=DataType.FLOAT_VECTOR, dim=8)
-]
 schema = CollectionSchema(fields, "hello_milvus is the simplest demo to introduce the APIs")
 hello_milvus = Collection("hello_milvus", schema)
 
 entities = [
     [i for i in range(3000)],  # field pk
-    [float(random.randrange(-20, -10)) for _ in range(3000)],  # field random
+    # [float(random.randrange(-20, -10)) for _ in range(3000)], field random
     [[random.random() for _ in range(8)] for _ in range(3000)],  # field embeddings
 ]
 insert_result = hello_milvus.insert(entities)

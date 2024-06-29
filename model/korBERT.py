@@ -1,4 +1,3 @@
-# korBERT.py
 from transformers import BertModel, BertTokenizer
 import torch
 
