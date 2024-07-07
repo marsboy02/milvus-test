@@ -1,0 +1,56 @@
+Match_number,Team_1,Team_2,Date_of_match,Venue_stadium,Venue_city,Toss_winner,Toss_decision,Match_result,Winning_team,Man_of_match,Win_by_runs,Win_by_wickets,Match_type,Super_over_match
+1,Canada,USA,02-06-2024,Grand Prairie Stadium,Dallas,USA,bowl,Played,USA,Aaron Jones,,7,Group Stage,No
+2,Papua New Guinea,West Indies,02-06-2024,Providence Stadium,Providence,West Indies,bowl,Played,West Indies,RL Chase,,5,Group Stage,No
+3,Oman,Namibia,03-06-2024,Kensington Oval,Bridgetown,Namibia,bowl,Played,Namibia,D Wiese,11,,Group Stage,Yes
+4,Sri Lanka,South Africa,03-06-2024,Nassau County International Cricket Stadium,New York,Sri Lanka,bowl,Played,South Africa,A Nortje,,6,Group Stage,No
+5,Afghanistan,Uganda,04-06-2024,Providence Stadium,Providence,Uganda,bowl,Played,Afghanistan,Fazalhaq Farooqi,125,,Group Stage,No
+6,Scotland,England,05-06-2024,Kensington Oval,Bridgetown,Scotland,bat,Abandoned,,,,,Group Stage,No
+7,Nepal,Netherlands,05-06-2024,Grand Prairie Stadium,Dallas,Netherlands,bowl,Played,Netherlands,TJG Pringle,,6,Group Stage,No
+8,Ireland,India,05-06-2024,Nassau County International Cricket Stadium,New York,India,bowl,Played,India,JJ Bumrah,,8,Group Stage,No
+9,Papua New Guinea,Uganda,06-06-2024,Providence Stadium,Providence,Uganda,bowl,Played,Uganda,Riazat Ali Shah,,3,Group Stage,No
+10,Australia,Oman,06-06-2024,Kensington Oval,Bridgetown,Oman,bowl,Played,Australia,MP Stoinis,39,,Group Stage,No
+11,Pakistan,USA,07-06-2024,Grand Prairie Stadium,Dallas,USA,bowl,Played,USA,MD Patel,5,,Group Stage,Yes
+12,Namibia,Scotland,07-06-2024,Kensington Oval,Bridgetown,Namibia,bat,Played,Scotland,MA Leask,,5,Group Stage,No
+13,Canada,Ireland,07-06-2024,Nassau County International Cricket Stadium,New York,Ireland,bowl,Played,Canada,NR Kirton,12,,Group Stage,No
+14,Afghanistan,New Zealand,08-06-2024,Providence Stadium,Providence,New Zealand,bowl,Played,Afghanistan,Rahmanullah Gurbaz,84,,Group Stage,No
+15,Sri Lanka,Bangladesh,08-06-2024,Grand Prairie Stadium,Dallas,Bangladesh,bowl,Played,Bangladesh,Rishad Hossain,,2,Group Stage,No
+16,Netherlands,South Africa,08-06-2024,Nassau County International Cricket Stadium,New York,South Africa,bowl,Played,South Africa,DA Miller,,4,Group Stage,No
+17,Australia,England,09-06-2024,Kensington Oval,Bridgetown,England,bowl,Played,Australia,A Zampa,36,,Group Stage,No
+18,West Indies,Uganda,09-06-2024,Providence Stadium,Providence,West Indies,bat,Played,West Indies,AJ Hosein,134,,Group Stage,No
+19,India,Pakistan,10-06-2024,Nassau County International Cricket Stadium,New York,Pakistan,bowl,Played,India,JJ Bumrah,6,,Group Stage,No
+20,Oman,Scotland,10-06-2024,Sir Vivian Richards Stadium,North Sound,Oman,bat,Played,Scotland,BJ McMullen,,7,Group Stage,No
+21,South Africa,Bangladesh,10-06-2024,Nassau County International Cricket Stadium,New York,South Africa,bat,Played,South Africa,H Klaasen,4,,Group Stage,No
+22,Canada,Pakistan,11-06-2024,Nassau County International Cricket Stadium,New York,Pakistan,bowl,Played,Pakistan,Mohammad Amir,,7,Group Stage,No
+23,Sri Lanka,Nepal,12-06-2024,Central Broward Regional Park Stadium Turf Ground,Lauderhill,,,Abandoned,,,,,Group Stage,No
+24,Namibia,Australia,12-06-2024,Sir Vivian Richards Stadium,North Sound,Australia,bowl,Played,Australia,A Zampa,,9,Group Stage,No
+25,USA,India,12-06-2024,Nassau County International Cricket Stadium,New York,India,bowl,Played,India,Arshdeep Singh,,7,Group Stage,No
+26,West Indies,New Zealand,13-06-2024,Brian Lara Stadium,Tarouba,New Zealand,bowl,Played,West Indies,SE Rutherford,13,,Group Stage,No
+27,Bangladesh,Netherlands,13-06-2024,Arnos Vale Ground,Kingstown,Netherlands,bowl,Played,Bangladesh,Shakib Al Hasan,25,,Group Stage,No
+28,Oman,England,14-06-2024,Sir Vivian Richards Stadium,North Sound,England,bowl,Played,England,AU Rashid,,8,Group Stage,No
+29,Papua New Guinea,Afghanistan,14-06-2024,Brian Lara Stadium,Tarouba,Afghanistan,bowl,Played,Afghanistan,Fazalhaq Farooqi,,7,Group Stage,No
+30,USA,Ireland,15-06-2024,Central Broward Regional Park Stadium Turf Ground,Lauderhill,,,Abandoned,,,,,Group Stage,No
+31,South Africa,Nepal,15-06-2024,Arnos Vale Ground,Kingstown,Nepal,bowl,Played,South Africa,T Shamsi,1,,Group Stage,No
+32,Uganda,New Zealand,15-06-2024,Brian Lara Stadium,Tarouba,New Zealand,bowl,Played,New Zealand,TG Southee,,9,Group Stage,No
+33,India,Canada,16-06-2024,Central Broward Regional Park Stadium Turf Ground,Lauderhill,,,Abandoned,,,,,Group Stage,No
+34,England,Namibia,16-06-2024,Sir Vivian Richards Stadium,North Sound,Namibia,bowl,Played,England,HC Brook,41,,Group Stage,No
+35,Scotland,Australia,16-06-2024,Daren Sammy National Cricket Stadium,Gros Islet,Australia,bowl,Played,Australia,MP Stoinis,,5,Group Stage,No
+36,Ireland,Pakistan,16-06-2024,Central Broward Regional Park Stadium Turf Ground,Lauderhill,Pakistan,bowl,Played,Pakistan,Shaheen Shah Afridi,,3,Group Stage,No
+37,Bangladesh,Nepal,17-06-2024,Arnos Vale Ground,Kingstown,Nepal,bowl,Played,Bangladesh,Tanzim Hasan Sakib,21,,Group Stage,No
+38,Sri Lanka,Netherlands,17-06-2024,Daren Sammy National Cricket Stadium,Gros Islet,Netherlands,bowl,Played,Sri Lanka,KIC Asalanka,83,,Group Stage,No
+39,Papua New Guinea,New Zealand,17-06-2024,Brian Lara Stadium,Tarouba,New Zealand,bowl,Played,New Zealand,LH Ferguson,,7,Group Stage,No
+40,West Indies,Afghanistan,18-06-2024,Daren Sammy National Cricket Stadium,Gros Islet,Afghanistan,bowl,Played,West Indies,N Pooran,104,,Group Stage,No
+41,South Africa,USA,19-06-2024,Sir Vivian Richards Stadium,North Sound,USA,bowl,Played,South Africa,Q de Kock,18,,Super Eight,No
+42,West Indies,England,20-06-2024,Daren Sammy National Cricket Stadium,Gros Islet,England,bowl,Played,England,PD Salt,,8,Super Eight,No
+43,India,Afghanistan,20-06-2024,Kensington Oval,Bridgetown,India,bat,Played,India,SA Yadav,47,,Super Eight,No
+44,Bangladesh,Australia,21-06-2024,Sir Vivian Richards Stadium,North Sound,Australia,bowl,Played,Australia,PJ Cummins,28,,Super Eight,No
+45,South Africa,England,21-06-2024,Daren Sammy National Cricket Stadium,Gros Islet,England,bowl,Played,South Africa,Q de Kock,7,,Super Eight,No
+46,USA,West Indies,22-06-2024,Kensington Oval,Bridgetown,West Indies,bowl,Played,West Indies,RL Chase,,9,Super Eight,No
+47,India,Bangladesh,22-06-2024,Sir Vivian Richards Stadium,North Sound,Bangladesh,bowl,Played,India,HH Pandya,50,,Super Eight,No
+48,Afghanistan,Australia,23-06-2024,Arnos Vale Ground,Kingstown,Australia,bowl,Played,Afghanistan,Gulbadin Naib,21,,Super Eight,No
+49,USA,England,23-06-2024,Kensington Oval,Bridgetown,England,bowl,Played,England,AU Rashid,,10,Super Eight,No
+50,West Indies,South Africa,24-06-2024,Sir Vivian Richards Stadium,North Sound,South Africa,bowl,Played,South Africa,T Shamsi,,3,Super Eight,No
+51,India,Australia,24-06-2024,Daren Sammy National Cricket Stadium,Gros Islet,Australia,bowl,Played,India,RG Sharma,24,,Super Eight,No
+52,Afghanistan,Bangladesh,25-06-2024,Arnos Vale Ground,Kingstown,Afghanistan,bat,Played,Afghanistan,Naveen-ul-Haq,8,,Super Eight,No
+53,Afghanistan,South Africa,27-06-2024,Brian Lara Stadium,Tarouba,Afghanistan,bat,Played,South Africa,M Jansen,,9,Semi Final,No
+54,India,England,27-06-2024,Providence Stadium,Providence,England,bowl,Played,India,AR Patel,68,,Semi Final,No
+55,India,South Africa,29-06-2024,Kensington Oval,Bridgetown,India,bat,Played,India,V Kohli,7,,Final,No
