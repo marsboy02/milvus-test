@@ -7,6 +7,7 @@ grpcio==1.63.0
 huggingface-hub==0.23.4
 idna==3.7
 Jinja2==3.1.4
+joblib==1.4.2
 MarkupSafe==2.1.5
 marshmallow==3.21.2
 milvus-lite==2.4.5
@@ -19,14 +20,18 @@ protobuf==5.26.1
 pymilvus==2.4.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
+pytorch-tabnet==4.1.0
 pytz==2024.1
 PyYAML==6.0.1
 regex==2024.5.15
 requests==2.32.3
 safetensors==0.4.3
+scikit-learn==1.5.1
+scipy==1.14.0
 setuptools==70.0.0
 six==1.16.0
 sympy==1.12.1
+threadpoolctl==3.5.0
 tokenizers==0.19.1
 torch==2.3.1
 tqdm==4.66.4
