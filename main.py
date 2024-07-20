@@ -79,5 +79,5 @@ search_params = {
     "metric_type": "L2",
     "params": {"nprobe": 10},
 }
-result = hello_milvus.search(vectors_to_search, "vector", search_params, limit=3, output_fields=["columns"])
+result = hello_milvus.search(vectors_to_search, "vector", search_params, limit=10, output_fields=["columns"])
 print(result)
