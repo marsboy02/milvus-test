@@ -64,7 +64,7 @@ hello_milvus.load()
 
 # search
 search_params = {
-    "metric_type": "L2",
+    "metric_type": "COSINE",
     "params": {"nprobe": 10},
 }
 result = hello_milvus.search(vectors[-1:], "vector", search_params, limit=10, output_fields=["columns"])
