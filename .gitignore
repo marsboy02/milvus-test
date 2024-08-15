@@ -3,3 +3,5 @@ volumes/
 .idea
 
 venv/
+
+.env

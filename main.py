@@ -1,5 +1,6 @@
 from model.embedder import TabularEmbedder
-import random
+import os
+from dotenv import load_dotenv
 import json
 
 from pymilvus import (
@@ -15,7 +16,11 @@ from pymilvus import (
 # 전역변수 선언
 dimension = 128  # 벡터 차원을 실제 사용되는 차원 수로 설정합니다.
 
-connections.connect("default", host="localhost", port="19530")
+
+# env 설정
+load_dotenv()
+database_url = os.getenv("DATABASE_URL")
+connections.connect("default", host=database_url, port="19530")
 
 
 # 밀버스에 적용할 스키마 작성
