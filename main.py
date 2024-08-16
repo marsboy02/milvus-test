@@ -60,7 +60,7 @@ hello_milvus.flush()
 print(format("Start Creating index IVF_FLAT"))
 index = {
     "index_type": "IVF_FLAT",
-    "metric_type": "L2",
+    "metric_type": "COSINE",
     "params": {"nlist": 128},
 }
 hello_milvus.create_index("vector", index)
