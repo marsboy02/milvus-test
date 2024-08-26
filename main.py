@@ -73,4 +73,4 @@ search_params = {
     "params": {"nprobe": 10},
 }
 result = hello_milvus.search(vectors[-1:], "vector", search_params, limit=10, output_fields=["columns"])
-print(result)
+print(result[0])
