@@ -1,4 +1,3 @@
-# embedder.py
 import os
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
@@ -53,6 +52,7 @@ class TabularEmbedder:
         embeddings_list = []
 
         for csv_file in csv_files:
+            print(f"Processing file: {csv_file}")  # CSV 파일 이름 출력
             file_path = os.path.join(self.dataset_dir, csv_file)
             df = pd.read_csv(file_path)
             df = self.preprocess_data(df)
