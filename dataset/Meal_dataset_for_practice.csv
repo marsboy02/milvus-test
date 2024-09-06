@@ -1,0 +1,732 @@
+,Meal Name,Category,Area,Tags
+0,Apple Frangipan Tart,Dessert,British,"Tart,Baking,Fruity"
+1,Apple & Blackberry Crumble,Dessert,British,Pudding
+2,Apam balik,Dessert,Malaysian,NaN
+3,Ayam Percik,Chicken,Malaysian,NaN
+4,Bakewell tart,Dessert,British,"Tart,Baking,Alcoholic"
+5,Bread and Butter Pudding,Dessert,British,"Pudding,Brunch"
+6,Beef Wellington,Beef,British,"Meat,Stew"
+7,Baingan Bharta,Vegetarian,Indian,"Spicy,Bun,Calorific"
+8,Beef Brisket Pot Roast,Beef,American,Meat
+9,Beef Sunday Roast,Beef,British,MainMeal
+10,Braised Beef Chilli,Beef,Mexican,NaN
+11,Beef stroganoff,Beef,Russian,NaN
+12,Broccoli & Stilton soup,Starter,British,NaN
+13,Bean & Sausage Hotpot,Miscellaneous,British,NaN
+14,Banana Pancakes,Dessert,American,"Breakfast,Desert,Sweet"
+15,Beef Dumpling Stew,Beef,British,"Stew,Baking"
+16,Beef and Mustard Pie,Beef,British,"Meat,Pie"
+17,Beef and Oyster pie,Beef,British,Pie
+18,Blackberry Fool,Dessert,British,"Desert,Summer,Fruity,Dairy"
+19,Battenberg Cake,Dessert,British,"Cake,Sweet"
+20,Beef Bourguignon,Beef,French,NaN
+21,Brie wrapped in prosciutto & brioche,Side,French,"SideDish,Treat,Baking"
+22,Boulangère Potatoes,Side,French,SideDish
+23,BeaverTails,Dessert,Canadian,"Treat,Pudding,Speciality"
+24,Brown Stew Chicken,Chicken,Jamaican,Stew
+25,Beef Lo Mein,Beef,Chinese,NaN
+26,Baked salmon with fennel & tomatoes,Seafood,British,"Paleo,Keto,HighFat,Baking,LowCarbs"
+27,Budino Di Ricotta,Dessert,Italian,"Cake,Baking,Desert,Sweet,Alcoholic,Calorific"
+28,Breakfast Potatoes,Breakfast,Canadian,"Breakfast,Brunch,"
+29,Bitterballen (Dutch meatballs),Beef,Dutch,"DinnerParty,HangoverFood,Alcoholic"
+30,BBQ Pork Sloppy Joes,Pork,American,NaN
+31,"Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",Beef,Vietnamese,NaN
+32,Big Mac,Beef,American,NaN
+33,Bigos (Hunters Stew),Pork,Polish,NaN
+34,Boxty Breakfast,Pork,Irish,NaN
+35,Beef Rendang,Beef,Malaysian,NaN
+36,Burek,Side,Croatian,"Streetfood, Onthego"
+37,Beef Mechado,Beef,Filipino,"Stew, Warming"
+38,Bistek,Beef,Filipino,NaN
+39,Beef Caldereta,Beef,Filipino,NaN
+40,Beef Asado,Beef,Filipino,NaN
+41,Bread omelette,Breakfast,Indian,NaN
+42,Beetroot Soup (Borscht),Vegetarian,Ukrainian,soup
+43,Blini Pancakes,Side,Russian,pancake
+44,Chicken Enchilada Casserole,Chicken,Mexican,"Casserole,Cheasy,Meat"
+45,Chocolate Gateau,Dessert,French,"Cake,Chocolate,Desert,Pudding"
+46,Cream Cheese Tart,Starter,Unknown,"Tart,Savory"
+47,Christmas Pudding Flapjack,Dessert,British,"Snack,Cake"
+48,Chicken Handi,Chicken,Indian,NaN
+49,Chicken Alfredo Primavera,Chicken,Italian,"Pasta,Meat,Dairy"
+50,Chicken Fajita Mac and Cheese,Chicken,American,"Pasta,Cheasy,Meat"
+51,Cajun spiced fish tacos,Seafood,Mexican,"Spicy,Fish"
+52,Crock Pot Chicken Baked Tacos,Chicken,Mexican,NaN
+53,Chicken Karaage,Chicken,Japanese,NaN
+54,Coq au vin,Chicken,French,NaN
+55,Chilli prawn linguine,Pasta,Italian,NaN
+56,Clam chowder,Starter,American,NaN
+57,Creamy Tomato Soup,Starter,British,Baking
+58,Chicken & mushroom Hotpot,Chicken,British,NaN
+59,Chicken Couscous,Chicken,Moroccan,NaN
+60,Chocolate Avocado Mousse,Dessert,British,NaN
+61,Choc Chip Pecan Pie,Dessert,American,"Pie,Desert,Sweet,Nutty"
+62,Chocolate Raspberry Brownies,Dessert,American,"Chocolate,Desert,Snack"
+63,Chickpea Fajitas,Vegetarian,Mexican,Vegetarian
+64,Chicken Ham and Leek Pie,Chicken,British,"Pie,Meat"
+65,Chicken Parmentier,Chicken,French,"Meat,Dairy"
+66,Carrot Cake,Dessert,British,"Cake,Treat,Sweet"
+67,Chelsea Buns,Dessert,British,"Bun,Baking,Treat"
+68,Chocolate Souffle,Dessert,French,"DinnerParty,Desert,Pudding,Chocolate"
+69,Chinon Apple Tarts,Dessert,French,"Tart,Baking"
+70,Chicken Marengo,Chicken,French,NaN
+71,Canadian Butter Tarts,Dessert,Canadian,"Speciality,Snack,Desert,Pudding"
+72,Chicken Basquaise,Chicken,French,Meat
+73,Callaloo Jamaican Style,Miscellaneous,Jamaican,Savory
+74,Chicken Congee,Chicken,Chinese,NaN
+75,Chocolate Caramel Crispy,Dessert,British,"Sweet,Snack,Treat,Tart,Alcoholic,BBQ"
+76,Chakchouka ,Miscellaneous,Tunisian,NaN
+77,Cashew Ghoriba Biscuits,Dessert,Tunisian,NaN
+78,Corba,Side,Turkish,Soup
+79,Classic Christmas pudding,Dessert,British,Christmas
+80,Christmas Pudding Trifle,Dessert,British,Christmas
+81,Christmas cake,Dessert,British,Christmas
+82,Corned Beef and Cabbage,Beef,Irish,
+83,Crispy Sausages and Greens,Pork,Irish,NaN
+84,Chicken Quinoa Greek Salad,Chicken,Greek,NaN
+85,Chick-Fil-A Sandwich,Chicken,American,NaN
+86,Coddled pork with cider,Pork,Irish,NaN
+87,Cevapi Sausages,Beef,Croatian,Sausages
+88,Croatian lamb peka,Beef,Croatian,NaN
+89,Croatian Bean Stew,Beef,Croatian,"Warming, Soup, Beans"
+90,Chivito uruguayo,Beef,Unknown,NaN
+91,Crispy Eggplant,Vegetarian,Filipino,NaN
+92,Cabbage Soup (Shchi),Vegetarian,Russian,soup
+93,Dal fry,Vegetarian,Indian,"Curry,Vegetarian,Cake"
+94,Dundee cake,Dessert,British,"heavy,Nutty,Fruity"
+95,Duck Confit,Miscellaneous,French,NaN
+96,Eton Mess,Dessert,British,"Dairy,Fruity,Desert,Treat,Speciality"
+97,Eccles Cakes,Dessert,British,"Snack,Treat"
+98,English Breakfast,Breakfast,British,Breakfast
+99,Escovitch Fish,Seafood,Jamaican,"Seafood,Spicy,Speciality,Easter"
+100,Egg Drop Soup,Vegetarian,Chinese,"Soup,Baking,Calorific"
+101,Egyptian Fatteh,Beef,Egyptian,NaN
+102,Eggplant Adobo,Vegetarian,Filipino,NaN
+103,Fish pie,Seafood,British,"Fish,Pie,Breakfast,Baking"
+104,French Lentils With Garlic and Thyme,Miscellaneous,French,Pulse
+105,Fettucine alfredo,Pasta,Italian,NaN
+106,Full English Breakfast,Breakfast,British,"Greasy,UnHealthy,HangoverFood,Calorific,Breakfast,BBQ"
+107,French Onion Soup,Side,French,Soup
+108,Flamiche,Vegetarian,French,Tart
+109,French Omelette,Miscellaneous,French,Egg
+110,Fish Stew with Rouille,Seafood,French,"Fish,Seafood,Shellfish"
+111,Fennel Dauphinoise,Side,French,"Pie,SideDish"
+112,Fruit and Cream Cheese Breakfast Pastries,Breakfast,American,"Breakfast,Summer"
+113,French Onion Chicken with Roasted Carrots & Mashed Potatoes,Chicken,American,NaN
+114,Ful Medames,Vegetarian,Egyptian,NaN
+115,Feteer Meshaltet,Side,Egyptian,NaN
+116,Fish fofos,Seafood,Portuguese,NaN
+117,Fresh sardines,Side,Croatian,Fresh
+118,Fettuccine Alfredo,Pasta,Italian,NaN
+119,Fish Soup (Ukha),Seafood,Russian,soup
+120,Garides Saganaki,Seafood,Greek,"Seafood,Shellfish"
+121,Grilled Mac and Cheese Sandwich,Pasta,American,NaN
+122,General Tso's Chicken,Chicken,Chinese,NaN
+123,Gigantes Plaki,Vegetarian,Greek,NaN
+124,Gołąbki (cabbage roll),Beef,Polish,NaN
+125,Grilled Portuguese sardines,Seafood,Portuguese,NaN
+126,Grilled eggplant with coconut milk,Vegetarian,Filipino,NaN
+127,Honey Teriyaki Salmon,Seafood,Japanese,"Fish,Breakfast,DateNight"
+128,Hot Chocolate Fudge,Dessert,American,"Snack,Chocolate"
+129,Hot and Sour Soup,Pork,Chinese,Soup
+130,Home-made Mandazi,Breakfast,Kenyan,"Baking,Breakfast,Egg,Warm,Snack"
+131,Honey Balsamic Chicken with Crispy Broccoli & Potatoes,Chicken,American,NaN
+132,Honey Yogurt Cheesecake,Dessert,Greek,NaN
+133,Ham hock colcannon,Pork,Irish,NaN
+134,Irish stew,Beef,Irish,"Stew,Meat"
+135,Jam Roly-Poly,Dessert,British,NaN
+136,Jerk chicken with rice & peas,Chicken,Jamaican,"Chilli,Curry"
+137,Jamaican Beef Patties,Beef,Jamaican,"Snack,Spicy"
+138,Japanese gohan rice,Side,Japanese,NaN
+139,Japanese Katsudon,Pork,Japanese,NaN
+140,Kapsalon,Lamb,Dutch,Snack
+141,Kentucky Fried Chicken,Chicken,American,"Meat,Spicy"
+142,Katsu Chicken curry,Chicken,Japanese,"Curry,Meat"
+143,Key Lime Pie,Dessert,American,"Cake,Pie,Desert,Fruity,Sour"
+144,Kidney Bean Curry,Vegetarian,Indian,Curry
+145,Kedgeree,Seafood,British,NaN
+146,Kung Pao Chicken,Chicken,Chinese,NaN
+147,Kung Po Prawns,Seafood,Chinese,BBQ
+148,Kafteji,Vegetarian,Tunisian,NaN
+149,Keleya Zaara,Lamb,Tunisian,NaN
+150,Kumpir,Side,Turkish,SideDish
+151,Krispy Kreme Donut,Dessert,American,NaN
+152,Koshari,Vegetarian,Egyptian,NaN
+153,Lamb tomato and sweet spices,Lamb,Moroccan,
+154,Lamb Biryani,Lamb,Indian,"Curry,Meat"
+155,Lamb Rogan josh,Lamb,Indian,"Curry,Spicy,Alcoholic"
+156,Laksa King Prawn Noodles,Seafood,Malaysian,"Shellfish,Seafood"
+157,Lamb Tagine,Lamb,Moroccan,NaN
+158,Lasagne,Pasta,Italian,NaN
+159,Lamb and Potato pie,Lamb,British,Pie
+160,Lancashire hotpot,Lamb,British,NaN
+161,Leblebi Soup,Vegetarian,Tunisian,Soup
+162,Lasagna Sandwiches,Pasta,American,Sandwich
+163,Lamb and Lemon Souvlaki,Lamb,Greek,NaN
+164,Lamb Tzatziki Burgers,Lamb,Greek,NaN
+165,Lamb Pilaf (Plov),Lamb,Russian,rice
+166,Mediterranean Pasta Salad,Seafood,Italian,"Pasta,Baking"
+167,Massaman Beef curry,Beef,Thai,Curry
+168,Mushroom & Chestnut Rotolo,Vegetarian,British,"Vegetarian,Nutty"
+169,Matar Paneer,Vegetarian,Indian,"Curry,Vegetarian"
+170,Minced Beef Pie,Beef,British,"Pie,Meat"
+171,McSinghs Scotch pie,Lamb,British,Pie
+172,Madeira Cake,Dessert,British,"Cake,Light,Baking,Desert"
+173,Montreal Smoked Meat,Beef,Canadian,"Speciality,Snack,StrongFlavor"
+174,Ma Po Tofu,Beef,Chinese,NaN
+175,Mbuzi Choma (Roasted Goat),Goat,Kenyan,"BBQ,Meat"
+176,Mince Pies,Dessert,British,Christmas
+177,Moussaka,Beef,Greek,NaN
+178,Mulukhiyah,Beef,Egyptian,NaN
+179,Mustard champ,Side,Irish,NaN
+180,Moroccan Carrot Soup,Vegetarian,Moroccan,NaN
+181,Mee goreng mamak,Seafood,Malaysian,NaN
+182,Mushroom soup with buckwheat,Side,Croatian,"Warming, Soup"
+183,Nutty Chicken Curry,Chicken,Indian,NaN
+184,New York cheesecake,Dessert,American,"Desert,Dairy,Pudding,Cake,Breakfast"
+185,Nanaimo Bars,Dessert,Canadian,"Treat,Snack,Dairy"
+186,Nasi lemak,Seafood,Malaysian,NaN
+187,Osso Buco alla Milanese,Miscellaneous,Italian,NaN
+188,Oxtail with broad beans,Beef,Jamaican,"Heavy,MainMeal,Speciality"
+189,Pad See Ew,Chicken,Thai,Pasta
+190,Potato Gratin with Chicken,Chicken,Unknown,NaN
+191,Poutine,Miscellaneous,Canadian,"UnHealthy,Speciality,HangoverFood"
+192,Pilchard puttanesca,Pasta,Italian,NaN
+193,Pork Cassoulet,Pork,French,NaN
+194,Pancakes,Dessert,American,"Breakfast,Desert,Sweet,Fruity"
+195,Pumpkin Pie,Dessert,American,"Halloween,Pie,Desert"
+196,Peanut Butter Cheesecake,Dessert,American,"Cake,Desert,Treat,UnHealthy,Speciality"
+197,Peach & Blueberry Grunt,Dessert,American,"Desert,Pudding,Fruity"
+198,Parkin Cake,Dessert,British,Caramel
+199,Pear Tarte Tatin,Dessert,French,"Tart,Glazed,Baking"
+200,Provençal Omelette Cake,Vegetarian,French,Egg
+201,Prawn & Fennel Bisque,Side,French,"Soup,Warm,Seafood,Shellfish"
+202,Pate Chinois,Beef,Canadian,"MainMeal,Alcoholic"
+203,Pouding chomeur,Dessert,Canadian,Pudding
+204,Peanut Butter Cookies,Dessert,American,"Breakfast,UnHealthy,BBQ"
+205,Pizza Express Margherita,Miscellaneous,Italian,NaN
+206,Paszteciki (Polish Pasties),Beef,Polish,NaN
+207,Pierogi (Polish Dumplings),Side,Polish,NaN
+208,Polskie Naleśniki (Polish Pancakes),Dessert,Polish,NaN
+209,Piri-piri chicken and slaw,Chicken,Portuguese,NaN
+210,Portuguese prego with green piri-piri,Beef,Portuguese,NaN
+211,Portuguese barbecued pork (Febras assadas),Pork,Portuguese,NaN
+212,Portuguese fish stew (Caldeirada de peixe),Seafood,Portuguese,NaN
+213,Portuguese custard tarts,Dessert,Portuguese,NaN
+214,Potato Salad (Olivier Salad),Vegetarian,Russian,salad
+215,Apple Frangipan Tart,Dessert,British,"Tart,Baking,Fruity"
+216,Apple & Blackberry Crumble,Dessert,British,Pudding
+217,Apam balik,Dessert,Malaysian,NaN
+218,Ayam Percik,Chicken,Malaysian,NaN
+219,Bakewell tart,Dessert,British,"Tart,Baking,Alcoholic"
+220,Bread and Butter Pudding,Dessert,British,"Pudding,Brunch"
+221,Beef Wellington,Beef,British,"Meat,Stew"
+222,Baingan Bharta,Vegetarian,Indian,"Spicy,Bun,Calorific"
+223,Beef Brisket Pot Roast,Beef,American,Meat
+224,Beef Sunday Roast,Beef,British,MainMeal
+225,Braised Beef Chilli,Beef,Mexican,NaN
+226,Beef stroganoff,Beef,Russian,NaN
+227,Broccoli & Stilton soup,Starter,British,NaN
+228,Bean & Sausage Hotpot,Miscellaneous,British,NaN
+229,Banana Pancakes,Dessert,American,"Breakfast,Desert,Sweet"
+230,Beef Dumpling Stew,Beef,British,"Stew,Baking"
+231,Beef and Mustard Pie,Beef,British,"Meat,Pie"
+232,Beef and Oyster pie,Beef,British,Pie
+233,Blackberry Fool,Dessert,British,"Desert,Summer,Fruity,Dairy"
+234,Battenberg Cake,Dessert,British,"Cake,Sweet"
+235,Beef Bourguignon,Beef,French,NaN
+236,Brie wrapped in prosciutto & brioche,Side,French,"SideDish,Treat,Baking"
+237,Boulangère Potatoes,Side,French,SideDish
+238,BeaverTails,Dessert,Canadian,"Treat,Pudding,Speciality"
+239,Brown Stew Chicken,Chicken,Jamaican,Stew
+240,Beef Lo Mein,Beef,Chinese,NaN
+241,Baked salmon with fennel & tomatoes,Seafood,British,"Paleo,Keto,HighFat,Baking,LowCarbs"
+242,Budino Di Ricotta,Dessert,Italian,"Cake,Baking,Desert,Sweet,Alcoholic,Calorific"
+243,Breakfast Potatoes,Breakfast,Canadian,"Breakfast,Brunch,"
+244,Bitterballen (Dutch meatballs),Beef,Dutch,"DinnerParty,HangoverFood,Alcoholic"
+245,BBQ Pork Sloppy Joes,Pork,American,NaN
+246,"Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",Beef,Vietnamese,NaN
+247,Big Mac,Beef,American,NaN
+248,Bigos (Hunters Stew),Pork,Polish,NaN
+249,Boxty Breakfast,Pork,Irish,NaN
+250,Beef Rendang,Beef,Malaysian,NaN
+251,Burek,Side,Croatian,"Streetfood, Onthego"
+252,Beef Mechado,Beef,Filipino,"Stew, Warming"
+253,Bistek,Beef,Filipino,NaN
+254,Beef Caldereta,Beef,Filipino,NaN
+255,Beef Asado,Beef,Filipino,NaN
+256,Bread omelette,Breakfast,Indian,NaN
+257,Beetroot Soup (Borscht),Vegetarian,Ukrainian,soup
+258,Blini Pancakes,Side,Russian,pancake
+259,Chicken Enchilada Casserole,Chicken,Mexican,"Casserole,Cheasy,Meat"
+260,Chocolate Gateau,Dessert,French,"Cake,Chocolate,Desert,Pudding"
+261,Cream Cheese Tart,Starter,Unknown,"Tart,Savory"
+262,Christmas Pudding Flapjack,Dessert,British,"Snack,Cake"
+263,Chicken Handi,Chicken,Indian,NaN
+264,Chicken Alfredo Primavera,Chicken,Italian,"Pasta,Meat,Dairy"
+265,Chicken Fajita Mac and Cheese,Chicken,American,"Pasta,Cheasy,Meat"
+266,Cajun spiced fish tacos,Seafood,Mexican,"Spicy,Fish"
+267,Crock Pot Chicken Baked Tacos,Chicken,Mexican,NaN
+268,Chicken Karaage,Chicken,Japanese,NaN
+269,Coq au vin,Chicken,French,NaN
+270,Chilli prawn linguine,Pasta,Italian,NaN
+271,Clam chowder,Starter,American,NaN
+272,Creamy Tomato Soup,Starter,British,Baking
+273,Chicken & mushroom Hotpot,Chicken,British,NaN
+274,Chicken Couscous,Chicken,Moroccan,NaN
+275,Chocolate Avocado Mousse,Dessert,British,NaN
+276,Choc Chip Pecan Pie,Dessert,American,"Pie,Desert,Sweet,Nutty"
+277,Chocolate Raspberry Brownies,Dessert,American,"Chocolate,Desert,Snack"
+278,Chickpea Fajitas,Vegetarian,Mexican,Vegetarian
+279,Chicken Ham and Leek Pie,Chicken,British,"Pie,Meat"
+280,Chicken Parmentier,Chicken,French,"Meat,Dairy"
+281,Carrot Cake,Dessert,British,"Cake,Treat,Sweet"
+282,Chelsea Buns,Dessert,British,"Bun,Baking,Treat"
+283,Chocolate Souffle,Dessert,French,"DinnerParty,Desert,Pudding,Chocolate"
+284,Chinon Apple Tarts,Dessert,French,"Tart,Baking"
+285,Chicken Marengo,Chicken,French,NaN
+286,Canadian Butter Tarts,Dessert,Canadian,"Speciality,Snack,Desert,Pudding"
+287,Chicken Basquaise,Chicken,French,Meat
+288,Callaloo Jamaican Style,Miscellaneous,Jamaican,Savory
+289,Chicken Congee,Chicken,Chinese,NaN
+290,Chocolate Caramel Crispy,Dessert,British,"Sweet,Snack,Treat,Tart,Alcoholic,BBQ"
+291,Chakchouka ,Miscellaneous,Tunisian,NaN
+292,Cashew Ghoriba Biscuits,Dessert,Tunisian,NaN
+293,Corba,Side,Turkish,Soup
+294,Classic Christmas pudding,Dessert,British,Christmas
+295,Christmas Pudding Trifle,Dessert,British,Christmas
+296,Christmas cake,Dessert,British,Christmas
+297,Corned Beef and Cabbage,Beef,Irish,
+298,Crispy Sausages and Greens,Pork,Irish,NaN
+299,Chicken Quinoa Greek Salad,Chicken,Greek,NaN
+300,Chick-Fil-A Sandwich,Chicken,American,NaN
+301,Coddled pork with cider,Pork,Irish,NaN
+302,Cevapi Sausages,Beef,Croatian,Sausages
+303,Croatian lamb peka,Beef,Croatian,NaN
+304,Croatian Bean Stew,Beef,Croatian,"Warming, Soup, Beans"
+305,Chivito uruguayo,Beef,Unknown,NaN
+306,Crispy Eggplant,Vegetarian,Filipino,NaN
+307,Cabbage Soup (Shchi),Vegetarian,Russian,soup
+308,Dal fry,Vegetarian,Indian,"Curry,Vegetarian,Cake"
+309,Dundee cake,Dessert,British,"heavy,Nutty,Fruity"
+310,Duck Confit,Miscellaneous,French,NaN
+311,Eton Mess,Dessert,British,"Dairy,Fruity,Desert,Treat,Speciality"
+312,Eccles Cakes,Dessert,British,"Snack,Treat"
+313,English Breakfast,Breakfast,British,Breakfast
+314,Escovitch Fish,Seafood,Jamaican,"Seafood,Spicy,Speciality,Easter"
+315,Egg Drop Soup,Vegetarian,Chinese,"Soup,Baking,Calorific"
+316,Egyptian Fatteh,Beef,Egyptian,NaN
+317,Eggplant Adobo,Vegetarian,Filipino,NaN
+318,Fish pie,Seafood,British,"Fish,Pie,Breakfast,Baking"
+319,French Lentils With Garlic and Thyme,Miscellaneous,French,Pulse
+320,Fettucine alfredo,Pasta,Italian,NaN
+321,Full English Breakfast,Breakfast,British,"Greasy,UnHealthy,HangoverFood,Calorific,Breakfast,BBQ"
+322,French Onion Soup,Side,French,Soup
+323,Flamiche,Vegetarian,French,Tart
+324,French Omelette,Miscellaneous,French,Egg
+325,Fish Stew with Rouille,Seafood,French,"Fish,Seafood,Shellfish"
+326,Fennel Dauphinoise,Side,French,"Pie,SideDish"
+327,Fruit and Cream Cheese Breakfast Pastries,Breakfast,American,"Breakfast,Summer"
+328,French Onion Chicken with Roasted Carrots & Mashed Potatoes,Chicken,American,NaN
+329,Ful Medames,Vegetarian,Egyptian,NaN
+330,Feteer Meshaltet,Side,Egyptian,NaN
+331,Fish fofos,Seafood,Portuguese,NaN
+332,Fresh sardines,Side,Croatian,Fresh
+333,Fettuccine Alfredo,Pasta,Italian,NaN
+334,Fish Soup (Ukha),Seafood,Russian,soup
+335,Garides Saganaki,Seafood,Greek,"Seafood,Shellfish"
+336,Grilled Mac and Cheese Sandwich,Pasta,American,NaN
+337,General Tso's Chicken,Chicken,Chinese,NaN
+338,Gigantes Plaki,Vegetarian,Greek,NaN
+339,Gołąbki (cabbage roll),Beef,Polish,NaN
+340,Grilled Portuguese sardines,Seafood,Portuguese,NaN
+341,Grilled eggplant with coconut milk,Vegetarian,Filipino,NaN
+342,Honey Teriyaki Salmon,Seafood,Japanese,"Fish,Breakfast,DateNight"
+343,Hot Chocolate Fudge,Dessert,American,"Snack,Chocolate"
+344,Hot and Sour Soup,Pork,Chinese,Soup
+345,Home-made Mandazi,Breakfast,Kenyan,"Baking,Breakfast,Egg,Warm,Snack"
+346,Honey Balsamic Chicken with Crispy Broccoli & Potatoes,Chicken,American,NaN
+347,Honey Yogurt Cheesecake,Dessert,Greek,NaN
+348,Ham hock colcannon,Pork,Irish,NaN
+349,Irish stew,Beef,Irish,"Stew,Meat"
+350,Jam Roly-Poly,Dessert,British,NaN
+351,Jerk chicken with rice & peas,Chicken,Jamaican,"Chilli,Curry"
+352,Jamaican Beef Patties,Beef,Jamaican,"Snack,Spicy"
+353,Japanese gohan rice,Side,Japanese,NaN
+354,Japanese Katsudon,Pork,Japanese,NaN
+355,Kapsalon,Lamb,Dutch,Snack
+356,Kentucky Fried Chicken,Chicken,American,"Meat,Spicy"
+357,Katsu Chicken curry,Chicken,Japanese,"Curry,Meat"
+358,Key Lime Pie,Dessert,American,"Cake,Pie,Desert,Fruity,Sour"
+359,Kidney Bean Curry,Vegetarian,Indian,Curry
+360,Kedgeree,Seafood,British,NaN
+361,Kung Pao Chicken,Chicken,Chinese,NaN
+362,Kung Po Prawns,Seafood,Chinese,BBQ
+363,Kafteji,Vegetarian,Tunisian,NaN
+364,Keleya Zaara,Lamb,Tunisian,NaN
+365,Kumpir,Side,Turkish,SideDish
+366,Krispy Kreme Donut,Dessert,American,NaN
+367,Koshari,Vegetarian,Egyptian,NaN
+368,Lamb tomato and sweet spices,Lamb,Moroccan,
+369,Lamb Biryani,Lamb,Indian,"Curry,Meat"
+370,Lamb Rogan josh,Lamb,Indian,"Curry,Spicy,Alcoholic"
+371,Laksa King Prawn Noodles,Seafood,Malaysian,"Shellfish,Seafood"
+372,Lamb Tagine,Lamb,Moroccan,NaN
+373,Lasagne,Pasta,Italian,NaN
+374,Lamb and Potato pie,Lamb,British,Pie
+375,Lancashire hotpot,Lamb,British,NaN
+376,Leblebi Soup,Vegetarian,Tunisian,Soup
+377,Lasagna Sandwiches,Pasta,American,Sandwich
+378,Lamb and Lemon Souvlaki,Lamb,Greek,NaN
+379,Lamb Tzatziki Burgers,Lamb,Greek,NaN
+380,Lamb Pilaf (Plov),Lamb,Russian,rice
+381,Mediterranean Pasta Salad,Seafood,Italian,"Pasta,Baking"
+382,Massaman Beef curry,Beef,Thai,Curry
+383,Mushroom & Chestnut Rotolo,Vegetarian,British,"Vegetarian,Nutty"
+384,Matar Paneer,Vegetarian,Indian,"Curry,Vegetarian"
+385,Minced Beef Pie,Beef,British,"Pie,Meat"
+386,McSinghs Scotch pie,Lamb,British,Pie
+387,Madeira Cake,Dessert,British,"Cake,Light,Baking,Desert"
+388,Montreal Smoked Meat,Beef,Canadian,"Speciality,Snack,StrongFlavor"
+389,Ma Po Tofu,Beef,Chinese,NaN
+390,Mbuzi Choma (Roasted Goat),Goat,Kenyan,"BBQ,Meat"
+391,Mince Pies,Dessert,British,Christmas
+392,Moussaka,Beef,Greek,NaN
+393,Mulukhiyah,Beef,Egyptian,NaN
+394,Mustard champ,Side,Irish,NaN
+395,Moroccan Carrot Soup,Vegetarian,Moroccan,NaN
+396,Mee goreng mamak,Seafood,Malaysian,NaN
+397,Mushroom soup with buckwheat,Side,Croatian,"Warming, Soup"
+398,Nutty Chicken Curry,Chicken,Indian,NaN
+399,New York cheesecake,Dessert,American,"Desert,Dairy,Pudding,Cake,Breakfast"
+400,Nanaimo Bars,Dessert,Canadian,"Treat,Snack,Dairy"
+401,Nasi lemak,Seafood,Malaysian,NaN
+402,Osso Buco alla Milanese,Miscellaneous,Italian,NaN
+403,Oxtail with broad beans,Beef,Jamaican,"Heavy,MainMeal,Speciality"
+404,Pad See Ew,Chicken,Thai,Pasta
+405,Potato Gratin with Chicken,Chicken,Unknown,NaN
+406,Poutine,Miscellaneous,Canadian,"UnHealthy,Speciality,HangoverFood"
+407,Pilchard puttanesca,Pasta,Italian,NaN
+408,Pork Cassoulet,Pork,French,NaN
+409,Pancakes,Dessert,American,"Breakfast,Desert,Sweet,Fruity"
+410,Pumpkin Pie,Dessert,American,"Halloween,Pie,Desert"
+411,Peanut Butter Cheesecake,Dessert,American,"Cake,Desert,Treat,UnHealthy,Speciality"
+412,Peach & Blueberry Grunt,Dessert,American,"Desert,Pudding,Fruity"
+413,Parkin Cake,Dessert,British,Caramel
+414,Pear Tarte Tatin,Dessert,French,"Tart,Glazed,Baking"
+415,Provençal Omelette Cake,Vegetarian,French,Egg
+416,Prawn & Fennel Bisque,Side,French,"Soup,Warm,Seafood,Shellfish"
+417,Pate Chinois,Beef,Canadian,"MainMeal,Alcoholic"
+418,Pouding chomeur,Dessert,Canadian,Pudding
+419,Peanut Butter Cookies,Dessert,American,"Breakfast,UnHealthy,BBQ"
+420,Pizza Express Margherita,Miscellaneous,Italian,NaN
+421,Paszteciki (Polish Pasties),Beef,Polish,NaN
+422,Pierogi (Polish Dumplings),Side,Polish,NaN
+423,Polskie Naleśniki (Polish Pancakes),Dessert,Polish,NaN
+424,Piri-piri chicken and slaw,Chicken,Portuguese,NaN
+425,Portuguese prego with green piri-piri,Beef,Portuguese,NaN
+426,Portuguese barbecued pork (Febras assadas),Pork,Portuguese,NaN
+427,Portuguese fish stew (Caldeirada de peixe),Seafood,Portuguese,NaN
+428,Portuguese custard tarts,Dessert,Portuguese,NaN
+429,Potato Salad (Olivier Salad),Vegetarian,Russian,salad
+430,Apple Frangipan Tart,Dessert,British,"Tart,Baking,Fruity"
+431,Apple & Blackberry Crumble,Dessert,British,Pudding
+432,Apam balik,Dessert,Malaysian,NaN
+433,Ayam Percik,Chicken,Malaysian,NaN
+434,Bakewell tart,Dessert,British,"Tart,Baking,Alcoholic"
+435,Bread and Butter Pudding,Dessert,British,"Pudding,Brunch"
+436,Beef Wellington,Beef,British,"Meat,Stew"
+437,Baingan Bharta,Vegetarian,Indian,"Spicy,Bun,Calorific"
+438,Beef Brisket Pot Roast,Beef,American,Meat
+439,Beef Sunday Roast,Beef,British,MainMeal
+440,Braised Beef Chilli,Beef,Mexican,NaN
+441,Beef stroganoff,Beef,Russian,NaN
+442,Broccoli & Stilton soup,Starter,British,NaN
+443,Bean & Sausage Hotpot,Miscellaneous,British,NaN
+444,Banana Pancakes,Dessert,American,"Breakfast,Desert,Sweet"
+445,Beef Dumpling Stew,Beef,British,"Stew,Baking"
+446,Beef and Mustard Pie,Beef,British,"Meat,Pie"
+447,Beef and Oyster pie,Beef,British,Pie
+448,Blackberry Fool,Dessert,British,"Desert,Summer,Fruity,Dairy"
+449,Battenberg Cake,Dessert,British,"Cake,Sweet"
+450,Beef Bourguignon,Beef,French,NaN
+451,Brie wrapped in prosciutto & brioche,Side,French,"SideDish,Treat,Baking"
+452,Boulangère Potatoes,Side,French,SideDish
+453,BeaverTails,Dessert,Canadian,"Treat,Pudding,Speciality"
+454,Brown Stew Chicken,Chicken,Jamaican,Stew
+455,Beef Lo Mein,Beef,Chinese,NaN
+456,Baked salmon with fennel & tomatoes,Seafood,British,"Paleo,Keto,HighFat,Baking,LowCarbs"
+457,Budino Di Ricotta,Dessert,Italian,"Cake,Baking,Desert,Sweet,Alcoholic,Calorific"
+458,Breakfast Potatoes,Breakfast,Canadian,"Breakfast,Brunch,"
+459,Bitterballen (Dutch meatballs),Beef,Dutch,"DinnerParty,HangoverFood,Alcoholic"
+460,BBQ Pork Sloppy Joes,Pork,American,NaN
+461,"Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",Beef,Vietnamese,NaN
+462,Big Mac,Beef,American,NaN
+463,Bigos (Hunters Stew),Pork,Polish,NaN
+464,Boxty Breakfast,Pork,Irish,NaN
+465,Beef Rendang,Beef,Malaysian,NaN
+466,Burek,Side,Croatian,"Streetfood, Onthego"
+467,Beef Mechado,Beef,Filipino,"Stew, Warming"
+468,Bistek,Beef,Filipino,NaN
+469,Beef Caldereta,Beef,Filipino,NaN
+470,Beef Asado,Beef,Filipino,NaN
+471,Bread omelette,Breakfast,Indian,NaN
+472,Beetroot Soup (Borscht),Vegetarian,Ukrainian,soup
+473,Blini Pancakes,Side,Russian,pancake
+474,Chicken Enchilada Casserole,Chicken,Mexican,"Casserole,Cheasy,Meat"
+475,Chocolate Gateau,Dessert,French,"Cake,Chocolate,Desert,Pudding"
+476,Cream Cheese Tart,Starter,Unknown,"Tart,Savory"
+477,Christmas Pudding Flapjack,Dessert,British,"Snack,Cake"
+478,Chicken Handi,Chicken,Indian,NaN
+479,Chicken Alfredo Primavera,Chicken,Italian,"Pasta,Meat,Dairy"
+480,Chicken Fajita Mac and Cheese,Chicken,American,"Pasta,Cheasy,Meat"
+481,Cajun spiced fish tacos,Seafood,Mexican,"Spicy,Fish"
+482,Crock Pot Chicken Baked Tacos,Chicken,Mexican,NaN
+483,Chicken Karaage,Chicken,Japanese,NaN
+484,Coq au vin,Chicken,French,NaN
+485,Chilli prawn linguine,Pasta,Italian,NaN
+486,Clam chowder,Starter,American,NaN
+487,Creamy Tomato Soup,Starter,British,Baking
+488,Chicken & mushroom Hotpot,Chicken,British,NaN
+489,Chicken Couscous,Chicken,Moroccan,NaN
+490,Chocolate Avocado Mousse,Dessert,British,NaN
+491,Choc Chip Pecan Pie,Dessert,American,"Pie,Desert,Sweet,Nutty"
+492,Chocolate Raspberry Brownies,Dessert,American,"Chocolate,Desert,Snack"
+493,Chickpea Fajitas,Vegetarian,Mexican,Vegetarian
+494,Chicken Ham and Leek Pie,Chicken,British,"Pie,Meat"
+495,Chicken Parmentier,Chicken,French,"Meat,Dairy"
+496,Carrot Cake,Dessert,British,"Cake,Treat,Sweet"
+497,Chelsea Buns,Dessert,British,"Bun,Baking,Treat"
+498,Chocolate Souffle,Dessert,French,"DinnerParty,Desert,Pudding,Chocolate"
+499,Chinon Apple Tarts,Dessert,French,"Tart,Baking"
+500,Chicken Marengo,Chicken,French,NaN
+501,Canadian Butter Tarts,Dessert,Canadian,"Speciality,Snack,Desert,Pudding"
+502,Chicken Basquaise,Chicken,French,Meat
+503,Callaloo Jamaican Style,Miscellaneous,Jamaican,Savory
+504,Chicken Congee,Chicken,Chinese,NaN
+505,Chocolate Caramel Crispy,Dessert,British,"Sweet,Snack,Treat,Tart,Alcoholic,BBQ"
+506,Chakchouka ,Miscellaneous,Tunisian,NaN
+507,Cashew Ghoriba Biscuits,Dessert,Tunisian,NaN
+508,Corba,Side,Turkish,Soup
+509,Classic Christmas pudding,Dessert,British,Christmas
+510,Christmas Pudding Trifle,Dessert,British,Christmas
+511,Christmas cake,Dessert,British,Christmas
+512,Corned Beef and Cabbage,Beef,Irish,
+513,Crispy Sausages and Greens,Pork,Irish,NaN
+514,Chicken Quinoa Greek Salad,Chicken,Greek,NaN
+515,Chick-Fil-A Sandwich,Chicken,American,NaN
+516,Coddled pork with cider,Pork,Irish,NaN
+517,Cevapi Sausages,Beef,Croatian,Sausages
+518,Croatian lamb peka,Beef,Croatian,NaN
+519,Croatian Bean Stew,Beef,Croatian,"Warming, Soup, Beans"
+520,Chivito uruguayo,Beef,Unknown,NaN
+521,Crispy Eggplant,Vegetarian,Filipino,NaN
+522,Cabbage Soup (Shchi),Vegetarian,Russian,soup
+523,Dal fry,Vegetarian,Indian,"Curry,Vegetarian,Cake"
+524,Dundee cake,Dessert,British,"heavy,Nutty,Fruity"
+525,Duck Confit,Miscellaneous,French,NaN
+526,Eton Mess,Dessert,British,"Dairy,Fruity,Desert,Treat,Speciality"
+527,Eccles Cakes,Dessert,British,"Snack,Treat"
+528,English Breakfast,Breakfast,British,Breakfast
+529,Escovitch Fish,Seafood,Jamaican,"Seafood,Spicy,Speciality,Easter"
+530,Egg Drop Soup,Vegetarian,Chinese,"Soup,Baking,Calorific"
+531,Egyptian Fatteh,Beef,Egyptian,NaN
+532,Eggplant Adobo,Vegetarian,Filipino,NaN
+533,Fish pie,Seafood,British,"Fish,Pie,Breakfast,Baking"
+534,French Lentils With Garlic and Thyme,Miscellaneous,French,Pulse
+535,Fettucine alfredo,Pasta,Italian,NaN
+536,Full English Breakfast,Breakfast,British,"Greasy,UnHealthy,HangoverFood,Calorific,Breakfast,BBQ"
+537,French Onion Soup,Side,French,Soup
+538,Flamiche,Vegetarian,French,Tart
+539,French Omelette,Miscellaneous,French,Egg
+540,Fish Stew with Rouille,Seafood,French,"Fish,Seafood,Shellfish"
+541,Fennel Dauphinoise,Side,French,"Pie,SideDish"
+542,Fruit and Cream Cheese Breakfast Pastries,Breakfast,American,"Breakfast,Summer"
+543,French Onion Chicken with Roasted Carrots & Mashed Potatoes,Chicken,American,NaN
+544,Ful Medames,Vegetarian,Egyptian,NaN
+545,Feteer Meshaltet,Side,Egyptian,NaN
+546,Fish fofos,Seafood,Portuguese,NaN
+547,Fresh sardines,Side,Croatian,Fresh
+548,Fettuccine Alfredo,Pasta,Italian,NaN
+549,Fish Soup (Ukha),Seafood,Russian,soup
+550,Garides Saganaki,Seafood,Greek,"Seafood,Shellfish"
+551,Grilled Mac and Cheese Sandwich,Pasta,American,NaN
+552,General Tso's Chicken,Chicken,Chinese,NaN
+553,Gigantes Plaki,Vegetarian,Greek,NaN
+554,Gołąbki (cabbage roll),Beef,Polish,NaN
+555,Grilled Portuguese sardines,Seafood,Portuguese,NaN
+556,Grilled eggplant with coconut milk,Vegetarian,Filipino,NaN
+557,Honey Teriyaki Salmon,Seafood,Japanese,"Fish,Breakfast,DateNight"
+558,Hot Chocolate Fudge,Dessert,American,"Snack,Chocolate"
+559,Hot and Sour Soup,Pork,Chinese,Soup
+560,Home-made Mandazi,Breakfast,Kenyan,"Baking,Breakfast,Egg,Warm,Snack"
+561,Honey Balsamic Chicken with Crispy Broccoli & Potatoes,Chicken,American,NaN
+562,Honey Yogurt Cheesecake,Dessert,Greek,NaN
+563,Ham hock colcannon,Pork,Irish,NaN
+564,Irish stew,Beef,Irish,"Stew,Meat"
+565,Jam Roly-Poly,Dessert,British,NaN
+566,Jerk chicken with rice & peas,Chicken,Jamaican,"Chilli,Curry"
+567,Jamaican Beef Patties,Beef,Jamaican,"Snack,Spicy"
+568,Japanese gohan rice,Side,Japanese,NaN
+569,Japanese Katsudon,Pork,Japanese,NaN
+570,Kapsalon,Lamb,Dutch,Snack
+571,Kentucky Fried Chicken,Chicken,American,"Meat,Spicy"
+572,Katsu Chicken curry,Chicken,Japanese,"Curry,Meat"
+573,Key Lime Pie,Dessert,American,"Cake,Pie,Desert,Fruity,Sour"
+574,Kidney Bean Curry,Vegetarian,Indian,Curry
+575,Kedgeree,Seafood,British,NaN
+576,Kung Pao Chicken,Chicken,Chinese,NaN
+577,Kung Po Prawns,Seafood,Chinese,BBQ
+578,Kafteji,Vegetarian,Tunisian,NaN
+579,Keleya Zaara,Lamb,Tunisian,NaN
+580,Kumpir,Side,Turkish,SideDish
+581,Krispy Kreme Donut,Dessert,American,NaN
+582,Koshari,Vegetarian,Egyptian,NaN
+583,Lamb tomato and sweet spices,Lamb,Moroccan,
+584,Lamb Biryani,Lamb,Indian,"Curry,Meat"
+585,Lamb Rogan josh,Lamb,Indian,"Curry,Spicy,Alcoholic"
+586,Laksa King Prawn Noodles,Seafood,Malaysian,"Shellfish,Seafood"
+587,Lamb Tagine,Lamb,Moroccan,NaN
+588,Lasagne,Pasta,Italian,NaN
+589,Lamb and Potato pie,Lamb,British,Pie
+590,Lancashire hotpot,Lamb,British,NaN
+591,Leblebi Soup,Vegetarian,Tunisian,Soup
+592,Lasagna Sandwiches,Pasta,American,Sandwich
+593,Lamb and Lemon Souvlaki,Lamb,Greek,NaN
+594,Lamb Tzatziki Burgers,Lamb,Greek,NaN
+595,Lamb Pilaf (Plov),Lamb,Russian,rice
+596,Mediterranean Pasta Salad,Seafood,Italian,"Pasta,Baking"
+597,Massaman Beef curry,Beef,Thai,Curry
+598,Mushroom & Chestnut Rotolo,Vegetarian,British,"Vegetarian,Nutty"
+599,Matar Paneer,Vegetarian,Indian,"Curry,Vegetarian"
+600,Minced Beef Pie,Beef,British,"Pie,Meat"
+601,McSinghs Scotch pie,Lamb,British,Pie
+602,Madeira Cake,Dessert,British,"Cake,Light,Baking,Desert"
+603,Montreal Smoked Meat,Beef,Canadian,"Speciality,Snack,StrongFlavor"
+604,Ma Po Tofu,Beef,Chinese,NaN
+605,Mbuzi Choma (Roasted Goat),Goat,Kenyan,"BBQ,Meat"
+606,Mince Pies,Dessert,British,Christmas
+607,Moussaka,Beef,Greek,NaN
+608,Mulukhiyah,Beef,Egyptian,NaN
+609,Mustard champ,Side,Irish,NaN
+610,Moroccan Carrot Soup,Vegetarian,Moroccan,NaN
+611,Mee goreng mamak,Seafood,Malaysian,NaN
+612,Mushroom soup with buckwheat,Side,Croatian,"Warming, Soup"
+613,Nutty Chicken Curry,Chicken,Indian,NaN
+614,New York cheesecake,Dessert,American,"Desert,Dairy,Pudding,Cake,Breakfast"
+615,Nanaimo Bars,Dessert,Canadian,"Treat,Snack,Dairy"
+616,Nasi lemak,Seafood,Malaysian,NaN
+617,Osso Buco alla Milanese,Miscellaneous,Italian,NaN
+618,Oxtail with broad beans,Beef,Jamaican,"Heavy,MainMeal,Speciality"
+619,Pad See Ew,Chicken,Thai,Pasta
+620,Potato Gratin with Chicken,Chicken,Unknown,NaN
+621,Poutine,Miscellaneous,Canadian,"UnHealthy,Speciality,HangoverFood"
+622,Pilchard puttanesca,Pasta,Italian,NaN
+623,Pork Cassoulet,Pork,French,NaN
+624,Pancakes,Dessert,American,"Breakfast,Desert,Sweet,Fruity"
+625,Pumpkin Pie,Dessert,American,"Halloween,Pie,Desert"
+626,Peanut Butter Cheesecake,Dessert,American,"Cake,Desert,Treat,UnHealthy,Speciality"
+627,Peach & Blueberry Grunt,Dessert,American,"Desert,Pudding,Fruity"
+628,Parkin Cake,Dessert,British,Caramel
+629,Pear Tarte Tatin,Dessert,French,"Tart,Glazed,Baking"
+630,Provençal Omelette Cake,Vegetarian,French,Egg
+631,Prawn & Fennel Bisque,Side,French,"Soup,Warm,Seafood,Shellfish"
+632,Pate Chinois,Beef,Canadian,"MainMeal,Alcoholic"
+633,Pouding chomeur,Dessert,Canadian,Pudding
+634,Peanut Butter Cookies,Dessert,American,"Breakfast,UnHealthy,BBQ"
+635,Pizza Express Margherita,Miscellaneous,Italian,NaN
+636,Paszteciki (Polish Pasties),Beef,Polish,NaN
+637,Pierogi (Polish Dumplings),Side,Polish,NaN
+638,Polskie Naleśniki (Polish Pancakes),Dessert,Polish,NaN
+639,Piri-piri chicken and slaw,Chicken,Portuguese,NaN
+640,Portuguese prego with green piri-piri,Beef,Portuguese,NaN
+641,Portuguese barbecued pork (Febras assadas),Pork,Portuguese,NaN
+642,Portuguese fish stew (Caldeirada de peixe),Seafood,Portuguese,NaN
+643,Portuguese custard tarts,Dessert,Portuguese,NaN
+644,Potato Salad (Olivier Salad),Vegetarian,Russian,salad
+645,Rigatoni with fennel sausage sauce,Lamb,Italian,Pasta
+646,Rocky Road Fudge,Dessert,American,"Chocolate,Snack,Sweet,Baking"
+647,Recheado Masala Fish,Seafood,Indian,"Fish,Spicy"
+648,Ribollita,Vegetarian,Italian,Vegetarian
+649,"Roasted Eggplant With Tahini, Pine Nuts, and Lentils",Vegetarian,American,"Vegetarian,Pulse,Nutty"
+650,Rock Cakes,Dessert,British,"Baking,Cake"
+651,Ratatouille,Vegetarian,French,"Vegetables,SideDish"
+652,Rappie Pie,Chicken,Canadian,Pie
+653,Red Peas Soup,Beef,Jamaican,"Soup,SideDish"
+654,Roast fennel and aubergine paella,Vegan,Spanish,"Vegan,Paella"
+655,Rosół (Polish Chicken Soup),Chicken,Polish,NaN
+656,Rogaliki (Polish Croissant Cookies),Dessert,Polish,NaN
+657,Roti john,Beef,Malaysian,NaN
+658,Spaghetti Bolognese,Beef,Italian,"Pasta,Meat"
+659,Spicy Arrabiata Penne,Vegetarian,Italian,"Pasta,Curry"
+660,Smoky Lentil Chili with Squash,Vegetarian,British,Pulse
+661,Sticky Toffee Pudding Ultimate,Dessert,British,"Pudding,Desert,Cake,Dairy"
+662,Spicy North African Potato Salad,Vegetarian,Moroccan,"Vegetarian,Spicy"
+663,"Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",Vegetarian,American,Vegetarian
+664,Salmon Prawn Risotto,Seafood,Italian,Fish
+665,Salted Caramel Cheescake,Dessert,American,NaN
+666,Seafood fideuà,Seafood,Spanish,NaN
+667,Spinach & Ricotta Cannelloni,Vegetarian,Italian,NaN
+668,Squash linguine,Vegetarian,Italian,"Pasta,Light"
+669,Spanish Tortilla,Vegetarian,Spanish,"Egg,Light"
+670,Steak and Kidney Pie,Beef,British,Pie
+671,Sticky Toffee Pudding,Dessert,British,"Pudding,Cake,Desert"
+672,Spotted Dick,Dessert,British,"Fruity,Pudding,Desert"
+673,Summer Pudding,Dessert,British,Summer
+674,Summer Pistou,Vegetarian,French,NaN
+675,Split Pea Soup,Side,Canadian,"Soup,Warm"
+676,Sugar Pie,Dessert,Canadian,"Pie,Desert"
+677,Steak Diane,Beef,French,"DateNight,Expensive,Meat,MainMeal,Cheasy"
+678,Saltfish and Ackee,Seafood,Jamaican,Speciality
+679,Sweet and Sour Pork,Pork,Chinese,Sweet
+680,Szechuan Beef,Beef,Chinese,NaN
+681,Shrimp Chow Fun,Seafood,Chinese,NaN
+682,Salmon Avocado Salad,Seafood,British,"Paleo,Keto,LowCarbs,Salad,Alcoholic,Halloween,"
+683,Salmon Eggs Eggs Benedict,Breakfast,American,"Bun,Brunch"
+684,Shakshuka,Vegetarian,Egyptian,"Egg,Brunch,Breakfast"
+685,Smoked Haddock Kedgeree,Breakfast,Indian,"Brunch,Fish,Fusion"
+686,Stamppot,Pork,Dutch,"Savory,Breakfast"
+687,Snert (Dutch Split Pea Soup),Side,Dutch,"Soup,Cake"
+688,Spaghetti alla Carbonara,Pasta,Italian,"Pasta,BBQ,Breakfast"
+689,Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots,Beef,American,NaN
+690,Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini,Pork,American,NaN
+691,Strawberry Rhubarb Pie,Dessert,British,"Pudding,Pie,Baking,Fruity,Glazed"
+692,Stuffed Lamb Tomatoes,Lamb,Greek,NaN
+693,Sledz w Oleju (Polish Herrings),Seafood,Polish,NaN
+694,Shawarma,Chicken,Egyptian,NaN
+695,Spring onion and prawn empanadas,Seafood,Portuguese,NaN
+696,Seri muka kuih,Dessert,Malaysian,NaN
+697,Sushi,Seafood,Japanese,NaN
+698,Stuffed Bell Peppers with Quinoa and Black Beans,Vegetarian,Mexican,NaN
+699,Strawberries Romanoff,Dessert,Russian,fruity
+700,Teriyaki Chicken Casserole,Chicken,Japanese,"Meat,Casserole"
+701,Tandoori chicken,Chicken,Indian,"Spicy,Meat"
+702,Thai Green Curry,Chicken,Thai,"Curry,Mild"
+703,Toad In The Hole,Pork,British,NaN
+704,Turkey Meatloaf,Miscellaneous,British,Alcoholic
+705,Tuna Nicoise,Seafood,French,NaN
+706,Tahini Lentils,Vegetarian,Moroccan,Pulse
+707,Three Fish Pie,Seafood,British,"Fish,Seafood,Dairy,Pie"
+708,Treacle Tart,Dessert,British,Tart
+709,Tarte Tatin,Dessert,French,"Treat,Tart,Desert,DinnerParty"
+710,Three-cheese souffles,Miscellaneous,French,Baking
+711,Tourtiere,Pork,Canadian,"Pie,MainMeal,BBQ,Cake"
+712,Timbits,Dessert,Canadian,"Snack,Treat"
+713,Tunisian Orange Cake,Dessert,Tunisian,NaN
+714,Tunisian Lamb Soup,Lamb,Tunisian,Soup
+715,Tuna and Egg Briks,Seafood,Tunisian,NaN
+716,Tamiya,Vegetarian,Egyptian,NaN
+717,Tonkatsu pork,Pork,Japanese,NaN
+718,Traditional Croatian Goulash,Beef,Croatian,Soup
+719,Tortang Talong,Vegetarian,Filipino,NaN
+720,Vegan Lasagna,Vegan,Italian,"Vegan,Pasta"
+721,Vegan Chocolate Cake,Vegan,American,"Vegan,Chocolate,Cake"
+722,Vietnamese Grilled Pork (bun-thit-nuong),Pork,Vietnamese,NaN
+723,Venetian Duck Ragu,Pasta,Italian,NaN
+724,Vegetarian Casserole,Vegetarian,British,"Casserole,Vegetarian"
+725,Vegetarian Chilli,Vegetarian,British,Chilli
+726,Vegetable Shepherd's Pie,Beef,Irish,Alcoholic
+727,White chocolate creme brulee,Dessert,French,"Desert,DinnerParty,Pudding"
+728,Wontons,Pork,Chinese,MainMeal
+729,Walnut Roll Gužvara,Dessert,Croatian,Nutty
+730,Yaki Udon,Vegetarian,Japanese,LowCalorie
