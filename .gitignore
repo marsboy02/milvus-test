@@ -5,3 +5,5 @@ volumes/
 venv/
 
 .env
+
+.DS_Store
