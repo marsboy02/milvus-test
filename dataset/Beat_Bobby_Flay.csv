@@ -1,0 +1,307 @@
+﻿num_overall,num_within_season,title,airdate,ingredients,dish,winner,season,guest1,guest2,guest3,contestant1,contestant2,judge1,judge2,judge3
+1,1,"""Grueneberg and Nunziata""","August 24, 2013",zucchini,chicken parm,Sarah Grueneberg,1,Alex Guarnaschelli,Jeff Mauro,,Alberico Nunziata,Sarah Grueneberg,Billy Grant,Marissa May,Lauren DeMaio
+2,2,"""Welcome to New York!""","March 3, 2014",skirt steak,shrimp and grits,Bobby Flay,1,Sunny Anderson,Jonathan Waxman,,Jennifer Nguyen,Anthony Lamas,Cobi Levy,Kelsey Nixon,Roberto Treviño
+3,3,"""Farmer and the Belle""","March 6, 2014",red prawn,chicken and waffles,Bobby Flay,1,Michael Symon,Simon Majumdar,,Matthew Raiford,Karen Akunowicz,Corby Kummer,Melba Wilson,Harold Dieterle
+4,4,"""Old Dog, New Tricks""","March 13, 2014",cauliflower,meat tacos,Brian Tsao,1,Alex Guarnaschelli,Anne Burrell,,Adam Harvey,Brian Tsao,Michael Chernow,Daniel Holzman,Wylie Dufresne
+5,5,"""Fighting Irish""","March 20, 2014",scallops,bangers & mash,Bobby Flay,1,Giada De Laurentiis,Mo Rocca,,Steven McHugh,Brian Young,Ed Levine,Madison Cowan,Nils Norén
+6,6,"""Beauty and the Feast""","March 27, 2014",eggplant,burger,Bobby Flay,1,Eden Grinshpan,Justin Warner,,Rochelle Bilow,Paul Denamiel,George Mendes,Michele Ragussis,Hugh Mangum
+7,7,"""Eat, Flay, Love""","April 3, 2014",brussels sprouts,mac & cheese,Bobby Flay,1,Alex Guarnaschelli,Jack McDavid,,Christopher Lee,Kimberly Van Kline,Todd Coleman,Marco Canora,Frank Prisinzano
+8,8,"""Up in Smoke""","April 10, 2014",poblano chili pepper,crab cakes,Bobby Flay,1,Ali Wentworth,Michael Symon,,Shannon Barr,Kamal Rose,Ed McFarland,Alain Allegretti,Brian Duffy
+9,9,"""Old School/New School""","April 17, 2014",pineapple,meatloaf,Bobby Flay,1,Katie Lee,Scott Conant,,Brooke Mallory,Andrew Evans,Joey Campenaro,Aliya LeeKong,Samus Mullen
+10,1,"""They Must Be Giants""","July 31, 2014",lamb chops,linguine & clams,Bobby Flay,2,Geoffrey Zakarian,Scott Conant,,Andy Saint-Ange,Bruce Kalman,Donatella Arpaia,Ed McFarland,Leah Cohen
+11,2,"""East vs West""","August 7, 2014",fresh squid,fried chicken sandwich,Neal Fraser,2,Giada De Laurentiis,Michael Symon,,Jason Santos,Neal Fraser,Drew Nieporent,Anita Lo,Harold Dieterle
+12,3,"""Bring Home the Bacon""","August 14, 2014",broccoli,New England clam chowder,Bobby Flay,2,Sunny Anderson,Jet Tila,,Matthew Britt,Tyler Anderson,Wylie Dufresne,Emily Fleischaker,Charlie Palmer
+13,4,"""Battle of Brooklyn""","August 21, 2014",arctic char,Korean short ribs,Bobby Flay,2,Anne Burrell,Chris Santos,,Jennifer Cole Ruiz,Jordin Andino,Jonathon Sawyer,Roberto Trevino,Andy Ricker
+14,5,"""Out of the Pan/Into the Fire""","August 28, 2014",pork chops,falafel,Rina Younan,2,Daphne Oz,Alton Brown,,Carlos Serrano,Rina Younan,Michael Psilakis,Ivy Stark,Eugene Remm
+15,6,"""Ladies First""","September 4, 2014",oysters,beef stroganoff,Bobby Flay,2,Katie Lee,Marc Murphy,,Esther Choi,Natasha Pogrebinsky,Michael Ferraro,Kristin Sollenne,Jeff Zalanick
+16,7,"""Risky Business""","September 11, 2014",ricotta cheese,Cuban sandwich,Bobby Flay,2,Ted Allen,Alex Guarnaschelli,,Kyle Williams,Jeremiah Bullfrog,Michael Psilakis,Joey Campanaro,Joshua David Stein
+17,8,"""Smile Now, Cry Later""","September 18, 2014",sweet potato,bouillabaise,Bobby Flay,2,Judah Friedlander,Michael Symon,,Billy Olivia,Jason Fullilove,Leah Cohen,George Mendes,Dominique Crenn
+18,9,"""Ruling with an Iron Fist""","September 25, 2014",beets,wienerschnitzel,Tim Wiechmann,2,Simon Majumdar,Donatella Arpaia,,Stephan Durand,Tim Wiechmann,April Bloomfield,Scott Gerber,Maureen Petrosky
+19,10,"""Against All Odds""","October 2, 2014",corn,French toast,Bobby Flay,2,Alton Brown,Anne Burrell,,Florian Wehrli,Heather West,Terrance Brennan,Maureen Petrosky,Glenn Harris
+20,11,"""Sun Up to Show Down""","October 9, 2014",wild king salmon,eggplant Parmesan,Bobby Flay,2,Sunny Anderson,Katie Lee,,Anna Maria Santorelli,Mychael Bonner,Harold Moore,Tracy Weiss,Ryan Scott
+21,12,"""Only in New York""","October 16, 2014",fresh atlantic cod,chicken curry,Palak Patel,2,Alex Guarnaschelli,Michael Symon,,Daniel Holzman,Palak Patel,Hugh Mangum,Todd Coleman,Andrew Carmellini
+22,13,"""Orange is the New Beat""","October 23, 2014",pumpkin puree,pasta Bolognese,Bobby Flay,2,Geoffrey Zakarian,Jeff Mauro,,James Gillespie,Rob Mafucci,Frank Prisinzano,Candice Kuman,Lauren Hirschberg
+23,1,"""An International Affair""","October 30, 2014",egg,ravioli,Bobby Flay,3,Amanda Freitag,Ted Allen,,Patrick D'Andrea,Rob Feenie,Mark Birnbaum,Franklin Becker,Andrew Friedman
+24,2,"""Surf and Turf""","November 6, 2014",green peas,fish sandwich,Bobby Flay,3,Alex Guarnaschelli,Anne Burrell,,Jake Gandolfo,Rafael Lunetta,Ed Brown,Ken Oringer,Suvir Saran
+25,3,"""Gobbled Up""","November 13, 2014",cranberries,duck a l'orange,Bobby Flay,3,Geoffrey Zakarian,Chrissy Teigen,,Julietta Ballesteros,Kat Ploszaj,Seamus Mullen,Shaun Hergatt,David Leite
+26,4,"""Shaken Not Stirred""","November 20, 2014",chorizo,gnocchi,Kristine Kittrell,3,Giada De Laurentiis,Michael Symon,,Giulio Adriani,Kristine Kittrell,Frank Prisinzano,Tricia Williams,Brian Duffy
+27,5,"""By Land or by Sea""","December 4, 2014",marcona almonds,fish and chips,Bobby Flay,3,Brooke Burke-Charvet,Alton Brown,,Alex Diaz,Jeremy Hanlon,Seamus Mullen,Lourdes Castro,Madison Cowan
+28,6,"""Bells will be Ringing""","December 11, 2014",pears,cornish game hen,Bobby Flay,3,Anne Burrell,Scott Conant,,Mark Allen,Blythe Beck,Aliya Leekong,Greg Bresnitz,Darin Bresnitz
+29,7,"""Heat in the Street""","December 18, 2014",pancetta,pork chop,Bobby Flay,3,Scott Conant,Alex Guarnaschelli,,Damien O'Donnell,Adrian Leon,Phillip Lee,Ariane Daguin,Ivan Orkin
+30,8,"""Roll the Dice""","December 25, 2014",pork tenderloin,lobster roll,John Miele,3,Michael Voltaggio,Simon Majumdar,,Evan Hennessey,John Miele,Ken Friedman,Ed McFarland,Donald Brophy
+31,9,"""Pot Calling the Kettle Beat""","January 1, 2015",goat cheese,chicken pot pie,Bobby Flay,3,Jonathan Waxman,Aaron Sanchez,,Herb Wilson,Robin King,Wylie Dufresne,Anita Lo,Josh Capon
+32,10,"""New Kids on the Butcher Block""","January 8, 2015",ground beef,BLT,Bobby Flay,3,Jeff Mauro,Justin Warner,,Malcolm Mitchell,Daniela D'Ambrosio,Joey Campanaro,Madison Cowan,Mike Birnbaum
+33,11,"""Clash of the Culinary Titans""","January 15, 2015",pizza dough,steak and eggs,Victor Albisu,3,Sunny Anderson,Ted Allen,,Eddie Tangredi,Victor Albisu,Michael Stillman,Ariane Daguin,George Motz
+34,12,"""Defend the House""","January 29, 2015",hanger steak,biscuits & gravy,Bobby Flay,3,Alton Brown,Alex Guarnaschelli,,Alina Eisenhauer,Joe Dobias,Sam Talbot,Aliya Leekong,Alex Garcia
+35,13,"""Fry Me a River""","February 5, 2015",tomatoes,chicken wings,Bobby Flay,3,Scott Conant,Geoffrey Zakarian,,Robert Hesse,Michael Jenkins,Corby Kummer,Terrance Brennon,Drew Nieporent
+36,1,"""Foreign Relations""","March 5, 2015",porterhouse steak,pot stickers,Taichi Kitamura,4,Giada De Laurentiis,Michael Symon,,David Decastro,Taichi Kitamura,Ed Schoenfeld,Kristin Sollenne,Harold Dieterle
+37,2,"""Fire in the Hole""","March 12, 2015",chickpeas,paella,Bobby Flay,4,Alex Guarnaschelli,Katie Lee,,Chris Lamphier,Jen Biesty,George Mendes,Aliya Leekong,Drew Nieporent
+38,3,"""To Contend and Serve""","March 19, 2015",italian sausage,catfish po' boy,Bobby Flay,4,Anne Burrell,Geoffrey Zakarian,,Noah Schwartz,Carla Harris,Ed McFarland,Lourdes Castro,Rick Moonen
+39,4,"""Culinary Validation""","March 26, 2015",kielbasa,arroz con pollo,Bobby Flay,4,Scott Conant,Natalie Morales,,Adam Halberg,Joe Adorno,Jeff Zalaznick,Kristin Sollenne,Rick Moonen
+40,5,"""Raising the Bar""","April 2, 2015",shiitake mushrooms,meat arepas,Kelvin Fernandez,4,Sunny Anderson,Allison Sweeney,,Chris Kobayashi,Kelvin Fernandez,Ivan Orkin,Roberto Treviño,Ming Tsai
+41,6,"""No Training Wheels""","April 9, 2015",feta cheese,fried fish tacos,Johnny Zone,4,Alex Guarnaschelli,David Burtka,,Jumoke Jackson,Johnny Zone,Luke Holden,Mary Sue Milliken,Suvir Saran
+42,7,"""Best Laid Plans""","April 16, 2015",sardines,cedar plank salmon,Bobby Flay,4,Katie Lee,Simon Majumdar,,Keri Moser,Clark Frasier,Donal Brophy,Tricia WIlliams,Ken Friedman
+43,8,"""East Coast's Finest""","April 23, 2015",mussels,veal milanese,Bobby Flay,4,Curtis Stone,Michael Symon,,Luke Venner,Antonio Franco,Frank Pellegrino Jr.,Laura Vitale,Michael Psilakis
+44,9,"""Out on a Limb""","April 30, 2015",fluke,lamb chops,Bobby Flay,4,Ted Allen,Tamron Hall,,John Wassil,Katherine Humphus,Harold Moore,Ariane Daguin,Todd Coleman
+45,10,"""Any Given Sunday""","May 7, 2015",bacon,croque-monsieur,Bobby Flay,4,Chris Santos,Geoffrey Zakarian,,Kathy Cary,Shanna O'Hea,Michael Ferraro,Susan Ungaro,Terrance Brennan
+46,11,"""Homeland""","May 14, 2015",oranges,bibimbap,Thoa Nguyen,4,Anne Burrell,Scott Conant,,Jason Hippen,Thoa Nguyen,David Massoni,Anita Lo,Ivan Orkin
+47,12,"""Humble Beginnings""","May 21, 2015",fresh mozzarella,étouffée,Bobby Flay,4,Sunny Anderson,Simon Majumdar,,Eugene Jones,Christopher Wall,Ed McFarlnd,Alexander Smalls,Frank Prisinzano
+48,13,"""Getting Grilled""","May 28, 2015",chicken,steak and potatoes,Bobby Flay,4,Michael Symon,Debi Mazar,,Dominic Zumpano,Angelo Sosa,Michael Stillman,Hugh Mangum,Michael Lomonaco
+49,1,"""No Fear""","June 4, 2015",halibut,corn-beef hash,Bobby Flay,5,Damaris Phillips,Alex Guarnaschelli,,Lawrence Males,Will Gilson,Roberto Treviño,Lourdes Castro,Hugh Mangum
+50,2,"""Who's Your Daddy?""","June 11, 2015",lobster,sausage & peppers,Sam Marvin,5,Scott Conant,Haylie Duff,,Gregory Torrech,Sam Marvin,Frank Prisinzano,Roberto Treviño,April Bloomfield
+51,3,"""No Formalities""","June 18, 2015",littleneck clams,pork roulade,Bobby Flay,5,Sunny Anderson,Giada de Laurentiis,,Sarah Acconcia,Tre Wilcox,Andrew Carmellini,Tracy Weiss,Josh Capon
+52,4,"""Mavericks""","June 25, 2015",jumbo lump crab meat,thai green curry,Bobby Flay,5,Daphne Oz,Michael Symon,,Sylvia Casares,Braden Wages,Ivy Stark,Corby Kummer,Leah Cohen
+53,5,"""Stars and Stripes""","July 2, 2015",watermelon,burger,Bobby Flay,5,Rachael Ray,Jessica Seinfeld,,Brian Cartenuto,Matt O'Neil,Glenn Harris,Susan Ungaro,Ken Freidman
+54,6,"""Rollin' Deep""","July 9, 2015",fennel,meatballs,Kenny Johnson,5,Katie Lee,Geoffrey Zakarian,,Linda Hamel,Kenny Johnson,Charlie Parker,Tracy Weiss,Frankie Pelegrino Jr.
+55,7,"""Worst Case Scenario""","July 16, 2015",hen of the woods mushroom,bratwurst sandwich,Bobby Flay,5,Amanda Freitag,Alex Guarnaschelli,,Kouri Killmeier,Jared Case,Michael Lomonaco,Franklin Becker,Michael Psilakis
+56,8,"""Rise to the Occasion""","July 23, 2015",apples,lasagne,Bobby Flay,5,Ted Allen,Debi Mazar,,Mike Friedman,Gio Osso,Aliya Leekong,Jeff Zalaznick,Laura Vitale
+57,9,"""Do or Die""","July 30, 2015",pomegranates,chili relleno,Bobby Flay,5,Scott Conant,Geoffrey Zakarian,,Peter Morris,Gregory Webb,Harold Dieterle,Ivy Stark,Jason Birchard
+58,10,"""The Heat is On""","August 6, 2015",rib-eye steak,mussels frites,Jeanie Roland,5,Katie Lee,Robert Irvine,,Becca Richards,Jeanie Roland,Susan Feniger,Ed Brown,Susan Ungaro
+59,11,"""Sticking to Your Guns""","August 13, 2015",russet potatoes,liver & onions,Bobby Flay,5,Sunny Anderson,Curtis Stone,,Peter McAndrews,Clark Barlowe,Andrew Carmellini,Madison Cowan,April Bloomfield
+60,12,"""Arrivals and Departures""","August 20, 2015",swordfish,jerk chicken,Michael Walters,5,Donatella Arpaia,Alex Guarnaschelli,,Lisa Nakamura,Michael Walters,Franklin Becker,Candice Kumai,Madison Cowan
+61,13,"""Culinary Tornado""","August 27, 2015",New York strip steak,ribs,Bobby Flay,5,Anne Burrell,Simon Majumdar,,Brian Hill,Miguel Trinidad,Leah Cohen,Hugh Mangum,Devin Alexander
+62,1,"""Unfinished Business""","October 1, 2015",cherrystone clams,pork enchiladas,Bobby Flay,6,Scott Conant,Jonathan Scott,Drew Scott,Blythe Beck,Angelo Sosa,Ivy Stark,Josh Capon,Elizabeth Karmel
+63,2,"""Settling the Score""","October 8, 2015",rack of lamb,pasta carbonara,Bruce Kalman,6,Sunny Anderson,Jeff Mauro,,Jordan Andino,Bruce Kalman,Frank Prisinzano,Laura Vitale,Harold Moore
+64,3,"""Frenemies""","October 15, 2015",portobello mushroom,pierogi,Bobby Flay,6,Michael Symon,Debi Mazar,,Michael Jenkins,Natasha Pogrebinsky,Ed McFarland,Tom Birchard,Andrew Friedman
+65,4,"""Back with a Vengeance""","October 22, 2015",kale,moqueca,Bobby Flay,6,Daphne Oz,Geoffrey Zakarian,,Tre Wilcox,Anthony Lamas,Franklin Becker,Lourdes Castro,Julien Medina
+66,5,"""Trick or Sweet""","October 26, 2015",coconut,pumpkin trifle,Bobby Flay,6,Simon Majumdar,Debi Mazar,,Tommy Juliano,Justin Burke-Samson,Paulette Goto,Johnny Iuzzini,Jennifer Yee
+67,6,"""It's a Family Secret""","November 4, 2015",flat iron steak,potato latkes,Ric Orlando,6,Anne Burrell,Spike Mendelsohn,,Kiran Verma,Ric Orlando,Jason Birchard,Maneet Chauhan,Madison Cowan
+68,7,"""She's a Lady""","November 11, 2015",chicken thighs,shrimp mofongo,Bobby Flay,6,Katie Lee,Alex Guarnaschelli,,Jennifer Bajsel,Giovanna Huyke,Roberto Treviño,Aliya Leekong,Hugh Mangum
+69,8,"""Let's Talk Turkey""","November 18, 2015",acorn squash,turkey sandwich,Bobby Flay,6,Michael Symon,Geoffrey Zakarian,,Jeff Haskel,Nick Rabar,Susan Ungaro,Michael Ferraro,Sarah Simmons
+70,9,"""Hook, Line and Sinker""","December 2, 2015",rainbow trout,Dutch baby pancake,Roy Breiman,6,Scott Conant,Willie Geist,,Vaughn Crenshaw,Roy Breiman,Ken Friedman,Anita Lo,Glenn Harris
+71,10,"""Roasting on an Open Fire""","December 9, 2015",chestnuts,filet mignon,Ariane Duarte,6,Alex Guarnaschelli,Penn Jillette,,Adil Fawzi,Ariane Duarte,Michael Lomonaco,Candice Kumai,Phillipe Massoud
+72,11,"""Poking and Prodding""","December 16, 2015",polenta,lamb shish kebab,Bobby Flay,6,Katie Lee,Judy Gold,,Alex Stratta,Houman Gohary,Marco Moreira,Maneet Chauhan,Jean-Paul Bourgeouis
+73,12,"""Rules are Meant to be Broken""","January 6, 2016",fresh tuna,pork tostado,Bobby Flay,6,Ted Allen,Margaret Cho,,Ian Russo,Diane DiMeo,Jason Debriere,Ivy Stark,David Massoni
+74,13,"""Live From the Food Carpet""","January 13, 2016",bell peppers,fish curry,Bobby Flay,6,Rachael Ray,Ross Mathews,,Gavin Fine,K.N. Vinod,Frank Prisinzano,Missy Robbins,Suvir Saran
+75,1,"""Strike While the Iron's Hot""","January 20, 2016",peanuts,pad thai,Tim Freeman,7,Amanda Freitag,Geoffrey Zakarian,,"Steve ""Nookie"" Postal",Tim Freeman,Kristin Sollenne,Dale Talde,Candice Kumai
+76,2,"""A Cut Above""","January 27, 2016",flank steak,beef Wellington,Bobby Flay,7,Simon Majumdar,Jet Tila,,Terry Sargent,John Tesar,Michael Stillman,Madison Cowan,Jean-Paul Bourgeouis
+77,3,"""Touchdown!""","February 3, 2016",avocado,pork nachos,Bobby Flay,7,Anne Burrell,Laila Ali,,Zane Holmquist,Deji Oduwole,Ben Ford,Tricia Williams,Pete Levin
+78,4,"""Sweet and Spicy""","February 10, 2016",chocolate & chillies,chicken mole,Bobby Flay,7,Katie Lee,Damaris Phillips,,Steven Scalesse,Carlos Baez,Susan Feniger,Richard Sandoval,Pamela Morgan
+79,5,"""A Feather in Your Cap""","February 17, 2016",duck breast,seafood lo mein,Mohan Ismail,7,Alex Guarnaschelli,Sunny Anderson,,Nicole Roarke,Mohan Ismail,Wylie Dufresne,Ed Schoenfeld,Frank Pellegrino
+80,6,"""The Boys Are Back""","February 24, 2016",jarred tuna,steak torta,Brian Archibald,7,Michael Symon,Michael Voltaggio,,Todd Hall,Brian Archibald,Julian Medina,Tricia Williams,Franklin Becker
+81,7,"""Always Expect the Unexpected""","March 2, 2016",sirloin steak,vegetarian moussaka,Bobby Flay,7,Ted Allen,Kelsey Nixon,,Matt Levin,Sanaa Abourezk,Michael Psilakis,Corby Kummer,Jeremy Spector
+82,1,"""Turning the Tables""","March 17, 2016",spinach,lobster Newberg,Alex Guarnaschelli,8,Katie Lee,,,Michael Symon,Alex Guarnaschelli,Michael Lomonaco,April Bloomfield,Wylie Dufresne
+83,2,"""Pie in the Sky""","March 24, 2016",striped bass,shepherd's pie,Bobby Flay,8,Maria Menounos,Scott Conant,,Damon Gordon,Branden Levine,Donal Brophy,Michael Lomonaco,Pete Levin
+84,3,"""Time to Get Schooled""","March 31, 2016",asparagus,seafood risotto,Bobby Flay,8,Anne Burrell,Curtis Stone,,Stacie Vande Wetering,Cindy Wolf,Jean-Paul Bourgeouis,Cedric Vongerichten,Franklin Becker
+85,4,"""Something Sweet""","April 7, 2016",cherry,cream puffs,Bobby Flay,8,Bobby Deen,Sunny Anderson,,Ty Leon,Caprial Pence,Johnny Iuzzini,Paulette Goto,Zac Young
+86,5,"""Have Merci!""","April 14, 2016",artichoke hearts,coq au vin,Kevin Ashade,8,Alex Guarnaschelli,Josh Capon,,Gui Alinat,Kevin Ashade,Marco Moreira,Aliya Leekong,Alain Allegretti
+87,6,"""Just Act Natural""","April 21, 2016",piquillo pepper,chicken shawarma,Bobby Flay,8,Ina Garten,Neil Patrick Harris,,Thomas John,Gail Arnold,Richie Notar,Madhur Jaffrey,Jehangir Mehta
+88,7,"""Riding the Wave""","April 28, 2016",lamb tenderloin,lobster bisque,Bobby Flay,8,Katie Lee,Simon Majumdar,,Shaymus Alwin,Jeremy Sewall,Jamie Bissonnette,Keri Glassman,Ed McFarland
+89,8,"""Fully Baked""","May 5, 2016",plantain,beef empanada,Aaron Rivera,8,Geoffrey Zakarian,Scott Conant,,Robert Vasquez,Aaron Rivera,Michael Laiskonis,Ivy Stark,Roberto Santibáñez
+90,9,"""Hall of Shame""","May 12, 2016",okra,chicken & dumplings,Kenny Gilbert,8,Giada De Laurentiis,Jerome Bettis,,Jordan Wakefield,Kenny Gilbert,Tom Birchard,Lisle Richards,Ken Friedman
+91,10,"""Star Power""","May 19, 2016",Dover sole,tortilla soup,Bobby Flay,8,Jeff Mauro,Eddie Jackson,,Jesse Schenker,Danny Mena,Julian Medina,Rosanna Scotto,Madison Cowan
+92,11,"""Ring of Fire""","May 26, 2016",mahi-mahi,steak au poivre,Bobby Flay,8,Jeff Mauro,Anthony Anderson,,Adrianne Calvo,Ben Thomas,Michael Lomonaco,Tracy Weiss,Brian Duffy
+93,12,"""Fingerlings Crossed!""","June 2, 2016",fingerling potato,chili,George Rodrigues,8,Geoffrey Zakarian,Diane Guerrero,,Philippe Corbet,George Rodrigues,Roberto Santibáñez,Paulette Goto,Brian Mazza
+94,13,"""A Little Bit Country""","June 5, 2016",bay scallop,country fried steak,Bobby Flay,8,Alex Guarnaschelli,Trisha Yearwood,,Joe Wolfson,Lee Frank,Hugh Mangum,Elizabeth Karmel,Marc Murphy
+95,1,"""Fancy Meeting You Here""","June 12, 2016",prosciutto,cheesecake,Anne Burrell,9,Sunny Anderson,,,Scott Conant,Anne Burrell,Ken Oringer,Susan Ungaro,Jacques Torres
+96,2,"""Breaking Food News""","June 19, 2016",mackerel,lamb gyro,Bobby Flay,9,Michael Symon,Katie Couric,,Alyssa Gorelick,Michael Ginor,Michael Psilakis,Leah Cohen,George Mendes
+97,3,"""Red, White, and BBQ""","June 26, 2016",chicken wings,pulled pork sliders,Brother Luck,9,Katie Lee,Elvis Duran,,Matt Bolus,Brother Luck,Raquel Pelzel,Corby Kummer,Elizabeth Karmel
+98,4,"""Green with Envy""","July 7, 2016",silken tofu,stuffed peppers,Bobby Flay,9,Scott Conant,Perrey Reeves,,Vikki Krinsky,Pankaj Pradhan,Michael Schulson,Keri Glassman,Sal Scognamillo
+99,5,"""Dancing With the Devil""","July 14, 2016",veal cutlet,shrimp scampi,Robbie Jester,9,Lance Bass,Michael Voltaggio,,James Laird,Robbie Jester,Frank Pellegrino,Tricia Williams,Stratis Morfogen
+100,6,"""Ladies Night""","July 21, 2016",romanesco,tortelloni,Bobby Flay,9,Katie Lee,Laura Vitale,,Eric Levine,Jannifer Janinski,Raquel Pelzel,Richie Natar,Kristin Sollene
+101,7,"""Stop Drop and Roll""","July 28, 2016",cannellini beans,stuffed cabbage rolls,Kevin Naderi,9,Geoffrey Zakarian,Donny Deutsch,,Mark Vecchitto,Kevin Naderi,Maneet Chauhan,Franklin Becker,Dorothy Cann Hamilton
+102,8,"""So many obstacles""","August 4, 2016",couscous,meat pizza,Bobby Flay,9,Anne Burrell,Apolo Ohno,,Brian Miller,Michele Castelli,Christian Petroni,Rosanna Scotto,Alex Garcia
+103,9,"""Who's Got This in the Bag""","August 11, 2016",ground lamb,fish en papillote,Bobby Flay,9,Jet Tila,Debi Mazar,,Christopher Covelli,Mark Gaier,Ed Brown,Candice Kumai,Vikas Khanna
+104,10,"""Age is Just a Number""","August 18, 2016",blue cheese,wonton soup,Jenny Dorsey,9,Sunny Anderson,Kimberly Schlapman,,Kevin Des Chenes,Jenny Dorsey,Cobi Levy,Anita Lo,Hugh Mangum
+105,11,"""Get in the Zone""","August 25, 2016",Yukon gold potatoes,chilaquiles,Bobby Flay,9,Alex Guarnaschelli,Kenny Mayne,,Jeff Williams,Kevin Templeton,David Massoni,Lourdes Castro,Jason Debriere
+106,12,"""Bobby's DMV Appointment""","September 1, 2016",guanciale,soft-shell crab sandwich,Bobby Flay,9,Curtis Stone,Haylie Duff,,Serge Pambo,Todd Gray,Michael Psilakis,Tracy Weiss,Hugh Mangum
+107,13,"""Dark Horses Still Kick""","September 8, 2016",branzino,chicken bánh mì,Bobby Flay,9,Geoffrey Zakarian,Debi Mazar,,Kunal Lamba,Ed Hardy,Hari Nayak,Dorothy Cann Hamilton,Hung Huynh
+108,1,"""Comforts of Home""","September 22, 2016",ground pork,cannelloni,Bobby Flay,10,Scott Conant,Bethenny Frankel,,Matteo Boffo,Jackie Rothong,Frank Prisinzano,Jody Adams,Salvatore Coppola
+109,2,"""Shore Fire Strategy""","September 29, 2016",squab,lobster thermidor,Bobby Flay,10,Anne Burrell,Mario Cantone,,Geoff Johnson,Martin Rios,Ed Brown,Clodagh McKenna,Craig Samuel
+110,3,"""Howdy Halloween""","October 6, 2016",blood oranges,devil's food cake,Katherine Clapner,10,Sunny Anderson,Laura Vitale,,Joe Baker,Katherine Clapner,David Lebovitz,Nicole Friday,Zac Young
+111,4,"""Bobby-Bing Bobby-Boom!""","October 13, 2016",kalamata olives,meatball sandwich,Bobby Flay,10,Anthony Carrino,John Colaneri,Alex Guarnaschelli,Toni Sapienza,Rodney Murillo,Nick Defonte,[13] Kristin Sollenne,Dale Talde
+112,5,"""Che-Sing Glory""","October 20, 2016",country ham,ramen,Bobby Flay,10,Geoffrey Zakarian,Michael Che,,Andres Dangond,Tony Nguyen,Judy Joo,Ivan Orkin,Ivy Stark
+113,6,"""Hold on for One More Flay""","October 27, 2016",butchery brioche,samosas,Vijay Sadhu,10,Katie Lee,Carnie Wilson,,Jeremy Nolen,Vijay Sadhu,Aliya Leekong,Edi Frauneder,Julie Sahni
+114,7,"""Surprise Surprise""","November 3, 2016",haddock,pork fried rice,Bobby Flay,10,Curtis Stone,Sandra Lee,,Katie Chin,Pat Sheerin,Michel Nischan,Anita Lo,Hung Huynh
+115,8,"""Country Boys in the Big City""","November 10, 2016",black beans,jambalaya,Bobby Flay,10,Ted Allen,Anne Burrell,,Justin Gaines,Mike Johnson,Jean Paul Bourgeois,Candice Kumai,Michael Psilakis
+116,9,"""Thanks But No Thanksgiving""","November 17, 2016",butternut squash,turkey cacciatore,Ed Cotton,10,Martha Stewart,Scott Conant,,Omar Zerrei,Ed Cotton,Madison Cowan,Marcie Turney,Felipe Donnelly
+117,10,"""You've Got to be Kidding Me!""""","November 30, 2016",cheddar cheese,chicken fingers,Bobby Flay,10,Carla Hall,Aubrey Anderson-Emmons,Quvenzhane Wallis,Chris Scott,Line Pelletier,Chris Ekpiken,Sabrina Richard,Taylor Moxey
+118,11,"""Back to School""","December 8, 2016",strawberries,Napoleon,Francois Payard,10,Ted Allen,Rowan Blanchard,,Zac Young,Francois Payard,Olivia Oshiro,David Pines,Elizabeth Oakes
+119,12,"""Whiz Kids""","December 15, 2016",corn flakes,beef quesadillas,Bobby Flay,10,Gibson Boreli,Tyler Zager,Sunny Anderson,Claud Beltran,Brian Santos,Lauren Zilberman,Finn Skerlj,Emily Waters
+120,13,"""Like Father Like Daughter""","December 22, 2016",bowtie pasta,grilled cheese,Bobby Flay,10,Scott Conant,Aila Conant,,Max Hardy,Lee Knoeppel,Hunter Zampa,Julep Knowlton,Tatiana Cicciarella
+121,1,"""All at Stake""","January 4, 2017",Canadian bacon,salisbury steak,Todd Erickson,11,Amanda Freitag,Carla Hall,,Charles Bauer,Todd Erickson,Jeremy Spector,Michael Ferraro,Dorothy Cann Hamilton
+122,2,"""Better Late Than Never""","January 11, 2017",parsnip,chicken flautas,Bobby Flay,11,Giada De Laurentiis,Alex Guarnaschelli,,Jen Royle,Melissa Mayer,Jason DeBriere,Sara Gore,Ken Oringer
+123,3,"""Bro-Down Showdown""","January 18, 2017",sunchokes,surf & turf,Bobby Flay,11,Michael Voltaggio,Bryan Voltaggio,,Patrick Feury,Terence Feury,Jason Hicks,Raquel Pelzel,Michael Vignola
+124,4,"""Too Biggs to Fail""","January 25, 2017",rock shrimp,seafood burrito,Sam Gorenstein,11,Katie Lee,Jason Biggs,,David Vargas,Sam Gorenstein,Roberto Santibanez,Alison Roman,Ed McFarland
+125,5,"""The Grid Iron Chef""","February 1, 2017",jalapeno,cheesesteak,Bobby Flay,11,Alex Guarnaschelli,Josh Capon,,Lee Chizmar,Mark Allen Moller,Robbie Schultz,Katie Quinn,Michael Lomonaco
+126,6,"""She Loves Me ....Not""","February 8, 2017",red wine,eggs benedict,Bobby Flay,11,Daphne Oz,Lara Spencer,,Eric Adjepong,Frank Otte,Susan Ungaro,Glenn Harris,Angie Mar
+127,7,"""You Won't Like Him When He's Angry""","February 16, 2017",veal tenderloin,veggie burger,Bobby Flay,11,Kristin Cavallari,Geoffrey Zakarian,,Jamie Knott,Daniel Angerer,Robyn Lawley,"Chris ""C-Snacks"" Clarke",Tricia Williams
+128,8,"""Roll with the Punches""","February 23, 2017",razor clams,crispy spring rolls,Perry Chung,11,Curtis Stone,Simon Majumdar,,Richard Mancini,Perry Chung,Hung Huynh,Pamela Morgan,Frank Prisinzano
+129,9,"""Steak Me Home Tonight""","March 2, 2017",peaches,steak frites,Bobby Flay,11,Anne Burrell,Chris D'Elia,,Trish Tracey,Daniel Cox,Wylie Dufresne,Ariane Daguin,Alfred Portale
+130,10,"""Sweet but Sour""","March 9, 2017",white chocolate,apple dumpling,Bobby Flay,11,Sunny Anderson,Katie Lee,,Chris Teixeira,Kym Delost,Michael Laiskonis,Nicole Friday,Niles Noren
+131,11,"""Thrown from the Throne""","March 16, 2017",heirloom carrots,veal piccata,Bobby Flay,11,Amanda Freitag,Simon Majumdar,,Ian Bowden,Danielle Duran,Erik Ramirez,April Bloomfield,Joey Campanaro
+132,12,"""I Thought We Were Friends""","March 23, 2017",red snapper,chicken pho,Vuong Loc,11,Giada De Laurentiis,Scott Conant,,Ian Alvarez,Vuong Loc,Jason Wang,Robbie Shoults,Leah Cohen
+133,13,"""Both Sides of the Coin""","March 30, 2017",quail eggs,sloppy joe,Bobby Flay,11,Alex Guarnaschelli,Anne Burrell,,Admir Alibasic,Jason Tom,Michael Stillman,Brian Mazza,Harold Moore
+134,1,"""Iron Chef Redemption""","April 12, 2017",sun-dried tomatoes,brick chicken,Bobby Flay,12,Ted Allen,Debi Mazar,,Paul Virant,Todd Stein,Susan Feniger,Billy Durnan,Alex Thermopoulos
+135,2,"""Mazel Tov""","April 19, 2017",broccoli rabe,matzo ball soup,Alex Reznik,12,Michael Symon,Susan Lucci,,Colin Smith,Alex Reznik,Lidia Bastianich,Noah Bernamoff,Olivia Culpo
+136,3,"""Challah at Your Boy!""","May 3, 2017",challah bread,huevos rancheros,Rene Rodriguez,12,Anne Burrell,Jay Pharoah,,Michael Kramer,Rene Rodriguez,Ivy Stark,Jeremy Jacobowirz,Lidia Bastianich
+137,4,"""Tame in the Flame""","May 10, 2017",duck confit,branzino,Bobby Flay,12,Scott Conant,Busy Philipps,,Tom Wolfe,Ivana Raca,Einat Admony,Lazarus Lynch,Anita Lo
+138,5,"""Inside Scoop""","May 17, 2017",top round of beef,seafood corndogs,Steven Oakley,12,Alex Guarnaschelli,Helene Yorke,,Bobby Hanson,Steven Oakley,Madison Cowan,April Bloomfield,Jimmy Bradley
+139,6,"""Open Grill Season""","May 24, 2017",meyer lemon,carne asada,Bobby Flay,12,Sunny Anderson,Gail Simmons,,Nicolay Adinaguev,Brandon Byrd,Michael Lomonaco,Jess Pryles,Robbie Shoults
+140,7,"""Friends in All Places""","May 31, 2017",king crab,sole almondine,Alex Guarnaschelli,12,Michael Symon,,,Jet Tila,Alex Guarnaschelli,Ed McFarland,Leah Cohen,Drew Neoporent
+141,8,"""The Next Food Network Star Is...""","June 7, 2017",persimmons,tuna noodle casserole,Damaris Phillips,12,Alton Brown,,,Justin Warner,Damaris Phillips,Donal Brophy,Tricia Williams,Michael Psilakis
+142,9,"""Deja Flay""","June 14, 2017",grapefruit,chicken doro wat,Marcus Samuelsson,12,Scott Conant,,,Anne Burrell,Marcus Samuelsson,Sileshi Alifom,Sara Moulton,Michael Laiskonis
+143,10,"""BBF vs. Chopped""","June 22, 2017",colossal shrimp,fesenjān,Amanda Freitag,12,Ted Allen,,,Marc Murphy,Amanda Freitag,Najmieh Batmanglij,April Bloomfield,Kristin Sollenne
+144,11,"""Ghosts of Bobby's Past""","June 29, 2017",filet mignon,pork chops and applesauce,Bobby Flay,12,Laura Prepon,Daphne Oz,,Einat Admony,Leia Gaccione,Tom Birchard,Susan Ungaro,Alon Shaya
+145,12,"""Salty and Sweet""","July 6, 2017",Raisin,Banana cream pie,Bobby Flay,12,Katie Lee,Carla Hall,,Bruno Feldeisen,Michelle Gayer,Paulette Goto,David Lebovitz,Nicole Friday
+146,13,"""Record Breaking""","July 13, 2017",steamer clams,egg drop soup,Bobby Flay,12,Josh Capon,Jaymee Sire,,Joshua Bedford,Jarad Gallagher,Ed Schoenfeld,Maggie Nemser,Spencer Rubin
+147,1,"""Sugar and Spice but not so nice""","July 20, 2017",Coffee Beans,Brownie Sundae,Dana Cree,13,Alton Brown,Adam Richman,,Josh Johnson,Dana Cree,Samantha Seneviratne,Nils Noren,Raiza Costa
+148,2,"""Fancy vs Rustic""","July 27, 2017",Figs,Shrimp and Grits,Bobby Flay,13,Sunny Anderson,Katie Lee,,Giuliano Matarese,Angie Berry,Ed Brown,Rohini Dey,Corby Kummer
+149,3,"""Bear-Ware""","August 3, 2017",Merguez sausage,Oysters Rockefeller,Bobby Flay,13,Alex Guarnaschelli,Daphne Oz,,Derek Orrell,Hal Holden-Bache,Jason Debriere,Claudia Fleming,Craig Samuel
+150,4,"""Green, White and Red""","August 10, 2017",Turbot,Gnudi,Ken Vedrinski,13,Anne Burrell,Scott Conant,,Raffaele Ronca,Ken Vedrinski,Frank Prisinzano,Kristin Sollenne,Dan Pashman
+151,5,"""Chop Chop""","August 17, 2017",Gruyere Cheese,Breakfast Sandwich,Bobby Flay,13,Amanda Freitag,Jet Tila,,Fabio Mura,Nicole Votano,Glenn Harris,Michele Ragussis,Joe Isidori
+152,6,"""Familiar Names and Faces""","August 24, 2017",Coconut Milk,Patty Melt,Stephen Kalt,13,Ted Allen,Sunny Anderson,,Brad Spence,Stephen Kalt,Lex Taylor,Raquel Pelzel,Nguyen Tran
+153,7,"""International Showdown""","August 31, 2017",Green Beans,White Clams Pizza,Bobby Flay,13,Katie Lee,Marcus Samuelsson,,Alida Solomon,Pasquale Cozzolino,Lauren Hirschberg,Barbara Lynch,Rich Aronovitch
+154,8,"""Feathered and Fried""","September 7, 2017",Rabbit Legs,Fried Chicken,Bobby Flay,13,Anne Burrell,Marc Murphy,,Darnell Ferguson,Thomas Boemer,Melba Wilson,Daniel Delaney,Sarah Simmons
+155,9,"""Pulling Out All the Stops""","September 14, 2017",White Anchovies,Hoppin' John,Stephen Jones,13,Steve Schirripa,Simon Majumdar,,Dave Bazirgan,Stephen Jones,Stephen Starr,Susan Povich,Jean-Paul Bourgeois
+156,10,"""Number One Baby""","September 21, 2017",Tri-Tip Of Beef,Salt Cod Fritters,Bobby Flay,13,Scott Conant,Laura Vitale,,RJ Moody,Nicolas Bour,Tom Birchard,Leah Cohen,Roberto Trevino
+157,11,"""Drop the Knife""","September 28, 2017",Collard Greens,Savory Souffle,Lauren Brown,13,Colin Quinn,Katie Lee,,Diane Vista-Wayne,Lauren Brown,Angie Mar,Ed Mcfarland,Ariane Daguin
+158,12,"""Boil and Trouble""","October 5, 2017",Pumpkin Seeds,Frog Legs,Bobby Flay,13,Giada De Laurentiis,Daphne Oz,,Meghann Ward,Jeffrey Hansell,Wylie Dufresne,Alon Shaya,Dale Talde
+159,13,"""We're All Family Here""","October 12, 2017",Tomatillos,Tagliatelle,Bobby Flay,13,Sophie Flay,Alton Brown,,Dean Fearing,Jonathan Waxman,Marc Vetri,Lourdes Castro,Christian Petroni
+160,1,"""Feeling Bleu""","October 19, 2017",Halloumi Cheese,Chicken Cordon Bleu,Lionel Haeberle,14,Alex Guarnaschelli,Bobby Moynihan,,Marcellus Coleman,Lionel Haeberle,Raquel Pelzel,Madison Cowan,Keri Glassman
+161,2,"""Take a Bao""","October 26, 2017",Black Cod,Pork Bun,Bobby Flay,14,David Alan Grier,Carla Hall,,Richard Hales,Suchanan Aksornnan,Cobi Levy,Angie Mar,Wilson Tang
+162,3,"""Ain't That Dandy""","November 2, 2017",Pork Chops,Poke,Bobby Flay,14,Katie Lee,Ben Feldman,,Mike DeCamp,Jason Dady,Drew Crane,Dale Talde,Marco Canora
+163,5,"""The Iron Age""","November 9, 2017",Onions,Seafood Paella,Bobby Flay,14,Alex Guarnaschelli,Simon Majumdar,,Stephanie Izard,Jose Garces,Donatella Arpaia,Madison Cowan,Susan Ungaro
+164,5,"""Turkey's Done""","November 16, 2017",Turkey Cutlets,Pumpkin Ravioli,Tony Priolo,14,Sunny Anderson,Sophie Flay,,Clayton Chapman,Tony Priolo,Brian Mazza,Einat Admony,Ronnie Woo
+165,6,"""Sea Shells by the Sea Shore""","November 23, 2017",Sea Urchin,Coquilles St.-Jacques,Bobby Flay,14,Marcus Samuelsson,Michael Voltaggio,,Ed Harris,Jason McLeod,Michael Schulson,Abigail Hitchcock,Alain Allegretti
+166,7,"""Rotten Tomatoes for Bobby""","November 30, 2017",Green Tomatoes,Hot And Sour Soup,Darren Sayphraraj,14,Scott Conant,Helene Yorke,,Andre Fowles,Darren Sayphraraj,Ed Schoenfeld,Aliya Leekong,Nigel Spence
+167,8,"""Holidays Are for Battle""","December 7, 2017",Cornish Game Hens,Ossobuco,Simone Falco,14,Alex Guarnaschelli,Tia Mowry,,Eoghain O'Neill,Simone Falco,Ariane Daguin,Frank Prisinzano,Jackie Gebel
+168,9,"""Cracking a Win""","December 14, 2017",Soft Shell Crabs,Scotch Egg,Bobby Flay,14,Anne Burrell,Andrew Zimmern,,David Baruthio,Blake Hartwick,Michael Lomonaco,Ali Rosen,Daniel Eddy
+169,10,"""Who Done It?""","January 4, 2018",Prosecco,Ice Cream Sandwich,Jeremy Fogg,14,Lorraine Pascale,Damaris Phillips,,Andrea Bergin,Jeremy Fogg,Paulette Goto,Zac Young,Marcy Blum
+170,11,"""Clamming Up""","January 11, 2018",Cockles,Butter Chicken Masala,Kiran Patnam,14,Amanda Freitag,Geoffrey Zakarian,,Jonathan Wu,Kiran Patnam,Tricia Williams,Jehangir Mehta,Tracy Jane Young
+171,12,"""Midwest Swing""","January 18, 2018",Hake,Barbecued Chicken,Bobby Flay,14,Katie Lee,Daphne Oz,,Daniel Angerer,Mike Johnson,Andrew Friedman,Lucinda Scala Quinn,Hugh Mangum
+172,13,"""Peeling Away""","January 25, 2018",Bananas,Tiramisu,Amanda Rockman,14,Ted Allen,Busy Philipps,,Vicki Wells,Amanda Rockman,Nils Norén,Raiza Costa,Scott Levine
+173,1,"""Big Dog on the Block""","December 21, 2017",Ostrich Egg,Ginormous Seafood Sandwich,Bobby Flay,15,Sunny Anderson,Josh Denny,,Harold Baker,Tony Minadakis,Craig Samuel,Kardea Brown,Matt FX
+174,2,"""Windy City Wants More""","December 28, 2017",Purple Potatoes,Ropa Vieja,Cory Morris,15,Scott Conant,Hannah Hart,,David Adjey,Cory Morris,Billy Durney,Lourdes Castro,Isaac Toups
+175,3,"""Bobby Gets Sacked""","February 1, 2018",Bratwurst,Jucy Lucy,Bobby Flay,15,Eddie Jackson,Jaymee Sire,,Paul Malvone,Jack Riebel,Jeremy Ford,Melba Wilson,Robbie Shoults
+176,4,"""Broken Hearts""","February 8, 2018",Maraschino cherry,Chocolate tart,Bobby Flay,15,Anne Burrell,Scott Conant,,Robert Nieto,Caroline Schiff,Jacques Torres,Samantha Seneviratne,Alan Rosen
+177,5,"""Going Loco""","February 15, 2018",Shishito Peppers,Loco moco,Mike Andrzejewski,15,Eddie Jackson,Damaris Phillips,,Anthony Nelson,Mike Andrzejewski,Chung Chow,Nicole Ponseca,Corby Kummer
+178,6,"""Sour With The Sweet""","February 22, 2018",Cowboy Rib eye steak,Monte Cristo sandwich,Bobby Flay,15,Sunny Anderson,Josh Capon,,Brian Malarkey,Robert Cho,Leah Cohen,Rich Aronovitch,Dana Cowin
+179,7,"""Stuffed and Fried""","March 1, 2018",Langoustine,Chimichanga,Bobby Flay,15,Katie Lee,Jet Tila,,Crista Luedtke,Alan Vargas,Brian Duffy,Ivy Stark,Akhtar Nawab
+180,8,"""At It Again""","March 8, 2018",Squid Ink,Beef Bulgogi,Bobby Flay,15,Ted Allen,Marc Murphy,,Seis Kamimura,Demetrio Zavala,Michael Psilakis,Leah Cohen,Christian Petroni
+181,9,"""Surf's Up""","March 15, 2018",Basil,Pork Adobo,Bobby Flay,15,Anne Burrell,Loni Love,,Paras Shah,Sheldon Simeon,Bill Telepan,Nicole Ponseca,Roberto Treviño
+182,10,"""Revenge Is Best Served Bold""","March 22, 2018",Zucchini,Brunch Burger,Bobby Flay,15,Scott Conant,Laura Vitale,,Tony Nguyen,Leia Gaccione,Glenn Harris,Rohini Dey,Hung Huynh
+183,11,"""Ladies Don't Play""","March 29, 2018",Fava Beans,Chicken Biryani,Aarthi Sampath,15,Daphne Oz,Michael Voltaggio,,Zoe Schor,Aarthi Sampath,Hari Nayak,Alison Roman,Albert Di Meglio
+184,12,"""Not a Speck""","April 5, 2018",Speck,Peri Peri Chicken,Bobby Flay,15,Sunny Anderson,Carla Hall,,Jonah Miller,Ronny Miranda,Seamus Mullen,Ingrid Hoffmann,David Santos
+185,13,"""Getting Crabby""","April 12, 2018",Cucumber,Crab cake sandwich,Bobby Flay,15,Alex Guarnaschelli,Jet Tila,,Brendan Pelley,Mark Laubner,Michael Psilakis,April Bloomfield,Drew Nieporent
+186,1,"""Red Hot""","April 19, 2018",Red Kidney bean,Pancake,Bobby Flay,16,Katie Lee,Giada De Laurentiis,,Ashbell McElveen,John Cox,Dale Talde,Ivy Stark,Lazarus Lynch
+187,2,"""Worldly Ways""","April 26, 2018",Manchego,Spaghetti with meatballs,Fabio Viviani,16,Sunny Anderson,Andrew Zimmern,,Jared Forman,Fabio Viviani,Frank Prisinzano,Lidia Bastianich,Marco Canora
+188,3,"""Sticky Situation""","May 3, 2018",Peanut butter,S'more,Bobby Flay,16,Michael Symon,Marcela Valladolid,,Avery Ruzicka,Clarice Lam,Jen King,Zac Young,Tracy Obolsky
+189,4,"""Sprung a Leek""","May 10, 2018",Leek,Tempura,Shota Nakajima,16,Damaris Phillips,Amanda Freitag,,Jamie Gwen,Shota Nakajima,Drew Nieporent,Sara Gore,Charles Parker
+190,5,"""Stealing the Spotlight""","May 17, 2018",Dates,Chicken marsala,Bobby Flay,16,Ina Garten,Laura Benanti,,Ed Schoenfeld,Paulette Goto,Mary Sue Milliken,Michael Solomonov,Lucinda Scala Quinn
+191,6,"""Grill Me""","May 24, 2018",Korean-Style Short ribs,Beef Slider,Bobby Flay,16,Katie Lee,Mekhi Phifer,,[16] Nathan Gresham,Lisa Dahl,Timothy Walker,Sasha Miranda,Brian Duffy
+192,7,"""Eye of the Tiger""","May 31, 2018",Tiger Prawns,Palak paneer,Manish Tyagi,16,Alex Guarnaschelli,Eddie Jackson,,Dale Levitski,Manish Tyagi,Jehangir Mehta,Elise Kornack,Ronnie Woo
+193,8,"""Food Star Face-Off""","June 7, 2018",Manila Clams,Hot chicken,Viet Pham,16,Anne Burrell,Patti LaBelle,,Dom Tesoriero,Viet Pham[17],Hugh Mangum,Dana Cowin,John Seymour
+194,9,"""Beauty and the Beast""","June 14, 2018",Smoked salmon,Cacio e pepe,Bobby Flay,16,Scott Conant,Olivia Culpo,,Nicholas Lisotto,Deb Caplan,Jacob Hadjigeorgis,Melba Wilson,Christian Petroni
+195,10,"""Skirting By""","June 21, 2018",Skirt steak,Bouillabaisse,Robert Sisca,16,Sunny Anderson,Susie Essman,,Michael Brennan,Robert Sisca,Frank Pellegrino Jr.,Rosanna Scotto,Ed McFarland
+196,11,"""Blast From the Past""","June 28, 2018",T-bone steak,Seafood Cataplana,Bobby Flay,16,Amanda Freitag,Katie Lee,,Allison Fasano,Paul Del Favero,Gabriel Israel,Lourdes Castro,David Santos
+197,12,"""Hit Him Again""","July 5, 2018",Rainbow Chard,Chicken and dumplings,Thomas Boemer,16,Scott Conant,Daphne Oz,,Bao Bao,Thomas Boemer,Sohui Kim,John Terzian,Tracy Jane Young
+202,13,"""Fields of Green""","August 2, 2018",Mustard Greens,Savory Hand Pies,Bobby Flay,16,Alex Guarnaschelli,Damaris Phillips,,Navjot Arora,Maeve Rochford,Hari Nayak,Aliya LeeKong,Lisle Richards
+198,1,"""Judges As Contenders""","July 12, 2018",Stout,Coconut Seafood Curry,Bobby Flay,17,Sunny Anderson,Marcus Samuelsson,,Michael Psilakis,Seamus Mullen,Elly Truesdell,Michael Lomonaco,Ariane Daguin
+199,2,"""Waltz Up a Win""","July 19, 2018",Honeycomb toffee,Chocolate Soufflé,Olivier Palazzo,17,Derek Hough,Carla Hall,,Katy Gerdes,Olivier Palazzo,Paulette Goto,Scott Levine,Ayala Donchin
+200,3,"""Culinary Knockout""","July 26, 2018",Snap pea,Lomo saltado,Bobby Flay,17,Giada De Laurentiis,Michael Voltaggio,,Frances Tariga,Geronimo Lopez,Seamus Mullen,Nicole Ponseca,Corby Kummer
+201,4,"""Flying Aubergines""","July 29, 2018",Japanese Eggplant,Bubble and squeak,Robert Aikens,17,Anne Burrell,Jet Tila,,Tony Gemignani,Robert Aikens,Ken Oringer,Tricia Williams,Madison Cowan
+203,5,"""Winning in My Dreams""","August 5, 2018",Quahog Clam,Chicken Satay,Bobby Flay,17,Debbie Gibson,Katie Lee,,William Wright,Ype Von Hengst,Peter Giannakis,Sawako Okochi,Michael Vignola
+204,6,"""Never Give Up""","August 9, 2018",Tasso ham,Gnocchi,Ivana Raca,17,Alex Guarnaschelli,Stephanie Izard,,Pasquale Cozzolino,Ivana Raca,Michel Nischan,Sara Gore,Michael Psilakis
+205,7,"""Chocolate Victory""","August 16, 2018",Mexican Chocolate,Tlayuda,Bobby Flay,17,Michael Symon,Valerie Bertinelli,,Jose Guerrero,Katy Smith,Felipe Donnelly,Ivy Stark,Michael Schulson
+206,8,"""Joke's on Bobby""","August 23, 2018",Quinoa,Pumpkin Curry,Bobby Flay,17,Emilie de Ravin,Katie Lee,,Jamie Lynch,Shorne Benjamin,Carlos Swepson,Hannah Bronfman,Bill Telepan
+207,9,"""Fit to Flay""","August 30, 2018",Mascarpone Cheese,Chicken Adobo,Bobby Flay,17,Scott Conant,Jane Seymour,,Silvia Barban,Nate Appleman,Rob Petrone,Donatella Arpaia,Jimmy Bradley
+208,10,"""Skating By""","September 6, 2018",Skate,Chicken Scarpariello,Adam Greenberg,17,Anne Burrell,Jaymee Sire,,Nicole Brisson,Adam Greenberg,Leah Cohen,Albert Di Meglio,Einat Admony
+209,11,"""Feel The Judgment""","September 13, 2018",Salt Cod,Fregula and Clams,Bobby Flay,17,Jet Tila,Laura Vitale,,Leah Cohen,Christian Petroni,Bill Telepan,Raiza Costa,Garrison Price
+210,12,"""Chop of the Mornin' to Ya""","September 20, 2018",Lamb Loin chop,Tandoori Chicken,Asif Syed,17,Amanda Freitag,Laura Vitale,,Jordan Frosolone,Asif Syed,Hari Nayak,Alison Roman,Sabin Lomac
+212,13,"""Fright Club""","October 4, 2018",Chicken Livers,Squid Ink Pasta,Bobby Flay,17,Jesse Palmer,Eddie Jackson,,John Patterson,Frank Terzoli,Aliya LeeKong,Joe Isidori,Ingrid Hoffmann
+211,1,"""Shucking The Competition""","September 27, 2018",Oysters,Beef Bourguignon,Bobby Flay,18,Geoffrey Zakarian,Damaris Phillips,,Laurent Zirotti,Eric Damidot,Ariane Daguin,Brian Mazza,Elise Kornack
+213,2,"""Aged to Perfection""","October 11, 2018",Aged Balsamic vinegar,Chicken and waffles,Joey Ward,18,Michael Strahan,Michael Symon,,Anastacia Song,Joey Ward,Michael Schulson,Leah Cohen,Richie Notar
+214,3,"""Family Matters""","October 18, 2018",Fresh Apricot,Fideos Carnitas,Bobby Flay,18,Daphne Oz,Jourdan Dunn,,Julian Rodarte,Beto Rodarte,Jason Debriere,Pati Jinich,Lisle Richards
+215,4,"""Knighted Sir Loin""","October 25, 2018",Lamb Sirloin,Eggplant Rollatini,Bobby Flay,18,Alex Guarnaschelli,Michael Voltaggio,,John Vitale,Tracey Shepos Cenami,Michael Psilakis,Lucinda Scala Quinn,Madison Cowan
+216,5,"""Baked to Perfection""","November 1, 2018",Pecans,Chocolate Layer Cake,Thiago Silva,18,Ted Allen,Gesine Bullock-Prado,,Mathew Rice,Thiago Silva,Amirah Kassem,Paulette Goto,Ayala Donchin
+217,6,"""Drop the Mic""","November 8, 2018",Monkfish,Gai Yang chicken,Bobby Flay,18,Amanda Freitag,Jo Koy,,Nora Haron,Ryan Hackney,Dale,Anita,Simpson Wong
+218,7,"""Stuffed With Victory""","November 15, 2018",Brussels Sprouts,Roasted Chicken,Bobby Flay,18,Geoffrey Zakarian,Sara Haines,,Bernard Carmouche,Daniel Sharp,Georgette Farkas,Frank Prisinzano,Allison Fasano
+219,8,"""Say Cheese!""","November 22, 2018",Gorgonzola cheese,Seafood Fra Diavolo,Bobby Flay,18,Giada De Laurentiis,Sunny Anderson,,Duskie Estes,Francesco Buitoni,Dale Talde,Ivy Stark,Kevin Sbraga
+220,9,"""Cream of the Crop""","November 29, 2018",Cream cheese,Fried Green Tomato Sandwich,Chris Henry,18,Katie Lee,Valerie Bertinelli,,Steve Gedra,Chris Henry,Craig Samuel,Dana Cowin,Tom Birchard
+221,10,"""Wrapping Up Victory""","December 6, 2018",Dried cranberry,Cioppino,Bobby Flay,18,Amanda Freitag,Jamie-Lynn Sigler,,Ron Duprat,Gabriel Pascuzzi,Marc Vetri,Rosanna Scotto,Mark Ladner
+222,11,"""Sprouting Victory""","December 27, 2018",Mushrooms,Poutine,Bobby Flay,18,Scott Conant,Anne Burrell,,Jack Moore,Lawrence Letrero,Ronnie Woo,Sara Gore,Pete Levin
+223,12,"""Sweet, Sweet Revenge!""","January 3, 2019",Blueberry,Key lime pie,Bobby Flay,18,Michael Symon,Josh Capon,,Clarice Lam,Caroline Schiff,Paulette Goto,Melissa Weller,Emma Bengtsson
+224,13,"""Heavy Lifting""","January 10, 2019",Soppressata,Shrimp Scampi,Bobby Flay,18,Alton Brown,Jet Tila,,Jonathon Sawyer,Mark Ladner,Frank Prisinzano,Rita Jammet,Fabio Trabocchi
+225,14,"""Oh Brother""","January 17, 2019",Porgy,Asian Dumplings,Steve Redzikowski,18,Alex Guarnaschelli,Gus Kenworthy,,Brian Redzikowski,Steve Redzikowski,Hannah Cheng,Christian Petroni,Marian Cheng
+226,1,"""Take Him to Fresno""","January 24, 2019",Fresno Chiles,Empanada,Chad Clevenger,19,Alex Guarnaschelli,Ben Rappaport,,Anita Cartagena,Chad Clevenger,David Massoni,Aliya LeeKong,Jonah Reider
+227,2,"""Game On""","January 31, 2019",Pickles,Chili Cheese fries,Ashley Gaboriault,19,Anne Burrell,Eddie Jackson,,Jeff Henderson,Ashley Gaboriault,Pete Levin,Grace Ramirez,Wylie Dufresne
+228,3,"""Old Friends""","February 3, 2019",Cabbage,Lamb Risotto,Michael Psilakis,19,Ted Allen,Sunny Anderson,,Einat Admony,Michael Psilakis,Christian Petroni,Leah Cohen,Bryce Shuman
+229,4,"""Getting Nutty""","February 7, 2019",Macadamia Nuts,Fricasé de Pollo,Bobby Flay,19,Laura Vitale,Michael Voltaggio,,Alex Brugger,Tatiana Rosana,Louie Estrada,Donatella Arpaia,Felipe Donnelly
+230,5,"""Choc-O-Love""","February 14, 2019",Cocoa Nibs,Flourless Chocolate cake,Bobby Flay,19,Alton Brown,Valerie Bertinelli,,Ryan Scott,David Lebovitz,Corby Kummer,Jen King,Michael Laiskonis
+231,6,"""Don't Drop The Beat (Bobby)""","February 21, 2019",Fregula,Braciole,Bobby Flay,19,Michael Symon,Brooke Shields,,Idris Muhammad,Carla Pellegrino,Sara Gore,Ray Garcia,Rosanna Scotto
+232,7,"""Off to the Races""","February 28, 2019",Rice noodles,Ham Croquettes,Bobby Flay,19,Josh Capon,Carolyn Manno,,Bruce Naftaly,Jouvens Jean,John Seymour,Lourdes Castro,Tom Birchard
+233,8,"""Don’t Sour Out""","March 7, 2019",Sourdough bread,Pasta Primavera,Bobby Flay,19,Katie Lee,Marc Murphy,,Silvia Baldini,Austin Cobb,Marco Canora,Angie Rito,Laurent Tourondel
+234,9,"""Mince Meat""","March 14, 2019",Ground Veal,Chiles en nogada,Fernando Ruiz,19,Scott Conant,Donatella Arpaia,,Paco Garcia,Fernando Ruiz,Joe Isidori,Sue Torres,Seamus Mullen
+235,10,"""Greeking Out""","March 21, 2019",Greek Yogurt,Coq au vin,Bobby Flay,19,Anne Burrell,Jose Garces,,Aneesa Waheed,Ryan Lory,Alain Allegretti,Tricia Williams,Akhtar Nawab
+236,11,"""A Marital Match""","March 28, 2019",Honeydew,Chicken Gumbo,Sam Carroll,19,Sunny Anderson,Jeff Mauro,,Cody Carroll,Sam Carroll,Melba Wilson,Trigg Brown,Kardea Brown
+237,12,"""Nutty Times""","April 4, 2019",Almond butter,Crab cake,Bobby Flay,19,Geoffrey Zakarian,Amanda Freitag,,Eliza Gavin,Dante Giannini,Sara Moulton,Ed Brown,Ariane Daguin
+238,1,"""Against the Grain""","April 11, 2019",Farro,Egg & Cheese,Paul Fehribach,20,Ted Allen,Damaris Phillips,,Sara Nguyen,Paul Fehribach,Andrew Friedman,Aliya LeeKong,Jimmy Bradley
+239,2,"""They Took the Cheese""","April 18, 2019",Swiss cheese,Goat Kebab,Bobby Flay,20,Marcus Samuelsson,Anne Burrell,,Carl Schaubhut,Roshni Gurnani,Sam Talbot,Andrienne Cheatham,Vikas Khanna
+240,3,"""A Tropical Punch""","April 25, 2019",Mangoes,Fried Oyster Po'boy,Matt Pace,20,Katie Lee,Scott Conant,,Zach Meloy,Matt Pace,Ken Oringer,Georgette Farkas,Richie Notar
+241,4,"""Pump It Up""","May 2, 2019",Pumpernickel Bread,Corn Chowder,Bobby Flay,20,Tony Rock,Alex Guarnaschelli,,Stephan Bogurdus,Bill Clifton,Jimmy Bradley,Melba Wilson,Michael Lomonaco
+242,5,"""Something's Fishy""","May 5, 2019",Bluefish,Shrimp Taco,Bobby Flay,20,Richard Blais,Natalie Morales,,Coby Farrow,Johnny Hernandez,Sara Moulton,Michael Psilakis,Lourdes Castro
+243,6,"""Grapes of Wrath""","May 9, 2019",Grapes,Carrot Cake,Zac Young,20,Alex Guarnaschelli,Buddy Valastro,,Paulette Goto,Zac Young,Claudia Fleming,Corby Kummer,Raiza Costa
+244,7,"""Making Headlines""","May 16, 2019",Pinto Beans,Jerk Snapper,Bobby Flay,20,Dylan Dreyer,Scott Conant,,Alvin Savella,Patrick Simpson,Frank Prisinzano,Lucinda Scala Quinn,Chung Chow
+245,8,"""Flame-tastic!""","May 23, 2019",Plums,Skirt steak Churrasco,Bobby Flay,20,Alex Guarnaschelli,Michael Symon,,Mikala Brennan,Armando Litiatco,Lourdes Castro,David Santos,Michele Ragussis
+246,9,"""Bye Bye Birdie""","May 30, 2019",Boneless Quail,Sacchettoni,Brian Lewis,20,Michael Symon,Jet Tila,,Rebecca Weitzman,Brian Lewis,Spike Mendelsohn,Lucinda Scala Quinn,Cesare Casella
+247,10,"""Give Me Some Mo!""","June 6, 2019",Lentils,Beef Mofongo,Bobby Flay,20,Sunny Anderson,Katie Lee,,Ramon Perez,Andre Gomez,Ivy Stark,Jackfry Rosado,Grace Ramirez
+248,11,"""Grind it Out!""","June 13, 2019",Andouille,Kung Pao chicken,Pablo Zitzmann,20,Michael Voltaggio,Tony Hawk,,Ming Pu,Pablo Zitzmann,Wilson Tang,Leah Cohen,Josh Grinker
+249,12,"""Chi-Town Throws Down""","June 20, 2019",Edamame,Fish and chips,Aaron Cuschieri,20,Carla Hall,Sophia Bush,,Jill Barron,Aaron Cuschieri,David Massoni,Sara Gore,Akhtar Nawab
+250,13,"""Double Trouble""","June 20, 2019",Brie,Chicken enchilada,Bobby Flay,20,Damaris Phillips,Daphne Oz,,Enrique Limardo,Jeff Smedstad,Alex Garcia,Vivian Chan,Ricardo Cardona
+251,1,"""Use Your Noodle""","June 27, 2019",Soba Noodles,Lamb Kofta,Bobby Flay,21,Scott Conant,Geoffrey Zakarian,,Philippe Haddad,Melissa O'Donnell,Jean-Paul Bourgeois,Jumana Bishara,Christian Schienle
+252,2,"""A Taste Of Summer""","July 4, 2019",Passion Fruit,Fried Belly Clam Roll,Nick Williams,21,Noah Cappe,Anne Burrell,,Mark Peel,Nick Williams,Ed McFarland,Susan Povich,Kevin Sbraga
+253,3,"""Snaked Out""","July 11, 2019",Cashew,Shakshuka,Bobby Flay,21,Marc Murphy,Chris Santos,,Sylva Senat,Derek Simcik,Einat Admony,Corby Kummer,Adrienne Cheatham
+254,4,"""Seeing Stars""","July 18, 2019",Breakfast Sausage,Crawfish Boil,Jay Ducote,21,Damaris Philips,Richard Blais,,Alex McCoy,Jay Ducote,Jean-Paul Bourgeois,Hong Thaimee,Floyd Cardoz
+255,5,"""It's A Date""","July 25, 2019",Veal Rib Chops,Meatloaf Sandwich,Bobby Flay,21,Alex Guarnaschelli,Alton Brown,,Carrie Summer,Lisa Carlson,Michael Psilakis,Ayala Donchin,Jake Dell
+256,6,"""Finding Stars""","August 1, 2019",Arugula,Lamb Pie,Pano Karatassos,21,Giada De Laurentiis,Jess Cagle,,Mimi Weissenborn,Pano Karatassos,Michael Lomonaco,Michele Ragussis,Daniel Breaker
+257,7,"""Clear The Deck""","August 8, 2019",Beef Rib Cap,Sole meuniere,Bobby Flay,21,Daphne Oz,Eddie Jackson,,Daniel Gomez Sanchez,Matthew Ridgway,Tricia Williams,Madison Cowan,Keri Glassman
+258,8,"""Break A Plate!""","August 15, 2019",Rye Bread,Vegetable Lasagna,Bobby Flay,21,Damaris Phillips,Rachael Ray,,Anthony Scolaro,Adam Leonti,Frank Prisinzano,Georgette Farkas,Adam Greenberg
+259,9,"""Funny or Fried""","August 22, 2019",Taleggio Cheese,Cuban Sandwich,Bobby Flay,21,Alton Brown,Amanda Freitag,,Gregory Wiener,Daphne Brogdon,Richie Notar,Sue Torres,Hugh Mangum
+260,1,"""A Proper Smackdown""","August 29, 2019",Asian Pears,Fisherman's Pie,Ian Winslade,22,Valerie Bertinelli,Clinton Kelly,,Geoff Rhyne,Ian Winslade,Michael Solomonov,Adrienne Cheatham,Alain Allegretti
+261,2,"""A Pioneering Ordeal""","September 5, 2019",Hanger Steak,Shrimp and Grits,Bobby Flay,22,Alex Guarnaschelli,Ree Drummond,,Vince Giancarlo,Jamarius Banks,Jean-Paul Bourgeois,Melba Wilson,Adrienne Cheatham
+262,3,"""It's Gonna Be A Late Night""","September 12, 2019",Duck Bacon,Huevos Rancheros,Carrie Baird,22,Michael Symon,Seth Meyers,,Lamar Moore,Carrie Baird,Sara Moulton,Craig Samuel,Ariel Fox
+263,4,"""All In The Family""","September 19, 2019",Horseradish,Picadillo,Bobby Flay,22,Carla Hall,Jesse Tyler Ferguson,,Michael Bertozzi,Mika Leon,Louie Estrada,Lourdes Castro,Chris Cheung
+264,5,"""It's Gonna Be Jarring""","September 26, 2019",Anchovy,Agnolotti,Bobby Flay,22,Anne Burrell,Carson Kressley,,Kevin Sweeney,Nicco Muratore,Albert Di Meglio,Lauren Scala,Lisle Richards
+265,6,"""Bobby vs. Food""","September 26, 2019",Olive,Arròs negre,Bobby Flay,22,Eddie Jackson,Casey Webb,,Sarah Murray,Eric Bolyard,Einat Admony,Lisle Richards,Alison Roman
+266,7,"""Fey vs. Flay""","October 3, 2019",Rutabaga,Lamb Shawarma,Bobby Flay,22,Alex Guarnaschelli,Tina Fey,,Asia Mei,Alexcia Smith,Lucinda Scala Quinn,Michael Lomonaco,Esther Choi
+267,8,"""They Had Style, They Had Food""","October 10, 2019",Ginger,Olive Oil Cake,Shelby Sieg,22,Scott Conant,Fran Drescher,,Jessica Scott,Shelby Sieg,Amirah Kassem,David Lebovitz,Paulette Goto
+268,9,"""Keeping It Real""","October 17, 2019",Rolled Oats,Chicken Cacciatore,Bobby Flay,22,Ted Allen,Jeannie Mai,,Giuseppe Fanelli,Ryan Depersio,Richie Notar,Georgette Farkas,David Massoni
+269,10,"""It Must've Been Love""","October 24, 2019",Papaya,Beef Empanada,Rosana Rivera,22,Jet Tila,Ali Tila,,Ricardo Castro,Rosana Rivera,Akhtar Nawab,Ivy Stark,Matt FX
+270,11,"""Gobble Till You Wobble""","November 14, 2019",Cornbread,Turkey Meatloaf,Bobby Flay,22,Alex Guarnaschelli,Jay Pharoah,,Jason Bissell,Tirzah Love,Wylie Dufresne,Einat Admony,Adam Sappington
+271,12,"""A Good Day for a Win""","December 26, 2019",Kumquat,Egg Rolls,Bobby Flay,22,Katie Lee,Mikey Day,,Adam Hodgson,Minnie Nguyen,Sara Gore,Kardea Brown,Pati Jinich
+272,13,"""Winter Win-Derland""","January 2, 2020",Venison Loin,Duck a l'orange,Bobby Flay,22,Michael Symon,Bethenny Frankel,,Andrew Wilson,Kevin Hickey,Daniel Breaker,Lucinda Scala Quinn,Daniel Eddy
+273,1,"""You Look Radishing""","January 5, 2020",Radish,Eggs Benedict,Charlie Loomis,23,Giada De Laurentiis,Betsy Brandt,,Israel Rivera,Charlie Loomis,Richie Notar,Sue Torres,James Briscione
+274,2,"""Don't Fiddle Around!""","January 9, 2020",Fiddlehead Ferns,Baked Clams,Bobby Flay,23,Josh Capon,Teri Hatcher,,Daniel Wright,Geoff Lazio,Ronnie Woo,Rosanna Scotto,Ed McFarland
+275,3,"""That's Amore""","January 12, 2020",Chanterelle Mushrooms,Pizza Bianca,Daniele Uditi,23,Carla Hall,Christian Petroni,,Chris Thompson,Daniele Uditi,JJ Johnson,Lauren Scala,Joe Isidori
+276,4,"""America's Funniest Food Show""","January 16, 2020",Fontina,Lobster Risotto,Sam Diminich,23,Anne Burrell,Bob Saget,,Aliza Green,Sam Diminich,Marco Canora,Susan Povich,Michael Psilakis
+277,5,"""Pretty Little Fryer""","January 19, 2020",Smelts,Veal Saltimbocca,Bobby Flay,23,Scott Conant,Sasha Pieterse,,Franco Robazetti,Anthony LoPinto,Cliff Crooks,Lourdes Castro,Justin Bazdarich
+278,6,"""Perched For Victory""","January 26, 2020",Yellow Perch,Arancini,Elizabeth Binder,23,Anne Burrell,Valerie Bertinelli,,Mike Ellis,Elizabeth Binder,Michel Nischan,Ayesha Nurdjaja,Albert Di Meglio
+279,7,"""This'll Stick In Your Craw""","January 26, 2020",Crawfish,Clay Pot Chicken,Bobby Flay,23,Sunny Anderson,Clinton Kelly,,Jojo Vasquez,Brian Riggenbach,Dan Churchill,Leah Cohen,Chris Cheung
+280,8,"""The Cheese Stands Alone""","February 2, 2020",Farmer's Cheese,Chicken Tikka Masala,Paddy Rawal,23,Sunny Anderson,Giada De Laurentiis,,Trey Lamont,Paddy Rawal,Floyd Cardoz,Leah Cohen,Nigel Spence
+281,9,"""Chocolate Covered Clash""","February 9, 2020",Chocolate Hazelnut Spread,Chocolate Cream Pie,Bobby Flay,23,Michael Voltaggio,Drew Barrymore,,Miriam Taylor,DaVee Harned,Zac Young,Paulette Goto,Scott Levine
+282,10,"""We Will, We Will Judge You""","February 9, 2020",Cotija Cheese,Pastitsio,Michele Ragussis,23,Alex Guarnaschelli,Lou Diamond Phillips,,Adrienne Cheatham,Michele Ragussis,Keri Glassman,Craig Samuel,Dana Cowin
+283,11,"""The Power of Jane""","February 16, 2020",Tamarind,Chicken Schnitzel,Bobby Flay,23,Michael Symon,Jane Krakowski,,Matt Spinner,Attila Bollok,Drew Nieporent,Dana Cowin,Jeremy Salaman
+284,12,"""Guess Who's Back""","February 16, 2020",Cranberry Beans,Pasta Ragù,Bobby Flay,23,Katie Lee,Josh Capon,,Jackie Rothong,Ryan Lory,Frank Prisinzano,Angie Rito,Albert Di Meglio
+285,1,"""The Queen Is In""","February 23, 2020",Mandarin Oranges,Fish Croquette,Michael Merida,24,Richard Blais,Martha Stewart,,Katherine Fuchs,Michael Merida,Laurent Tourondel,Ayesha Nurdjaja,Felipe Donnelly
+286,2,"""The Lady Butchers""","February 23, 2020",Bison Loin,Pork Sandwich,Penny Barend,24,Michael Symon,Courtney Rada,,Melissa Khoury,Penny Barend,Lourdes Castro,Matt Abdoo,Leah Wolfe
+287,3,"""This Just In!""","March 1, 2020",Whole Flounder,Bacon Cheeseburger,Patrick Schaeffer,24,Alex Guarnaschelli,Don Lemon,,Dieter Samijn,Patrick Schaeffer,Adrienne Cheatham,Laurent Tourondel,Abigail Hitchcock
+288,4,"""The Queen Returns""","March 1, 2020",Sunflower Seeds,Fried Chicken Sandwich,Bobby Flay,24,Michael Symon,Martha Stewart,,Max Castro,Sarah Wade,Ariel Fox,Joe Isidori,Kardea Brown
+289,5,"""We'll Be The Judge""","March 8, 2020",Duck eggs,Wonton Soup,Dale Talde,24,Sunny Anderson,Geoffrey Zakarian,,Ed McFarland,Dale Talde,Michael Anthony,Tricia Williams,Ed Schoenfeld
+290,6,"""The View From The Top""","March 15, 2020",Spring Onions,Pork Ramen,Bobby Flay,24,Michael Symon,Sunny Hostin,,Pom Amaritnant,Troy Gagliardo,Dale Talde,Sara Gore,Ed Schoenfeld
+291,7,"""All Dried Out Over You""","March 22, 2020",Guajillo Chilies,Surf and Turf,Bobby Flay,24,Anne Burrell,David Burtka,,Ian Redshaw,Rachael Polhill,Abigail Hitchcock,Wylie Dufresne,Ayala Donchin
+292,8,"""Don't Sugarcoat It""","March 29, 2020",Kiwi,Baklava,Kathleen McDaniel,24,Marcela Valladolid,Buddy Valastro,,Jocelyn Gragg,Kathleen McDaniel,Claudia Fleming,David Lebovitz,Sarah Sanneh
+293,9,"""Blast From The Past""","April 5, 2020",Serrano Ham,Lamb Meatballs,Bobby Flay,24,Ted Allen,Carla Hall,,Justin Hunt,Wesley True,Rosanna Scotto,Dan Kluger,Ayesha Nurdjaja
+294,10,"""BBF: Beat My Best Friend""","April 12, 2020",Black-Eyed Peas,venison Wellington,Sylvain Delpique,24,Michael Symon,Clinton Kelly,,Jackie Mazza,Sylvain Delpique,Drew Nieporent,Georgette Farkas,Harold Moore
+295,11,"""The Grill Fits The Bill""","April 19, 2020",Goat Rack,Ribs,Bobby Flay,24,Anne Burrell,Marc Murphy,,Susie Bulloch,David Bancroft,Hugh Mangum,Amy Mills,Ed McFarland
+296,12,"""Sibling Rivalry""","April 26, 2020",Cherry Peppers,Kreplach,Lisa Storch,24,Alex Guarnaschelli,Damaris Phillips,,Matt Storch,Lisa Storch,Craig Samuel,Dana Cowin,Jake Dell
+297,13,"""No Cake Walk""","May 3, 2020",Black and White Sesame Seeds and Tahini,Multi-Layered Cake,Buddy Valastro,24,Sunny Anderson,,,Alex Guarnaschelli,Buddy Valastro,Paulette Goto,Dan Langan,Ashley Gabrielsen
+298,1,"""Ready, Set, Grill!""","May 24, 2020",Swordfish,Barbecue Chicken Wings,Bobby Flay,25,Eddie Jackson,Danica Patrick,,Jess DeSham Timmons,Leslie Roark Scott,Ronnie Woo,Tricia Williams,Joe Isidori
+299,2,"""Summer Lovin'""","May 31, 2020",Rhubarb,Lobster Rolls,Bobby Flay,25,Carla Hall,Steve Higgins,,Kathy Sidell,Vinson Petrillo,Michele Ragussis,James Briscione,Hannah Wong
+300,3,"""Gives You Goosebumps""","June 7, 2020",Goosberries,Pork Chops and Applesauce,Bobby Flay,25,Scott Conant,Cheri Oteri,,Senada Grbic,Nick Walker,Michael Psilakis,Sara Moulton,Jeremy Salamon
+301,4,"""Go Nuts!""","June 14, 2020",Walnuts,Steak Sandwich,Anthony Endy,25,Ree Drummond,Eddie Jackson,,Ian Rough,Anthony Endy,Hugh Mangum,Pati Jinich,Cliff Crooks
+302,5,"""Superchef, Supermodel""","June 21, 2020",Taro Root,Falafel,Max Robbins,25,Anne Burrell,Gigi Hadid,,Melissa Araujo,Max Robbins,Michael Psilakis,Tricia Williams,Joe Isidori
+303,6,"""Beat Bobby Flay: The Musical""","June 28, 2020",Capers,French Onion Soup,Rémi Granger,25,Damaris Phillips,Jaymee Sire,,Elijah Milligan,Rémi Granger,David Massoni,Ariane Daguin,Michael Anthony
+304,7,"""So Much Shade""","July 5, 2020",Baby Artichokes,Chicken Cordon Bleu,Bobby Flay,25,Scott Conant,Vivica A. Fox,,Peter Prime,Nico Romo,Melba Wilson,Brian Duffy,Lucinda Scala Quinn
+305,8,"""Fresh-Squeezed""","July 12, 2020",Pomelo,Pozole Verde with Seafood,Bobby Flay,25,Amanda Freitag,Michael Symon,,Carrie Eagle,Jose Salazar,Ivy Stark,Michael Psilakis,Pati Jinich
+306,9,"""Somewhere Over The Rainbow""","July 19, 2020",Rainbow Carrots,Crab Bisque,Bobby Flay,25,Alex Guarnaschelli,Michael Voltaggio,,Devin Bozkaya,Jennifer Dewasha,Michele Ragussis,Michael Gutowski,Melba Wilson

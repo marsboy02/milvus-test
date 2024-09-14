@@ -1,0 +1,683 @@
+﻿Company,Incident_date,Ride_name_dirty,Ride_name,Theme_Park,age_gender,description
+Disney World,06/09/2022,Alien Swirling Saucers,Alien Swirling Saucers,Hollywood Studios,59 yof,guest with pre-existing condition sustained injury to toes
+Disney World,10/05/2014,Astro Orbiter,Astro Orbiter,Magic Kingdom,68 yom," guest fell exiting vehicle, developed blood clot in leg"
+Disney World,12/03/2009,Astro Orbitor,Astro Orbiter,Magic Kingdom,40 yof,fractured left ankle exiting ride
+Disney World,08/07/2022,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,83 yom,guest with pre-existing condition was briefly unresponsive while experiencing attraction
+Disney World,4/19/22,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,42 yof,guest with pre-existing condition had motion sickness after experiencing the attraction
+Disney World,07/05/2022,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,67 yof,guest with pre-existing lost consciousness after exiting the attraction
+Disney World,1/27/22,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,25 yof,guest with a pre-existing condition had a seizure after experiencing the attraction
+Disney World,12/18/21,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,69 yom,guest felt unwell upon exiting attraction
+Disney World,12/21/21,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,69 yof,guest felt disoriented after experiencing attraction
+Disney World,9/16/21,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,68 yof,guest with pre-existing condition felt lightheaded after experiencing the attraction
+Disney World,6/29/21,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,27 yom,guest with pre-existing condition had a seizure after experiencing the attraction
+Disney World,3/24/18,Avatar Flight of Passage,Avatar Flight of Passage,Animal Kingdom,41 yom,guest with pre-existing condition felt ill after riding attraction
+Disney World,07/05/2019,Flight of Passage,Avatar Flight of Passage,Animal Kingdom,34 yof,guest temporarily lost consciousness while on attraction
+Disney World,5/28/18,Flight of Passage,Avatar Flight of Passage,Animal Kingdom,18 yom,guest with pre-existing condition felt disoriented after riding attraction
+Disney World,10/27/17,Flight of Passage,Avatar Flight of Passage,Animal Kingdom,77 yof,guest fell while boarding ride
+Disney World,04/11/2017,Flight of Passage,Avatar Flight of Passage,Animal Kingdom,56 yof,guest with pre-existing condition temporarily passed out on ride
+Disney World,12/06/2017,Flight of Passage,Avatar Flight of Passage,Animal Kingdom,79 yof,guest with pre-existing condition became ill after riding
+Disney World,6/24/17,Flight or Passage,Avatar Flight of Passage,Animal Kingdom,31 yof," felt dizzy, ill and brief loss of consciousness"
+Universal,6/27/04,Back to the Future,Back to the Future,Universal Studios,67 yof,Hypertension
+Disney World,05/08/2012,Big Thunder Mountain,Big Thunder Mountain Railroad,Magic Kingdom,62 yof,guest with pre-existing condition complained of pain in leg upon exiting later diagnosed with a blood clot
+Disney World,12/19/04,Big Thunder Mountain,Big Thunder Mountain Railroad,Magic Kingdom,68 yom,reported difficulty moving when leaving ride
+Disney World,12/24/03,Big Thunder Mtn.,Big Thunder Mountain Railroad,Magic Kingdom,23 yom,knee
+Disney World,3/14/08,Big Thunder Mountain,Big Thunder Mountain Railroad,Magic Kingdom,39 yom,Seizure after exiting ride
+Disney World,4/22/17,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,59 yof,guest with pre-existing conditions felt ill
+Disney World,10/05/2017,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,44 yof,stomach pain
+Disney World,09/02/2017,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,54 yom,guest with pre-existing condition collapsed; later passed away at hospital
+Disney World,12/02/2017,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,69 yom,guest with pre-existing condition complained of neck pain
+Disney World,06/12/2015,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,75 yom," guest complained of pain,  tremors and numbness in right arm after exiting"
+Disney World,02/12/2014,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,63 yof," guest with pre-existing health conditions experienced headache & loss of consciousness after riding,  subsequently underwent surgery for aneurysm and released from hospital"
+Disney World,7/21/14,Big Thunder Mountain Railroad,Big Thunder Mountain Railroad,Magic Kingdom,71 yof,chest pain
+Disney World,5/27/14,Big Thunder Mountain Railway,Big Thunder Mountain Railroad,Magic Kingdom,72 yof," guest with preexisting condition exited ride with chest pain and felt dizzy, briefly lost consciousness and fell"
+Disney World,01/11/2006,Buzz Lightyear,Buzz Lightyears Space Ranger Spin,Magic Kingdom,56 yom,Seizure.
+Disney World,11/30/04,Buzz Lightyear,Buzz Lightyears Space Ranger Spin,Magic Kingdom,58 yof,got sick on ride due to lights.
+Disney World,11/05/2003,Buzz Lightyear,Buzz Lightyears Space Ranger Spin,Magic Kingdom,75 yof,knee injury
+Disney World,5/14/03,Buzz Lightyear,Buzz Lightyears Space Ranger Spin,Magic Kingdom,12 yof,lacerated ankle
+Disney World,09/08/2008,Buzz Lightyear,Buzz Lightyears Space Ranger Spin,Magic Kingdom,54 yom," fell after getting off ride, fractured hip"
+Disney World,3/18/19,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,75 yom,guest fell and fractured leg while entering attraction vehicle
+Disney World,10/25/18,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,72 yof,guest fell while exiting the ride vehicle; injured hip
+Disney World,10/06/2017,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,50 yof,felt ill after riding
+Disney World,02/09/2015,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,67 yom,guest with pre-existing health condition felt dizziness and chest pains
+Disney World,11/10/2014,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,34 yof,guest with history of diabetic seizures experienced seizure
+Disney World,01/03/2014,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,71 yof,fell while exiting; fractured hip
+Disney World,07/11/2013,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,48 yom,guest felt ill after riding
+Disney World,9/14/10,Buzz LightyearÃ¢ÂÂs Space Ranger Spin,Buzz Lightyears Space Ranger Spin,Magic Kingdom,73 yof,fell on moving walkway in load area: fractured spine.
+Universal,3/30/15,Camp Jurassic,Camp Jurassic,Islands of Adventure,5 yof,arm injury
+Universal,8/25/10,Camp Jurassic,Camp Jurassic,Islands of Adventure,34 yof,fractured ankle
+Universal,07/17/2007,Camp Jurassic,Camp Jurassic,Islands of Adventure,14 yof,Fractured arm.
+Universal,01/03/2017,Caro-Seuess-el,Caro-Seuss-el,Islands of Adventure,68 yof,pelvis pain
+Universal,6/14/22,Caro-Seuss-el,Caro-Seuss-el,Islands of Adventure,33 yof,head pain
+Universal,11/22/17,Caro-Seuss-El,Caro-Seuss-el,Islands of Adventure,59 yom,fainting/head injury
+Universal,7/25/11,Caro-Seuss-el,Caro-Seuss-el,Islands of Adventure,80 yom,general illness
+Universal,12/29/01,Caro-Seuss-el,Caro-Seuss-el,Islands of Adventure,52 yof,broken arm
+Universal,12/02/2012,Caro-Suess-el,Caro-Seuss-el,Islands of Adventure,62 yof,head laceration
+Disney World,05/07/2012,Carousel of Progress,Carousel of Progress,Magic Kingdom,62 yof," tripped while approaching seat, fractured femur"
+Disney World,7/24/13,Walt DisneyÃ¢ÂÂs Carousel of Progress,Carousel of Progress,Magic Kingdom,1 yof,guest with pre-existing condition had difficulty breathing
+Disney World,9/22/19,Castaway Creek,Castaway Creek,Blizzard Beach,44 yof,guest experienced sudden memory loss
+Disney World,08/04/2017,Castaway Creek,Castaway Creek,Blizzard Beach,57 yof,guest with pre-existing condition experienced stroke-like symptoms
+Disney World,10/10/2013,Castaway Creek,Castaway Creek,Blizzard Beach,68 yom,fractured toe on outer wall
+Disney World,7/16/11,Castaway Creek,Castaway Creek,Blizzard Beach,18 yof,loss of consciousness and seizure like symptoms.
+Disney World,6/26/10,Castaway Creek,Castaway Creek,Blizzard Beach,54 yof,Lost balance and fell; fractured tibia
+Disney World,02/16/04,Blizzard Beach,Chair Lift,Blizzard Beach,41 yof," injured ankle getting into raft, went to hospital"
+Disney World,5/19/15,Blizzard Beach Chair Lift,Chair Lift,Blizzard Beach,65 yof," fell while exiting attraction, fractured hip"
+Disney World,12/07/2004,Cross Country Creek,Cross County Creek,Blizzard Beach,33yof,seizure
+Disney World,01/01/2008,Cross County Creek,Cross County Creek,Blizzard Beach,48 yom,Guest jumped into creek and fractured ankle
+Disney World,02/05/2007,CrushÃ¢ÂÂn Gusher,Crush n' Gusher,Blizzard Beach,17 yom,Hit head on bottom of catch pool
+Disney World,05/25/2012,Crush n' Gusher,Crush n' Gusher,Blizzard Beach,45 yof,Chest pain
+Universal,4/23/15,Despicable Me Minion Mayem,Despicable Me Minion Mayhem,Universal Studios,54 yof,head and neck pain
+Universal,12/13/19,Despicable Me Minion Mayhem,Despicable Me Minion Mayhem,Universal Studios,44 yof,motion sickness
+Universal,3/17/18,Despicable Me Minion Mayhem,Despicable Me Minion Mayhem,Universal Studios,7 yof,motion sickness
+Universal,10/13/15,Despicable Me Minion Mayhem,Despicable Me Minion Mayhem,Universal Studios,66 yof,dizziness
+Disney World,6/24/03,Dinosaur,Dinosaur,Animal Kingdom,14 yof,chest pain
+Disney World,4/30/05,Dinosaur Ride,Dinosaur,Animal Kingdom,30 yom," guest lost consciousness, parents indicated he had a pre-existing heart condition. Later passed away at hospital"
+Disney World,07/17/03,Dinosour,Dinosaur,Animal Kingdom,64 yof,passed out
+Disney World,1/17/22,Dinosaur,Dinosaur,Animal Kingdom,65 yom,guest with pre-existing condition felt dizzy after experiencing attraction
+Disney World,2/17/19,Dinosaur,Dinosaur,Animal Kingdom,53 yom,guest with pre-existing condition had chest pains and shortness of breath
+Disney World,4/17/18,Dinosaur,Dinosaur,Animal Kingdom,46 yof,guest felt dizzy after riding attraction
+Disney World,6/17/18,Dinosaur,Dinosaur,Animal Kingdom,58 yom,guest with pre-existing condition vomited after experiencing the attraction
+Disney World,12/23/15,Dinosaur,Dinosaur,Animal Kingdom,24 yom,seizure after departing from attraction
+Disney World,3/15/14,Dinosaur,Dinosaur,Animal Kingdom,73 yof,chest pain
+Disney World,2/18/12,Dinosaur,Dinosaur,Animal Kingdom,36 yof,seizure after riding
+Disney World,02/08/2010,Dinosaur,Dinosaur,Animal Kingdom,45 yom,seizure
+Disney World,10/12/2009,Dinosaur,Dinosaur,Animal Kingdom,61yof,seizure
+Disney World,7/25/08,Dinosaur,Dinosaur,Animal Kingdom,73 yom,guest with pre-existing heart condition reported chest pain
+Disney World,02/01/2010,Dinosaur or Expedition Everest,Dinosaur,Animal Kingdom,40 yof,chest pain: anxiety
+Universal,10/29/13,Disaster,Disaster,Universal Studios,61 yof,presented with confusion
+Disney World,04/06/2007,Downhill Double Dipper,Downhill Double Dipper,Blizzard Beach,8 yof,Back Pain.
+Disney World,03/16/07,Downhill Double Dipper,Downhill Double Dipper,Blizzard Beach,52 yom,It is unclear whether the guest rode this attraction. Guest collapsed adjacent to catch pool; later passed away
+Disney World,7/27/17,Downhill Double Dipper,Downhill Double Dipper,Blizzard Beach,45 yof,fractured arm
+Disney World,07/24/12,Downhill Double Dipper,Downhill Double Dipper,Blizzard Beach,18 yof,guest with pre-existing condition had a seizure
+Universal,4/15/03,Dr. Doom,Dr Doom's Fearfall,Islands of Adventure,9 yof,laceration/tear genitalia
+Universal,12/07/2019,Dr. DoomÃ¢ÂÂs Fearfall,Dr Doom's Fearfall,Islands of Adventure,62 yof,motion sickness
+Universal,04/15/2006,Dueling Dragons,Dragon Challenge,Islands of Adventure,47 yof," Nausea, heartburn, chest pain, numb L arm"
+Universal,7/31/16,Dragon Challenge,Dragon Challenge,Islands of Adventure,52 yof,dizziness
+Universal,4/25/16,Dragon Challenge,Dragon Challenge,Islands of Adventure,46 yof,neck pain
+Universal,3/28/15,Dragon Challenge,Dragon Challenge,Islands of Adventure,41 yom,back pain
+Universal,9/30/15,Dragon Challenge Ã¢ÂÂ Fireball,Dragon Challenge,Islands of Adventure,59 yom,unconscious
+Universal,10/18/13,Dragons Challenge,Dragon Challenge,Islands of Adventure,67 yof,presented with confusion
+Universal,11/07/2012,Dragons Challenge,Dragon Challenge,Islands of Adventure,17 yof,lowered level of consciousness
+Universal,7/31/11,Dragons Challenge,Dragon Challenge,Islands of Adventure,48 yom,eye discomfort
+Universal,09/12/2009,Dueling Dragons,Dragon Challenge,Islands of Adventure,29 yof,vomiting
+Universal,09/08/2008,Dueling Dragons,Dragon Challenge,Islands of Adventure,46 yom," chest pain,  shortness of breath and nausea"
+Universal,11/08/2007,Dueling Dragons,Dragon Challenge,Islands of Adventure,16 yom,Upper back pain.
+Universal,10/17/14,Dudley Do Rights Ripsaw Falls,Dudley Do Rights Ripsaw Falls,Islands of Adventure,49 yof,seizure (pre-existing condition)
+Universal,02/10/2002,Dudley Do Rights Ripsaw Falls,Dudley Do Rights Ripsaw Falls,Islands of Adventure,55 yof,complained of lower back pain.
+Universal,10/11/2002,Dudley Do Rights Ripsaw Falls,Dudley Do Rights Ripsaw Falls,Islands of Adventure,62 yom,complained of neck pain.
+Universal,11/07/2002,Dudley Do Rights Ripsaw Falls,Dudley Do Rights Ripsaw Falls,Islands of Adventure,36 yof,fractured back.
+Disney World,2/22/06,Dumbo,Dumbo,Magic Kingdom,40Ã¢ÂÂs yom,Came off ride not feeling well.
+Universal,1/31/19,E.T. Adventure,E.T Adventure,Universal Studios,11 yom,foot pain
+Universal,09/12/2015,E.T. Adventure,E.T Adventure,Universal Studios,21 yof,motion sickness
+Universal,4/20/14,E.T. Adventure,E.T Adventure,Universal Studios,61 yom,weakness
+Universal,3/13/09,E.T. Adventure,E.T Adventure,Universal Studios,68 yom,Left arm numbness
+Universal,3/13/21,E.T.Ã¢ÂÂs Adventure,E.T Adventure,Universal Studios,71 yof,motion sickness
+Universal,1/18/15,ET Adventure,E.T Adventure,Universal Studios,44 yof,back pain (pre-existing condition)
+Universal,3/22/02,ET Adventure,E.T Adventure,Universal Studios,13 yom,injured right foot.
+Disney World,03/08/2005,Universe of Energy,Ellen's Energy Adventure,Epcot,73 yom,felt ill.
+Disney World,3/13/05,Universe of Energy,Ellen's Energy Adventure,Epcot,52 yom,not feeling well on ride.
+Disney World,07/03/2016,EllenÃ¢ÂÂs Energy Adventure,Ellen's Energy Adventure,Epcot,67 yom," guest felt ill, dizzy and disoriented"
+Disney World,07/10/2012,EllenÃ¢ÂÂs Energy Adventure,Ellen's Energy Adventure,Epcot,88 yof,chest pain
+Disney World,12/30/12,EllenÃ¢ÂÂs Energy Adventure,Ellen's Energy Adventure,Epcot,76 yom," loss of consciousness while on ride,  pre-existing condition"
+Disney World,3/17/11,EllenÃ¢ÂÂs Energy Adventure,Ellen's Energy Adventure,Epcot,77 yom,Report of possible heart attack for guest with history of heart condition
+Disney World,3/28/03,EllenÃ¢ÂÂs Energy Adventure,Ellen's Energy Adventure,Epcot,81 yof,heart attack later died.
+Disney World,06/23/09,Universe of Energy,Ellen's Energy Adventure,Epcot,57 yom,Felt dizzy.
+Disney World,03/03/2007,Expedition Everest,Expedition Everest,Animal Kingdom,27 yom,Seizure.
+Disney World,9/20/06,Expedition Everest,Expedition Everest,Animal Kingdom,59 yof,Felt disoriented and sick.
+Disney World,6/21/06,Expedition Everest,Expedition Everest,Animal Kingdom,60 yom,Shortness of breath and chest pains.
+Disney World,04/06/2010,Exedition Everest,Expedition Everest,Animal Kingdom,74 yom,felt dizzy and ill
+Disney World,05/07/2019,Expedition Everest,Expedition Everest,Animal Kingdom,41 yof,seizure after experiencing the attraction
+Disney World,9/22/19,Expedition Everest,Expedition Everest,Animal Kingdom,45 yof,guest felt ill; migraine and vomiting
+Disney World,11/05/2019,Expedition Everest,Expedition Everest,Animal Kingdom,56 yom,guest with pre-existing condition became ill after riding attraction
+Disney World,03/06/2019,Expedition Everest,Expedition Everest,Animal Kingdom,70 yom,guest became dizzy and nauseous after riding the attraction
+Disney World,5/19/18,Expedition Everest,Expedition Everest,Animal Kingdom,26 yom,guest experienced a seizure after riding attraction
+Disney World,5/27/18,Expedition Everest,Expedition Everest,Animal Kingdom,22 yof,guest with history of dislocating kneecap had reoccurrence
+Disney World,07/08/2017,Expedition Everest,Expedition Everest,Animal Kingdom,58 yom,guest with pre-existing condition had nausea and vomited after the ride
+Disney World,4/20/17,Expedition Everest,Expedition Everest,Animal Kingdom,34 yom,felt something in eye irritation
+Disney World,12/02/2017,Expedition Everest,Expedition Everest,Animal Kingdom,30 yom,reported being struck on head; headache; dizziness
+Disney World,4/18/15,Expedition Everest,Expedition Everest,Animal Kingdom,46 yom,seizure after exiting.
+Disney World,09/02/2015,Expedition Everest,Expedition Everest,Animal Kingdom,36 yof," guest who felt ill at times earlier in the day, felt dizzy, shaky and numbness after attraction"
+Disney World,3/19/15,Expedition Everest,Expedition Everest,Animal Kingdom,72 yof,temporary memory loss after exiting ride
+Disney World,04/08/2014,Expedition Everest,Expedition Everest,Animal Kingdom,58 yof,Guest felt lightheaded & fell injuring right knee & arm; brief loss of consciousness.
+Disney World,06/01/2014,Expedition Everest,Expedition Everest,Animal Kingdom,54 yom," nausea and dizziness,  briefly lost consciousness after ride"
+Disney World,1/16/14,Expedition Everest,Expedition Everest,Animal Kingdom,65 yom,guest with pre-existing condition felt light headed after exiting ride
+Disney World,12/28/13,Expedition Everest,Expedition Everest,Animal Kingdom,29 yof,guest felt ill & disoriented with slurred speech
+Disney World,12/29/11,Expedition Everest,Expedition Everest,Animal Kingdom,71 yom," guest not feeling well riding attraction, blocked arteries"
+Disney World,10/07/2011,Expedition Everest,Expedition Everest,Animal Kingdom,61 yom," history of heart condition, felt ill"
+Disney World,5/18/11,Expedition Everest,Expedition Everest,Animal Kingdom,33 yof,felt dizzy and ill
+Disney World,08/08/2010,Expedition Everest,Expedition Everest,Animal Kingdom,51 yom,chest pain
+Disney World,9/23/10,Expedition Everest,Expedition Everest,Animal Kingdom,72 yof,felt dizzy and ill
+Disney World,5/18/10,Expedition Everest,Expedition Everest,Animal Kingdom,54 yom," felt ill, difficulty breathing; later had heart attack"
+Disney World,10/20/2009,Expedition Everest,Expedition Everest,Animal Kingdom,27yom,seizure
+Disney World,02/08/2009,Expedition Everest,Expedition Everest,Animal Kingdom,66 yom,felt ill
+Disney World,11/05/2009,Expedition Everest,Expedition Everest,Animal Kingdom,77 yom,felt lightheaded and weak
+Disney World,3/29/08,Expedition Everest,Expedition Everest,Animal Kingdom,72 yom,stomach pain
+Disney World,5/17/08,Expedition Everest,Expedition Everest,Animal Kingdom,57 yom,felt hot & dizzy
+Disney World,6/16/08,Expedition Everest,Expedition Everest,Animal Kingdom,78 yom,felt ill before & after riding ride; trouble breathing & blurred vision
+Disney World,05/03/2008,Expedition Everest,Expedition Everest,Animal Kingdom,72 yof,Complained of dizziness and loss of memory after riding
+Disney World,12/18/07,Expedition Everest,Expedition Everest,Animal Kingdom,44 yom,Guest with history of heart condition was unconscious at unload and passed away
+Disney World,12/10/2021,Expedition Everest Ã¢ÂÂ Legend of the Forbidden Mountain,Expedition Everest,Animal Kingdom,57 yof,guest experienced cardiac symptoms after exiting the attraction
+Disney World,7/14/21,Expedition Everest Ã¢ÂÂ Legend of the Forbidden Mountain,Expedition Everest,Animal Kingdom,72 yom,guest felt nauseous after experiencing the attraction
+Disney World,10/25/15,Expedition Everest-Legend of the Forbidden Mountain,Expedition Everest,Animal Kingdom,69 yom,guest with pre-existing condition felt chest pain and dizziness after riding.
+Disney World,6/21/14,Expedition Everest-Legend of the Forbidden Mountain,Expedition Everest,Animal Kingdom,51 yof," nausea, dizziness and shortness of breath"
+Universal,02/12/2021,Fast & Furious Ã¢ÂÂ Supercharged,Fast & Furious - Supercharged,Universal Studios,27 yof,seizure
+Universal,4/24/19,Fast & Furious Ã¢ÂÂ Supercharged,Fast & Furious - Supercharged,Universal Studios,76 yof,fainting/chest pain (pre-existing condition)
+Universal,06/06/2019,Fast & Furious Ã¢ÂÂ Supercharged,Fast & Furious - Supercharged,Universal Studios,67 yof,fainting
+Universal,12/26/18,FievelÃ¢ÂÂs Playground,Fievel's Playground,Universal Studios,38 yof,ankle pain
+Universal,6/16/16,FievelÃ¢ÂÂs Playground,Fievel's Playground,Universal Studios,3 yom,arm pain
+Universal,01/01/2016,Flight of Hippogriff,Flight of the Hippogriff,Islands of Adventure,43 yof,weakness (pre-existing condition)
+Disney World,2/17/17,Frozen Ever After,Frozen Ever After,Epcot,74 yof,fell entering boat; fractured leg
+Disney World,7/21/15,Gran Fiesta Tour,Gran Fiesta Tour Attraction,Epcot,46 yof,injured back
+Disney World,12/11/2012,Gran Fiesta Tour,Gran Fiesta Tour Attraction,Epcot,70 yof,lost balance & fell from seat
+Disney World,03/09/2007,Gran Fiesta Tour,Gran Fiesta Tour Attraction,Epcot,56 yom,Lost consciousness while on ride.
+Disney World,2/15/21,Gran Fiesta Tour attraction,Gran Fiesta Tour Attraction,Epcot,69 yof,guest injured her ankle
+Disney World,7/22/04,Great Movie Ride,Great Movie Ride,Hollywood Studios,64 yof,chest pains
+Disney World,01/01/2016,Great Movie Ride,Great Movie Ride,Hollywood Studios,80 yom,guest with history of motion sickness became temporarily unconscious while on the attraction.
+Disney World,3/13/16,Great Movie Ride,Great Movie Ride,Hollywood Studios,41 yom,guest with preexisting condition had numbness and felt dizzy.
+Disney World,1/20/15,Great Movie Ride,Great Movie Ride,Hollywood Studios,57 yom,guest with pre-existing condition had brief loss of consciousness
+Disney World,5/19/08,Great Movie Ride,Great Movie Ride,Hollywood Studios,54 yom," felt ill, possible heart attack"
+Disney World,8/18/14,The Great Movie Ride,Great Movie Ride,Hollywood Studios,71 yom,chest pain and loss of consciousness.
+Universal,04/12/2020,HagridÃ¢ÂÂs Magical Creature Motorbike Adventure,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,25 yof,seizure
+Universal,07/07/2021,HagridÃ¢ÂÂs Magical Creatures Motorbike Adventure,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,7 yof,back pain
+Universal,09/06/2021,HagridÃ¢ÂÂs Magical Creatures Motorbike Adventure,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,59 yof,headache
+Universal,10/15/17,Halloween Horror Nights,Halloween Horror Nights,Universal Studios,42 yom,chest pain
+Universal,03/10/2015,Harry Potter and the Escape from GringottÃ¢ÂÂs,Harry Potter and the Escape from Gringotts,Universal Studios,17 yom," anxious, difficulty breathing"
+Universal,7/26/22,Harry Potter and the Escape from Gringotts,Harry Potter and the Escape from Gringotts,Universal Studios,36 yom,abdominal pain
+Universal,4/28/17,Harry Potter and the Escape from Gringotts,Harry Potter and the Escape from Gringotts,Universal Studios,18 yof,motion sickness
+Universal,10/20/16,Harry Potter and the Escape from Gringotts,Harry Potter and the Escape from Gringotts,Universal Studios,44 yof,seizure (pre-existing condition)
+Universal,7/19/11,Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,52 yom,vertigo
+Universal,4/16/15,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,70 yof,motion sickness
+Universal,1/17/15,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,69 yom,chest discomfort
+Universal,3/15/15,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,51 yom,difficult moving extremities (pre-existing condition)
+Universal,3/24/15,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,76 yof,altered mental status
+Universal,01/10/2014,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,22 yom,nausea (pre-existing condition)
+Universal,11/13/13,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,51 yom,motion sickness
+Universal,07/12/2013,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,40 yom,fainting
+Universal,12/16/13,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,70 yom,chest pain
+Universal,07/07/2013,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,66 yof,hip & pelvis pain
+Universal,9/13/13,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,19 yom,seizure (pre-existing condition)
+Universal,07/05/2013,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,57 yom,chest pain
+Universal,5/15/13,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,61 yof,headache
+Universal,02/01/2013,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,69 yof,dizziness
+Universal,1/22/13,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,45 yof,syncope
+Universal,02/04/2012,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,67 yof,motion sickness
+Universal,11/01/2012,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,54 yom,motion sickness
+Universal,03/03/2012,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,71 yof,motion sickness
+Universal,3/31/12,Harry Potter & the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,71 yom,motion sickness
+Universal,09/09/2022,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,28 yom,syncope
+Universal,1/13/22,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,66 yom,motion sickness
+Universal,3/15/22,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,77 yof,hip pain
+Universal,03/11/2019,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,57 yof,motion sickness
+Universal,12/26/19,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Universal Studios,78 yom,knee injury
+Universal,10/10/2018,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,58 yof,dizziness
+Universal,03/09/2018,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,39 yof,motion sickness
+Universal,06/01/2018,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,52 yof,dizziness and weakness
+Universal,12/27/17,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,61 yom,altered mental status
+Universal,04/08/2017,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,68 yom,fainting
+Universal,4/16/17,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,81 yof,motion sickness
+Universal,05/01/2017,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,57 yom,motion sickness
+Universal,07/03/2017,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,70 yof,motion sickness
+Universal,01/10/2016,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,28 yof,seizure (pre-existing condition)
+Universal,10/16/16,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,43 yom,motion sickness
+Universal,02/04/2016,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,50 yof,fainting
+Universal,5/23/16,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,59 yom,motion sickness
+Universal,12/24/15,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,50 yom,motion sickness
+Universal,12/24/15,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,55 yom,motion sickness
+Universal,8/26/15,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,43 yof,motion sickness
+Universal,05/04/2014,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,43 yof,head and neck pain
+Universal,01/01/2014,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,79 yof,upper leg pain
+Universal,1/20/14,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,47 yom,lowered level of consciousness
+Universal,1/29/2011,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,60 yom,syncope
+Universal,2/28/11,Harry Potter and the Forbidden Journey,Harry Potter and the Forbidden Journey,Islands of Adventure,57 yom,Chest pain
+Disney World,10/02/2007,Haunted Mansion,Haunted Mansion,Magic Kingdom,89 yof,fell exiting attraction
+Disney World,12/04/2021,Haunted Mansion,Haunted Mansion,Magic Kingdom,66 yof,guest fell and fractured wrist exiting the attraction
+Disney World,5/16/16,Haunted Mansion,Haunted Mansion,Magic Kingdom,70 yof,guest with preexisting condition became dizzy.
+Disney World,8/20/15,Haunted Mansion,Haunted Mansion,Magic Kingdom,68 yof,became disoriented after exiting ride
+Disney World,10/06/2013,Haunted Mansion,Haunted Mansion,Magic Kingdom,62 yom,guest with pre-existing condition suffered from chest pain
+Disney World,09/08/2011,Haunted Mansion,Haunted Mansion,Magic Kingdom,66 yof," fell on moving walkway while loading, fractured leg"
+Disney World,1/31/09,Haunted Mansion,Haunted Mansion,Magic Kingdom,56 yom,chest pain
+Disney World,7/29/08,Haunted Mansion,Haunted Mansion,Magic Kingdom,68 yof,fell after exiting vehicle and fractured shoulder
+Disney World,6/19/08,Haunted Mansion,Haunted Mansion,Magic Kingdom,57 yof,hit right knee getting into vehicle
+Disney World,12/30/17,The Haunted Mansion,Haunted Mansion,Magic Kingdom,66 yom,guest with pre-existing condition experienced chest pain
+Disney World,12/31/13,The Haunted Mansion,Haunted Mansion,Magic Kingdom,35 yom,guest with preexisting condition felt chest pain prior to and after riding
+Disney World,03/03/2013,The Haunted Mansion,Haunted Mansion,Magic Kingdom,79 yof," fell stepping onto moving walkway, fractured leg and dislocated ankle"
+Universal,09/13/2012,Hollywood Rip Ride Rock It,Hollywood Rip Ride Rocket,Universal Studios,40 yom,chest pain
+Universal,8/31/22,Hollywood Rip Ride Rocket,Hollywood Rip Ride Rocket,Universal Studios,67 yof,headache
+Universal,11/21/18,Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,34 yof,head pain
+Universal,12/13/18,Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,35 yof,nausea
+Universal,10/11/2015,Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,35 yof,neck pain
+Universal,10/16/14,Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,36 yof,neck pain
+Universal,06/08/2014,Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,33 yom,motion sickness
+Universal,03/10/2011,Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,43 yof,motion sickness
+Universal,04/03/2016,Hollywood Rip Rode Rockit,Hollywood Rip Ride Rocket,Universal Studios,57 yof,motion sickness
+Universal,05/22/10,"Hollywood Rip, Ride Rockit",Hollywood Rip Ride Rocket,Universal Studios,45 yof,back pain
+Universal,4/24/10,"Hollywood Rip, Ride Rockit",Hollywood Rip Ride Rocket,Universal Studios,36 yom,back pain
+Universal,10/31/2009,"Hollywood Rip, Ride Rockit",Hollywood Rip Ride Rocket,Universal Studios,40 yom,chest pain
+Universal,01/09/2016,The Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,49 yom,back pain
+Universal,6/23/13,The Hollywood Rip Ride Rockit,Hollywood Rip Ride Rocket,Universal Studios,41 yom,chest pain
+Disney World,5/26/08,Honey I Shrunk the Kids,Honey I Shrunk The Kids,Hollywood Studios,47 yof,went down slide & fractured ankle
+Disney World,11/25/2005,Honey I Shrunk the Kids,Honey I Shrunk The Kids,Hollywood Studios,12 yom,fell and hurt wrist.
+Disney World,3/24/11,"Honey, I shrunk the Kids Movie Set Adventure",Honey I Shrunk The Kids,Hollywood Studios,8 yom,fell; hit head; back pain
+Disney World,03/10/2015,Humunga Kowabunga,Humunga Kowabunga,Typhoon Lagoon,27 yof,laceration while riding
+Disney World,12/09/2015,Humunga Kowabunga,Humunga Kowabunga,Typhoon Lagoon,10 yom,fractured hip
+Disney World,7/24/13,Humunga Kowabunga,Humunga Kowabunga,Typhoon Lagoon,43 yof,laceration
+Universal,4/20/19,If I Ran the Zoo,If I Ran the Zoo,Islands of Adventure,44 yof,head pain
+Disney World,12/25/14,ItÃ¢ÂÂs A Small World,It's A Small World,Magic Kingdom,22 yof,guest with preexisting health condition lost consciousness after riding; later passed away
+Disney World,11/21/08,ItÃ¢ÂÂs a Small World,It's A Small World,Magic Kingdom,55 yom,Seizure
+Disney World,06/07/2008,ItÃ¢ÂÂs A Small World,It's A Small World,Magic Kingdom,55 yom,difficulty breathing
+Disney World,9/22/21,Journey info Imagination with Figment,Journey info Imagination with Figment,Epcot,70 yof,guest fell exiting the attraction striking her nose
+Disney World,12/16/17,Journey into Imagination with Figment,Journey info Imagination with Figment,Epcot,65 yof,guest tripped and fractured elbow
+Disney World,4/21/22,Jungle Cruise,Jungle Cruise,Magic Kingdom,35 yom,guest with pre-existing condition had chest pain after experiencing the attraction
+Disney World,3/14/20,Jungle Cruise,Jungle Cruise,Magic Kingdom,74 yof,guest fractured leg stepping into boat
+Disney World,8/18/17,Jungle Cruise,Jungle Cruise,Magic Kingdom,5 yom,guest with pre-existing condition had a seizure
+Disney World,01/09/2015,Jungle Cruise,Jungle Cruise,Magic Kingdom,4 yof,fractured finger
+Disney World,11/13/12,Jungle Cruise,Jungle Cruise,Magic Kingdom,69 yof," guest fell while stepping into boat, fractured hip"
+Disney World,03/23/12,Jungle Cruise,Jungle Cruise,Magic Kingdom,40 yof,fell while stepping into boat & fractured fibula. Passed away of pulmonary embolism on 4/7/12.
+Universal,2/15/19,Jurassic Park River Adventure,Jurassic Park River Adventure,Islands of Adventure,27 yof,foot pain
+Universal,08/05/2018,Jurassic Park River Adventure,Jurassic Park River Adventure,Islands of Adventure,76 yof,shoulder & wrist pain
+Universal,7/24/22,Jurassic World VelociCoaster,Jurassic World VelociCoaster,Islands of Adventure,38 yof,neck pain
+Universal,5/27/17,Kala Serpentine Body Slide,Kala Serpentine Body Slide,Volcano Bay,45 yom,back pain
+Disney World,6/13/06,Kali River Rapids,Kali River Rapids,Animal Kingdom,12 yom,Guest who was recently released from hospital and recovering from pneumonia fainted and fell on dock
+Disney World,02/06/2005,Kali River Rapids,Kali River Rapids,Animal Kingdom,45 yof,guest fell from raft into flume at load area and hit head
+Disney World,05/12/2014,Kali River Rapids,Kali River Rapids,Animal Kingdom,26 yom,guest with preexisting condition had seizure
+Disney World,9/29/13,Kali River Rapids,Kali River Rapids,Animal Kingdom,39 yom,seizure
+Disney World,5/17/13,Kali River Rapids,Kali River Rapids,Animal Kingdom,36 yof,guest with pre-existing condition suffered a seizure
+Disney World,01/03/2010,Kali River Rapids,Kali River Rapids,Animal Kingdom,47 yom,preexisting heart condition felt numbness on right side of body
+Universal,01/02/2022,Kang & Kodos Twirl nÃ¢ÂÂ Hurl,Kang & Kodos Twirl n' Hurl,Universal Studios,21 yof,abdominal pain (pre-existing condition)
+Disney World,07/16/2007,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,42 yom," Jumped out of vehicle, broke left ankle"
+Disney World,06/04/2010,Kilamanaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,72 yof,seizure
+Disney World,5/23/10,Kilamanjaro Safaries,Kilimanjaro Safaris Expedition,Animal Kingdom,65 yom,chest pain
+Disney World,12/24/16,Kilimangaro Safari,Kilimanjaro Safaris Expedition,Animal Kingdom,67 yom,guest with pre-existing condition felt numbness after riding
+Disney World,12/29/17,Kilimanjaro Safari,Kilimanjaro Safaris Expedition,Animal Kingdom,70 yof,guest with pre-existing condition experienced chest pain
+Disney World,5/21/14,Kilimanjaro Safari,Kilimanjaro Safaris Expedition,Animal Kingdom,68 yof,guest with pre-existing condition felt tightness in chest
+Disney World,10/03/2012,Kilimanjaro Safari,Kilimanjaro Safaris Expedition,Animal Kingdom,75 yof,guest w/ pre-existing health condition felt nauseated & had chest pain
+Disney World,12/22/08,Kilimanjaro Safari,Kilimanjaro Safaris Expedition,Animal Kingdom,51 yof,seizure
+Disney World,4/25/18,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,27 yof,guest went into labor after riding attraction
+Disney World,07/06/2018,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,62 yof,guest with pre-existing conditions suffered nausea and vomiting on ride
+Disney World,1/17/18,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,71 yom,guest experienced chest pain after riding attraction
+Disney World,10/06/2017,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,19 yof,guest with pre-existing condition had a seizure
+Disney World,6/15/16,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,70 yom,guest with preexisting condition felt ill; neck discomfort
+Disney World,03/09/2015,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,1 yom,developed rash before boarding; rash later worsened; temporarily passed out while on ride
+Disney World,6/24/15,Kilimanjaro Safaris,Kilimanjaro Safaris Expedition,Animal Kingdom,51 yof," felt dizzy , mini stroke"
+Disney World,04/04/2022,Kilimanjaro Safaris Expedition,Kilimanjaro Safaris Expedition,Animal Kingdom,57 yof,guest had trouble breathing and numbness to her face after riding the attraction
+Disney World,6/24/22,Kilimanjaro Safaris Expedition,Kilimanjaro Safaris Expedition,Animal Kingdom,70 yof,guest felt dizzy and weak after riding the attraction
+Disney World,6/27/22,Kilimanjaro Safaris Expedition,Kilimanjaro Safaris Expedition,Animal Kingdom,44 yom,guest lost consciousness while on the attraction
+Disney World,10/13/21,Kilimanjaro Safaris Expedition,Kilimanjaro Safaris Expedition,Animal Kingdom,82 yom,guest passed out while experiencing the attraction
+Disney World,3/13/21,Kilimanjaro Safaris Expedition,Kilimanjaro Safaris Expedition,Animal Kingdom,72 yof,guest became ill while riding the attraction
+Disney World,12/02/2016,Wild Africa Trek,Kilimanjaro Safaris Expedition,Animal Kingdom,73 yof,guest became disoriented during experience.
+Universal,12/11/2018,KoÃ¢ÂÂokiri Body Plunge,Ko'okiri Body Plunge,Volcano Bay,11 yof,foot pain
+Universal,6/14/19,Kopiko Wai Winding River,Kopiko Wai Winding River,Volcano Bay,64 yof,knee pain
+Universal,3/24/19,Kopiko Wai Winding River,Kopiko Wai Winding River,Volcano Bay,10 yom,fainting
+Universal,7/17/22,Kopiko Wai Windng River,Kopiko Wai Winding River,Volcano Bay,51 yom,chest pain
+Disney World,7/21/15,Liberty Riverboat,Liberty Riverboat,Magic Kingdom,80 yof,passed out and struck head
+Disney World,5/29/22,Living with the Land,Living with the Land,Epcot,66 yof,guest with pre-existing condition had a cardiac event while exiting the attraction
+Disney World,05/06/2006,Mad Tea Party,Mad Tea Party,Magic Kingdom,62 yof,Missed step and fell
+Disney World,4/18/18,Mad Tea Party,Mad Tea Party,Magic Kingdom,74 yof,guest with pre-existing illness felt ill after riding attraction
+Disney World,5/23/18,Mad Tea Party,Mad Tea Party,Magic Kingdom,68 yof,guest with pre-existing condition was dizzy after riding attraction
+Disney World,08/12/2016,Mad Tea Party,Mad Tea Party,Magic Kingdom,64 yof,fell and fractured ankle
+Disney World,12/18/14,Mad Tea Party,Mad Tea Party,Magic Kingdom,49 yom,tripped while exiting ride vehicle; fractured shoulder
+Disney World,10/13/13,Mad Tea Party,Mad Tea Party,Magic Kingdom,75 yof," fell while exiting, fractured wrist"
+Disney World,4/13/10,Mad Tea Party,Mad Tea Party,Magic Kingdom,68 yof,fell exiting vehicle; fractured hip
+Disney World,5/24/10,Mad Tea Party,Mad Tea Party,Magic Kingdom,61 yof," fell exiting vehicle, left arm fracture"
+Disney World,7/15/08,Mad Tea Party,Mad Tea Party,Magic Kingdom,56 yom,felt dizzy and sick
+Disney World,02/02/2008,Mad Tea Party,Mad Tea Party,Magic Kingdom,72 yof," Fell exiting ride, fractured hip"
+Disney World,03/28/2012,Maelstrom,Maelstrom,Epcot,41 yom,seizure
+Disney World,11/15/06,Mayday Falls,Mayday Falls,Typhoon Lagoon,74 yom,Broken foot.
+Disney World,03/05/2018,Mayday Falls,Mayday Falls,Typhoon Lagoon,25 yom,guest fractured ankle going down slide
+Disney World,5/15/15,Mayday Falls,Mayday Falls,Typhoon Lagoon,41 yof,fractured ankle
+Disney World,7/18/14,Mayday Falls,Mayday Falls,Typhoon Lagoon,42 yof,fractured ankle
+Disney World,6/23/14,Mayday Falls,Mayday Falls,Typhoon Lagoon,44 yom,fractured leg
+Disney World,06/29/2012,Mayday Falls,Mayday Falls,Typhoon Lagoon,48 yom,Guest with preexisting condition felt chest pain after riding
+Disney World,7/16/11,Mayday Falls,Mayday Falls,Typhoon Lagoon,42 yof,injured ankle
+Disney World,7/19/04,Melt Away Bay,Meltaway Bay,Blizzard Beach,11 yom,seizure
+Disney World,10/06/2018,Melt-Away-Bay,Meltaway Bay,Blizzard Beach,70 yom,guest with pre-existing heart condition had a heart attack and passed away
+Universal,08/01/2004,Men In Black,Men In Black,Universal Studios,12 yom,Fractured Toe
+Universal,6/25/16,Men In Black,Men In Black,Universal Studios,46 yom,seizure (pre-existing condition)
+Universal,3/18/13,Men In Black,Men In Black,Universal Studios,41 yof,hermatemesis
+Universal,10/10/2011,Men in Black,Men In Black,Universal Studios,79 yom,dizziness & syncope
+Universal,5/21/15,Men in Black Alien Attack,Men In Black,Universal Studios,57 yof,headache
+Universal,7/31/13,Men in Black Alien Attack,Men In Black,Universal Studios,22 yof,abdominal pain
+Disney World,4/13/22,Mickey & MinnieÃ¢ÂÂs Runaway Railway,Mickey & Minnie's Runaway Railway,Hollywood Studios,47 yof,guest had seizure after experiencing the attraction
+Disney World,10/28/20,Mickey & MinnieÃ¢ÂÂs Runaway Railway,Mickey & Minnie's Runaway Railway,Hollywood Studios,86 yof,guest tripped and fell exiting the ride vehicle injuring her head arm and leg
+Disney World,05/04/2022,Millennium Falcon: Smugglers Run,Millennium Falcon: Smugglers Run,Hollywood Studios,23 yom,guest had seizure while experiencing the attraction
+Disney World,03/03/2020,Millennium Falcon: Smugglers Run,Millennium Falcon: Smugglers Run,Hollywood Studios,9 yof,guest with pre-existing medical condition had a seizure after the ride
+Disney World,11/20/18,Miss Adventure Falls,Miss Adventure Falls,Typhoon Lagoon,18 yom,guest fell out of raft into catch pool at the end of slide and struck his head
+Disney World,08/12/2018,Miss Adventure Falls,Miss Adventure Falls,Typhoon Lagoon,44 yom,guest sustained fractures to arm and injuries to neck and back when arm became caught in conveyor belt during initial incline of ride
+Disney World,07/24/12,Mission Space,Mission: Space,Epcot,62 yom,guest with pacemaker stated he felt a shock through his shoulders when fastening his restraint
+Disney World,07/19/07,Mission Space,Mission: Space,Epcot,63 yom,Guest with history of high blood pressure. Became ill after riding
+Disney World,11/20/06,Mission Space,Mission: Space,Epcot,59 yom,Guest with hypertension felt ill day after riding
+Disney World,11/04/2006,Mission Space,Mission: Space,Epcot,49 yof,Felt ill; passed away next day at hospital.
+Disney World,04/10/2005,Mission Space,Mission: Space,Epcot,51 yom,reported on 10/07/05 that had not been feeling well sinece riding attraction three days prior
+Disney World,06/08/2005,Mission Space,Mission: Space,Epcot,42 yom,chest pain.
+Disney World,6/13/05,Mission Space,Mission: Space,Epcot,4 yom,child lost consciousness. Later died at hospital
+Disney World,08/11/2004,Mission Space,Mission: Space,Epcot,50 yom,Became dizzy and had upset stomach.
+Disney World,7/16/04,Mission Space,Mission: Space,Epcot,40 yof,fainted while on ride
+Disney World,10/08/2003,Mission Space,Mission: Space,Epcot,55 yom,sustained nausea on ride
+Disney World,10/21/03,Mission: SPACE,Mission: Space,Epcot,61 yom,chest pain.
+Disney World,11/17/03,Mission: SPACE,Mission: Space,Epcot,67 yom,chest pain.
+Disney World,05/02/2004,Mission: Space.,Mission: Space,Epcot,68 yof,didnÃ¢ÂÂt feel well
+Disney World,03/24/04,Mission: Space.,Mission: Space,Epcot,59 yof,Chest Pains
+Disney World,03/30/04,Mission: Space.,Mission: Space,Epcot,59 yom,Nausea
+Disney World,9/15/17,Mission Space,Mission: Space,Epcot,56 yof,guest with pre-existing condition felt ill after experiencing attraction
+Disney World,1/25/13,Mission SPACE,Mission: Space,Epcot,16 yof,seizure/loss of consciousness
+Disney World,2/23/13,Mission SPACE,Mission: Space,Epcot,34 yof,guest fainted after ride
+Disney World,7/19/11,Mission Space,Mission: Space,Epcot,57 yof,guest with pre-existing health condition felt ill after exiting attraction & temporarily lost consciousness.
+Disney World,8/13/10,Mission SPACE,Mission: Space,Epcot,54 yof,felt ill: chest pain
+Disney World,06/06/2010,Mission SPACE,Mission: Space,Epcot,27 yom,Felt ill
+Disney World,09/19/09,Mission SPACE,Mission: Space,Epcot,52 yof," felt dizzy, loss of memory"
+Disney World,06/19/09,Mission Space,Mission: Space,Epcot,57 yof,loss of consciousness
+Disney World,2/19/16,Mission Space; Test Track,Mission: Space,Epcot,57 yom,guest with preexisting heart condition felt ill after riding attractions.
+Disney World,12/07/2022,Mission: Space,Mission: Space,Epcot,47 yom,guest with pre-existing condition lost consciousness after experiencing the green side of the attraction
+Disney World,7/26/20,Mission: Space,Mission: Space,Epcot,68 yof,guest with pre-existing condition had a stroke after experiencing the green side of the attraction
+Disney World,09/07/2019,Mission: Space,Mission: Space,Epcot,34 yom,guest with history of motion sickness became ill after riding
+Disney World,10/06/2018,Mission: SPACE,Mission: Space,Epcot,43 yom,guest with pre-existing medical issues experienced brief loss of consciousness
+Disney World,2/13/12,Mission: Space,Mission: Space,Epcot,56 yom,guest w/ pre-existing health condition felt ill after ride; heart attack
+Disney World,5/23/11,Mission: SPACE,Mission: Space,Epcot,53 yof,guest with history of vertigo felt dizzy and ill
+Disney World,08/02/2010,Mission: SPACE,Mission: Space,Epcot,45 yom," vomiting,  vertigo and felt rapid heart rate"
+Disney World,8/21/08,Mission: Space,Mission: Space,Epcot,42 yof,felt dizzy and sick
+Disney World,1/19/17,Mission:SPACE,Mission: Space,Epcot,69 yof,guest with pre-existing condition felt ill and passed out momentarily
+Disney World,08/05/2014,Mission:Space,Mission: Space,Epcot,70 yof,chest pain
+Disney World,12/05/2014,Mission:Space,Mission: Space,Epcot,58 yom,guest with pre-existing condition felt tightness in chest and nausea
+Disney World,6/24/14,Mission:Space,Mission: Space,Epcot,54 yof,motion sickness
+Disney World,03/07/2019,NaÃ¢ÂÂvi River Journey,Na'vi River Journey,Animal Kingdom,83 yom,injured hip entering the attraction
+Universal,05/09/2020,Ohno Drop Slide,Oh! No! Drop Slide,Volcano Bay,59 yof,hip/pelvis pain
+Disney World,6/21/06,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,43 yof,Fell getting onto ride; fractured hip.
+Disney World,2/14/06,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,70 yom,Guest tripped and fell into the ride path as he attempted to board the attraction.
+Disney World,07/29/07,Peter Pans Flight,Peter Pan's Flight,Magic Kingdom,68 yof,Fell Ã¢ÂÂ fractured legs and arms.
+Disney World,9/25/19,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,4 yom,guest with pre-existing medical condition had a seizure after experiencing the attraction
+Disney World,06/01/2014,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,63 yof,guest with pre-existing condition felt chest pain after riding
+Disney World,06/03/2011,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,75 yof,fell on moving walkway in load area; fractured knee
+Disney World,07/17/2009,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,74 yof," lost balance on unload belt,  fell and hit head and fractured wrist"
+Disney World,04/10/2008,Peter PanÃ¢ÂÂs Flight,Peter Pan's Flight,Magic Kingdom,43 yom,Seizure
+Disney World,2/13/05,Pirates of the Carribbean,Pirates of the Caribbean,Magic Kingdom,77 yof,lost consciousness after ride. Later passed away at hospital
+Disney World,5/17/22,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,70 yom,guest experienced abdominal and back pain while on the attraction
+Disney World,11/10/2021,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,81 yom,guest with pre-existing condition experienced stroke like symptoms after having been on the attraction
+Disney World,10/25/17,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,76 yom,guest with pre-existing condition experienced headache and brief loss of consciousness
+Disney World,3/23/17,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,50 yom,guest recovering from throat surgery became ill
+Disney World,11/26/15,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,30 yof,guest fell while entering the ride
+Disney World,12/20/15,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,43 yof,guest with pre-existing condition had a seizure after exiting.
+Disney World,5/20/15,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,47 yom,guest with pre-existing condition felt back pain when exiting the ride.
+Disney World,10/07/2014,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,57 yom,lacerated tips of 2 fingers
+Disney World,4/13/14,Pirates of the Caribbean,Pirates of the Caribbean,Magic Kingdom,12 yom,lacerated 4 fingers
+Disney World,01/11/2012,Pirates of the Carribean,Pirates of the Caribbean,Magic Kingdom,71 yof," dizziness, chest pain, mouth numbness"
+Universal,7/18/22,PoseidonÃ¢ÂÂs Fury,Poseidon's Fury,Islands of Adventure,50 yom,nausea
+Universal,12/24/14,PoseidonÃ¢ÂÂs Fury,Poseidon's Fury,Islands of Adventure,82 yof,shoulder pain
+Disney World,7/24/14,Primeval Whirl,Primeval Whirl,Animal Kingdom,46 yof,temporarily lost consciousness after exiting attraction.
+Disney World,2/22/22,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,74 yof,guest fell stepping down from attraction
+Disney World,3/24/22,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,63 yof,while dismounting a horse guest lost balance and fell
+Disney World,1/30/19,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,69 yom,guest fell while exiting the attraction and fractured hip
+Disney World,11/13/14,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,64 yof," fell while stepping off carousel horse, fractured leg"
+Disney World,2/25/12,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,68 yof,felt ill while boarding attraction; fractured hip & leg
+Disney World,2/29/12,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,65 yof,felt ill while exiting attraction; fractured arm
+Disney World,9/21/11,Prince Charming Regal Carousel,Prince Charming Regal Carousel,Magic Kingdom,66 yof," fell while stepping off the carousel platform, fractured leg"
+Disney World,1/24/17,Prince Charming Regal Carrousel,Prince Charming Regal Carousel,Magic Kingdom,72 yof,fell and hit head
+Disney World,11/10/2010,Prince Charming Regal Carrousel,Prince Charming Regal Carousel,Magic Kingdom,71 yof,guest fell and fractured hip and shoulder while ride was stopped.
+Disney World,12/12/2010,Prince Charming Regal Carrousel,Prince Charming Regal Carousel,Magic Kingdom,77 yof,guest with pre-existing conditions (i.e. heart condition prior stroke) felt ill while riding attraction  collapsed after exiting and subsequently passed away.
+Universal,5/26/19,Puihi Round Raft Ride,Puihi Raft Ride,Volcano Bay,24 yof,head pain
+Universal,11/07/2019,Punga Racers,Punga Racers,Volcano Bay,47 yom,numbness
+Disney World,3/24/22,RemyÃ¢ÂÂs Ratatouille Adventure,Remy' s Ratatouille Adventure,Epcot,55 yom,guest with pre-existing condition experienced stroke like symptoms after exiting the attraction
+Universal,11/14/2005,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,68 yof,Loss of Consciousness.
+Universal,8/16/05,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,63 yof,lower back pain.
+Universal,9/23/05,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,57 yof,Dizziness/Mild Chest Discomfort.
+Universal,06/08/2019,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,65 yom,back pain
+Universal,10/16/18,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,41 yof,dizziness
+Universal,3/28/17,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,60 yof,seizure
+Universal,6/24/15,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,59 yom," chest, tightness/pressure/pain"
+Universal,11/03/2015,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,20 yom,motion sickness (pre-existing condition)
+Universal,5/16/14,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,15 yom,lowered level consciousness
+Universal,5/29/14,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,18 yom,chest pain
+Universal,07/23/2012,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,50 yof,knee pain
+Universal,08/04/2011,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,73 yof,nausea lightheadedness
+Universal,5/24/08,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,45 yom,chest pain/nausea
+Universal,11/18/07,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,34 yof,Lower back vertebrae fracture
+Universal,08/19/07,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,57 yom,Chest pain.
+Universal,07/07/2007,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,70 yof,general weakness after exiting ride.
+Universal,09/21/04,Revenge of the Mummy,Revenge of the Mummy,Universal Studios,39 yom,passed away
+Disney World,05/19/07,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,47 yom,Chest pain; diagnosed with heart attack
+Disney World,04/10/2006,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,59 yom,Headache and dizziness; transported from other park location approximately three hours after riding.
+Disney World,6/28/06,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50 yof,Fell while getting into vehicle; back injury
+Disney World,6/29/06,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,12 yom,Guest unresponsive; later passed away at hospital
+Disney World,2/28/19,Rock Ã¢ÂÂnÃ¢ÂÂ Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,64 yom,guest had chest pains
+Disney World,4/26/17,Rock Ã¢ÂÂnÃ¢ÂÂ Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,70 yom,shoulder and arm pain; dizziness
+Disney World,6/15/17,Rock Ã¢ÂÂnÃ¢ÂÂ Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,81 yom,guest with pre-existing condition felt dizzy and faint
+Disney World,10/27/21,Rock Ã¢ÂÂnÃ¢ÂÂ Roller Coaster Staring Aerosmith,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,18 yom,guest passed out and fell after exiting the attraction
+Disney World,2/27/22,Rock Ã¢ÂÂnÃ¢ÂÂ Roller Coaster Starring Aerosmith,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,48 yof,guest with pre-existing condition had a seizure on the attraction
+Disney World,3/26/22,Rock Ã¢ÂÂnÃ¢ÂÂ Roller Coaster Starring Aerosmith,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,43 yof,guest passed out after experiencing the attraction
+Disney World,10/31/19,Rock N Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,46 yof,severe head pain illness and vomiting after riding
+Disney World,12/26/14,Rock N Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,51 yof,dizziness & loss of memory after riding; later lost consciousness
+Disney World,09/06/2012,Rock 'n Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,51 yom,Loss of consciousness on ride; regained consciousness before exiting
+Disney World,01/12/2014,Rock N Rollercoaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55 yof,experienced nausea and motion sickness
+Disney World,08/10/2017,Rock nÃ¢ÂÂ Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,71 yof,guest with pre-existing condition felt ill after riding attraction
+Disney World,9/18/15,Rock nÃ¢ÂÂ Rollercoaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55 yom,guest with pre-existing condition felt ill and temporarily lost consciousness
+Disney World,09/17/2009,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,31 yof,seizure after exiting ride
+Disney World,09/21/2009,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50 yof,chest pains and shortness of breath
+Disney World,04/13/09,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,48 yom,feeling weak on left side and had trouble standing after riding.
+Disney World,05/21/09,RockÃ¢ÂÂn Roller Coaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55 yom,Chest pains
+Disney World,05/06/2008,RockÃ¢ÂÂn Rollercoaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,25 yof,seizure
+Disney World,6/21/16,RockinÃ¢ÂÂ Rollercoaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,26 yom,guest reported back and leg pain and that he was lightheaded; later underwent heart surgery.
+Disney World,6/25/16,RockinÃ¢ÂÂ Rollercoaster,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50 yom,felt ill; nausea
+Universal,10/05/2022,Runamukka Reef,Runamukka Reef,Volcano Bay,78 yof,elbow pain
+Disney World,11/21/15,Seven DwarfÃ¢ÂÂs Mine Train,Seven Dwarfs Mine Train,Magic Kingdom,71 yom,guest felt ill after riding attraction
+Disney World,11/27/18,Seven Dwarfs Mine Train,Seven Dwarfs Mine Train,Magic Kingdom,58 yof,guest felt dizzy after having experienced the attraction
+Disney World,5/14/17,Seven Dwarfs Mine Train,Seven Dwarfs Mine Train,Magic Kingdom,48 yof,guest with pre-existing condition had a seizure
+Disney World,12/18/14,Seven Dwarfs Mine Train,Seven Dwarfs Mine Train,Magic Kingdom,54 yom,guest wilt preexisting condition felt ill after exiting
+Disney World,9/25/22,Slinky Dog Dash,Slinky Dog Dash,Hollywood Studios,46 yom,guest had a seizure after riding the attraction
+Disney World,02/02/2019,Slinky Dog Dash,Slinky Dog Dash,Hollywood Studios,30 yom,guest with pre-existing condition had seizure
+Disney World,8/16/04,Slush Gusher,Slush Gusher,Blizzard Beach,49yom,felt dizzy & sick
+Disney World,1/31/09,Snow WhiteÃ¢ÂÂs Scary Adventures,Snow White's Scary Adventures,Magic Kingdom,46 yof,guest exited vehicle and claims to have lost consciousness
+Disney World,08/05/2008,Snow WhiteÃ¢ÂÂs Scary Adventures,Snow White's Scary Adventures,Magic Kingdom,6 yof,seizure
+Disney World,01/15/2007,SoarinÃ¢ÂÂ,Soarin' Around the World,Epcot,60 yom,Guest had difficulty standing in exit area; passed away two days later due to stroke.
+Disney World,10/12/2014,Soarin,Soarin' Around the World,Epcot,74 yof," tripped over guests bag, fractured leg"
+Disney World,07/03/2012,Soarin,Soarin' Around the World,Epcot,56 yof,chest pain
+Disney World,1/16/17,SoarinÃ¢ÂÂ,Soarin' Around the World,Epcot,89 yof," guest with pre-existing condition felt chest pain, numbness"
+Disney World,08/06/2009,SoarinÃ¢ÂÂ,Soarin' Around the World,Epcot,69yof,felt pain in side earlier in day; reported it was worse after riding.
+Disney World,1/17/17,SoarinÃ¢ÂÂ 46 yom,Soarin' Around the World,Epcot,46 yom,"felt dizzy and ill, slurred speech"
+Disney World,1/23/22,SoarinÃ¢ÂÂ Around the World,Soarin' Around the World,Epcot,56 yof,guest with pre-existing condition had chest pain after exiting the attraction
+Disney World,08/03/2022,SoarinÃ¢ÂÂ Around the World,Soarin' Around the World,Epcot,73 yof,guest experienced stroke like symptoms while on the attraction
+Disney World,3/14/22,SoarinÃ¢ÂÂ Around the World,Soarin' Around the World,Epcot,82 yof,guest had chest pain after experiencing the attraction
+Disney World,02/09/2012,Space Mountain,Space Mountain,Magic Kingdom,80 yom,guest lost consciousness after exiting attraction subsequently diagnosed with a heart attack
+Disney World,06/23/07,Space Mountain,Space Mountain,Magic Kingdom,57 yof,Dizzy and weakness in the left side.
+Disney World,07/12/2006,Space Mountain,Space Mountain,Magic Kingdom,73 yom,Guest unresponsive after riding; passed away three days later due to heart condition.
+Disney World,01/08/2006,Space Mountain,Space Mountain,Magic Kingdom,6 yom," Terminally ill guest rode ride, later passed away at hospital"
+Disney World,6/14/06,Space Mountain,Space Mountain,Magic Kingdom,48 yom,Chest pain.
+Disney World,2/22/06,Space Mountain,Space Mountain,Magic Kingdom,56 yof,Hip Pain.
+Disney World,3/14/06,Space Mountain,Space Mountain,Magic Kingdom,61 yom,Motion Sickness.
+Disney World,12/24/04,Space Mountain,Space Mountain,Magic Kingdom,11 yof,collapsed in queue line leading to ride. Child subsequently passed away at hospital.
+Disney World,03/02/2003,Space Mtn.,Space Mountain,Magic Kingdom,75 yof,memory loss
+Disney World,9/15/15,Cyberspace Mountain,Space Mountain,Magic Kingdom,7 yof,thigh pain
+Disney World,11/21/20,Space Mountain,Space Mountain,Magic Kingdom,60 yof,guest felt ill after experiencing the attraction
+Disney World,10/12/2019,Space Mountain,Space Mountain,Magic Kingdom,89 yof,guest with pre-existing medical condition experienced temporary loss of consciousness
+Disney World,08/06/2019,Space Mountain,Space Mountain,Magic Kingdom,61 yof,guest became ill after riding attraction
+Disney World,06/08/2018,Space Mountain,Space Mountain,Magic Kingdom,69 yof,guest was disoriented and unable to exit vehicle without assistance
+Disney World,6/20/18,Space Mountain,Space Mountain,Magic Kingdom,68 yof,guest with pre-existing condition felt disoriented and had slurred speech
+Disney World,12/09/2017,Space Mountain,Space Mountain,Magic Kingdom,17 yof,guest felt dizzy and disoriented
+Disney World,9/27/17,Space Mountain,Space Mountain,Magic Kingdom,48 yof," fell entering ride vehicle,  temporary loss of consciousness, fractured leg"
+Disney World,8/20/16,Space Mountain,Space Mountain,Magic Kingdom,59 yom,stomach and chest pain
+Disney World,4/26/16,Space Mountain,Space Mountain,Magic Kingdom,46 yof," guest felt ill, dizzy and disoriented"
+Disney World,1/26/16,Space Mountain,Space Mountain,Magic Kingdom,17 yof,guest temporarily lost consciousness and fell after riding attraction.
+Disney World,07/07/2015,Space Mountain,Space Mountain,Magic Kingdom,55 yof," guest with pre-existing conditions exited ride,  then lost consciousness; later passed away."
+Disney World,12/28/14,Space Mountain,Space Mountain,Magic Kingdom,72 yom,felt nauseated & lethargic after exiting
+Disney World,7/29/14,Space Mountain,Space Mountain,Magic Kingdom,62 yof," chest pain, nausea and vomiting"
+Disney World,05/08/2014,Space Mountain,Space Mountain,Magic Kingdom,53 yom,guest who had not been feeling well felt sick after exiting.
+Disney World,03/03/2014,Space Mountain,Space Mountain,Magic Kingdom,16 yof,guest with pre-existing condition experienced periods of unconsciousness
+Disney World,8/26/13,Space Mountain,Space Mountain,Magic Kingdom,26 yof,nausea vomiting & neck pain; reportedly underwent surgery to the head prior to being released from hospital
+Disney World,5/30/13,Space Mountain,Space Mountain,Magic Kingdom,56 yom," dizziness,  chest pain, lower abdominal pain"
+Disney World,1/14/13,Space Mountain,Space Mountain,Magic Kingdom,54 yom,motion sickness/fainted during and after ride.
+Disney World,12/29/12,Space Mountain,Space Mountain,Magic Kingdom,40 yom," loss of consciousness while on ride, pre-existing condition"
+Disney World,08/04/2012,Space Mountain,Space Mountain,Magic Kingdom,57 yom,Guest with preexisting health condition (asthma) temporarily lost consciousness; released
+Disney World,09/03/2012,Space Mountain,Space Mountain,Magic Kingdom,49 yof,while entering ride vehicle guest fractured leg
+Disney World,11/19/11,Space Mountain,Space Mountain,Magic Kingdom,43 yof,nausea and dizziness
+Disney World,4/28/11,Space Mountain,Space Mountain,Magic Kingdom,47 yof," felt nauseous, dizzy and short of breath"
+Disney World,5/15/11,Space Mountain,Space Mountain,Magic Kingdom,12 yof,guest with history of asthma came into unload area unresponsive: regained consciousness and was transported to hospital
+Disney World,5/21/11,Space Mountain,Space Mountain,Magic Kingdom,48 yof,guest came into unload area unconscious: later diagnosed with subarachnoid hemorrhage at hospital
+Disney World,06/01/2010,Space Mountain,Space Mountain,Magic Kingdom,71 yof,stroke
+Disney World,3/18/09,Space Mountain,Space Mountain,Magic Kingdom,75 yof,Felt light headed; nausea
+Disney World,10/24/08,Space Mountain,Space Mountain,Magic Kingdom,65 yom,Dizzy and disoriented
+Disney World,9/16/18,Splash Mountain,Space Mountain,Magic Kingdom,37 yom,guest with pre-existing condition lost consciousness after exiting attraction
+Disney World,08/08/2006,Spaceship Earth,Spaceship Earth,Epcot,7 yof,Guest visiting through wish granting Organization had seizure after riding.
+Disney World,10/14/05,Spaceship Earth,Spaceship Earth,Epcot,65 yof,fell getting off attraction reported complaints regarding shoulder and both wrists
+Disney World,5/30/21,Spaceship Earth,Spaceship Earth,Epcot,58 yom,guest with pre-existing condition passed out after exiting the attraction; later passed away at hospital
+Disney World,5/31/19,Spaceship Earth,Spaceship Earth,Epcot,72 yof,guest passed out after exiting the attraction
+Disney World,4/16/16,Spaceship Earth,Spaceship Earth,Epcot,69 yof,fell while boarding; fractured leg
+Disney World,4/14/15,Spaceship Earth,Spaceship Earth,Epcot,79 yom," guest with pre-existing condition felt nausea,  shortness of breath and pain in jaw after riding."
+Disney World,12/02/2013,Spaceship Earth,Spaceship Earth,Epcot,56 yom,felt ill and appeared incoherent
+Disney World,05/17/2012,Spaceship Earth,Spaceship Earth,Epcot,55 yof,Seizure
+Disney World,06/15/2012,Spaceship Earth,Spaceship Earth,Epcot,49 yom,Guest with preexisting health condition felt ill after riding
+Disney World,05/04/2010,Spaceship earth,Spaceship Earth,Epcot,68 yof,chest pain
+Disney World,11/02/2009,Spaceship Earth,Spaceship Earth,Epcot,59 yom,chest pain
+Disney World,07/07/2002,Spaceship Earth,Spaceship Earth,Epcot,51 yom,Asthma Attack
+Disney World,07/29/06,Splash Mountain,Splash Mountain,Magic Kingdom,37 yof," Guest recently released from hospital for lung condition,  reported chest pains and difficulty breathing."
+Disney World,10/07/2005,Splash Mountain,Splash Mountain,Magic Kingdom,61 yom,chest pain.
+Disney World,09/10/2021,Splash Mountain,Splash Mountain,Magic Kingdom,39 yom,guest had a seizure after experiencing the attraction
+Disney World,6/16/18,Splash Mountain,Splash Mountain,Magic Kingdom,15 yom,guest experienced chest pain and shortness of breath before and after riding attraction
+Disney World,6/15/15,Splash Mountain,Splash Mountain,Magic Kingdom,21 yof,nausea and chest pains
+Disney World,06/02/2011,Splash Mountain,Splash Mountain,Magic Kingdom,29 yof,Guest with prior history of anaphylactic reactions began experiencing symptoms while on the attraction.
+Disney World,04/07/2009,Splash Mountain,Splash Mountain,Magic Kingdom,57 yof," passed out after riding and exiting attraction,  hit head on concrete floor and fractured skull."
+Disney World,04/13/09,Splash Mountain,Splash Mountain,Magic Kingdom,39 yom,seizure
+Disney World,12/16/08,Splash Mountain,Splash Mountain,Magic Kingdom,61 yom,Fall occurred while getting into vehicles; fractured leg
+Disney World,4/27/08,Splash Mountain,Splash Mountain,Magic Kingdom,65 yom,chest pain
+Disney World,8/31/12,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,51 yom,dizziness neck pain and motion sickness
+Disney World,05/10/2019,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,39 yof,guest with pre-existing condition felt dizzy and had trouble with equilibrium
+Disney World,08/10/2019,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,66 yom,guest with pre-existing condition was ill after experiencing the attraction
+Disney World,8/19/19,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,40 yom,guest with pre-existing medical condition had a seizure and fell after riding
+Disney World,03/04/2019,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,78 yof,guest with pre-existing condition had chest pain after experiencing the attraction
+Disney World,06/05/2018,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,57 yom,guest with pre-existing condition had chest pain and shortness of breath after riding attraction
+Disney World,11/21/17,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,67 yof,guest felt ill and dizzy after riding attraction
+Disney World,9/18/16,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,68 yom,guest with preexisting heart condition felt ill after riding; later passed away
+Disney World,06/05/2015,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,67 yom,felt ill
+Disney World,3/16/15,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,46 yom,seizure after exiting ride
+Disney World,08/08/2014,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,45 yom,chest pain; did not have medication with him.
+Disney World,1/24/13,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,41 yom,guest with pre-existing health condition experienced nausea and chest pain after ride
+Disney World,09/08/2011,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,16 yof,guest with pre-existing condition had a seizure.
+Disney World,11/16/2009,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,74yom," felt dizzy,  later fainted and fell and struck his head"
+Disney World,07/27/2009,Star Tours,Star Tours: The Adventure Continues,Hollywood Studios,54yom,Seizure after exiting ride.
+Disney World,5/13/22,Star Tours Ã¢ÂÂ The Adventures Continue,Star Tours: The Adventure Continues,Hollywood Studios,70 yom,guest with pre-existing condition felt faint after experiencing the attraction
+Disney World,3/30/22,Star Wars: Rise of the Resistance,Star Wars: Rise of the Resistance,Hollywood Studios,47 yof,guest experienced a cardiac event within the attraction in a holding area prior to boarding a ride vehicle
+Universal,02/04/2022,Storm Force Acceleration,Storm Force Acceleration,Islands of Adventure,37 yof,seizure
+Disney World,07/06/2009,Storm Slide-Rudder Buster,Storm Slide-Rudder Buster,Typhoon Lagoon,52 yof,felt disoriented and sick after riding.
+Disney World,06/25/09,Storm Slide-Rudder Buster,Storm Slide-Rudder Buster,Typhoon Lagoon,66 yom,fractured ribs after collision with another guest.
+Disney World,07/07/2012,Storm Slides,Storm Slide-Rudder Buster,Typhoon Lagoon,52 yom,fractured leg after entering catch pool
+Disney World,10/25/11,Storm Slides,Storm Slide-Rudder Buster,Typhoon Lagoon,48 yom,fell and fractured ankle
+Disney World,8/23/10,Storm Slides,Storm Slide-Rudder Buster,Typhoon Lagoon,39 yom,complained of head pain and collapsed: subsequent stroke at hospital
+Disney World,03/08/2014,Studio Backlot Tour,Studio Backlot Tour,Hollywood Studios,53 yof,guest temporarily lost consciousness while transferring from wheelchair into ride vehicle.
+Disney World,06/02/2006,Summit Plummet,Summit Plummet,Blizzard Beach,25 yom,Breathing problems.
+Disney World,07/04/2004,Blizzard Beach,Surf Pool,Blizzard Beach,53 yom,fractured elbow
+Disney World,8/26/12,Surf Pool,Surf Pool,Typhoon Lagoon,54 yom,guest collapsed in water subsequently Passed away from heart attack
+Disney World,10/19/02,Typhoon Lagoon Wave Pool,Surf Pool,Typhoon Lagoon,48 yom,saw spots
+Disney World,11/04/2006,Wave Pool,Surf Pool,Typhoon Lagoon,50 yom," Swallowed a lot of water, felt dizzy and shortness of breath"
+Disney World,03/03/2006,Wave Pool,Surf Pool,Typhoon Lagoon,58 yom,Loss of consciousness.
+Disney World,04/08/2005,Wave Pool,Surf Pool,Typhoon Lagoon,12 yof,felt illÃ¢ÂÂ¦later passed away at hospital.
+Disney World,8/31/05,Wave Pool,Surf Pool,Typhoon Lagoon,69 yof,fell and fractured wrist.
+Disney World,07/17/03,Wave Pool,Surf Pool,Typhoon Lagoon,46 yom,stroke (according to family)
+Disney World,6/14/16,Surf Pool,Surf Pool,Typhoon Lagoon,65 yof,injured knee
+Disney World,01/05/2012,Surf Pool,Surf Pool,Typhoon Lagoon,61 yof,Temporarily loss of consciousness when another guest fell and knocked her down; pain in right knee/leg
+Universal,8/23/15,Transformers: The Ride 3D,Surf Pool,Typhoon Lagoon,45 yom,chest pain (pre-existing condition)
+Disney World,09/01/2013,Typhoon Lagoon Surf Pool,Surf Pool,Typhoon Lagoon,67 yof,fell and fractured left leg
+Disney World,5/13/11,Typhoon Lagoon Surf Pool,Surf Pool,Typhoon Lagoon,47 yof,fell and fractured left leg
+Disney World,07/02/2003,Typhoon Lagoon Surf Pool,Surf Pool,Typhoon Lagoon,31 yof,fell on steps leading to catch pool fractured ankle and died of pulmonary embolism
+Disney World,3/29/02,Typhoon Lagoon Surf Pool,Surf Pool,Typhoon Lagoon,16 yof,c/o neck pain
+Disney World,03/08/2010,Wave Pool,Surf Pool,Typhoon Lagoon,77 yof,loss of consciousness: history of heart condition
+Universal,6/14/20,Kala and Tai Nui Serpentine Body Slides,Tai Nui Serpentine Body Slide,Volcano Bay,9 yom,unresponsive
+Universal,04/03/2019,Tai Nui Serpentine Body Slide,Tai Nui Serpentine Body Slide,Volcano Bay,53 yom,hip/pelvis pain
+Universal,06/09/2018,Tai Nui Serpentine Body Slide,Tai Nui Serpentine Body Slide,Volcano Bay,51 yom,hip pain
+Universal,5/16/18,Tai Nui Serpentine Body Slide,Tai Nui Serpentine Body Slide,Volcano Bay,27 yom,hip/pelvis pain
+Disney World,6/19/21,Teamboat Springs,Teamboat Springs,Blizzard Beach,43 yom,guest fractured ankle stepping into the tube
+Disney World,9/26/17,Teamboat Springs,Teamboat Springs,Blizzard Beach,58 yof,fell while entering raft and fractured back
+Disney World,04/16/09,Teamboat Springs,Teamboat Springs,Blizzard Beach,64 yof,Felt disoriented and lightheaded
+Disney World,8/14/08,Teamboat Springs,Teamboat Springs,Blizzard Beach,41 yof,slipped while getting into tube; fractured ankle
+Universal,6/16/22,TeAwa The Fearless River,Te'awa The Fearless River,Volcano Bay,30 yof,lost consciousness (pre-existing condition)
+Universal,10/03/2019,TeaWa The Fearless River,Te'awa The Fearless River,Volcano Bay,29 yom,chest palpitations
+Universal,8/15/17,TeaWa The Fearless River,Te'awa The Fearless River,Volcano Bay,53 yof,cardiac arrest
+Universal,10/17/13,Terminator 2: 3D,Terminator 2: 3D,Universal Studios,68 yof,abdominal pain
+Disney World,06/06/2015,Test Track,Test Track,Epcot,69 yom,guest with pre-existing condition experienced chest pain.
+Disney World,12/18/06,Test Track,Test Track,Epcot,67 yof,Fell getting out of vehicle and fractured pelvis.
+Disney World,3/14/20,Test Track,Test Track,Epcot,34 yof,guest with pre-existing condition experienced abdominal pain after riding the attraction
+Disney World,5/17/19,Test Track,Test Track,Epcot,64 yom,guest with pre-existing condition became ill after riding attraction
+Disney World,3/13/10,Test Track,Test Track,Epcot,63 yom," felt dizzy and ill, nose bleed"
+Disney World,08/15/2009,Test Track,Test Track,Epcot,40 yom,fell while exiting vehicle and broke right wrist.
+Universal,11/23/14,The Amazing Adventures of Spiderman,The Amazing Adventures of Spiderman,Islands of Adventure,45 yom,change in mental status
+Universal,8/15/08,The Amazing Adventures of Spiderman,The Amazing Adventures of Spiderman,Islands of Adventure,16 yom,shortness of breath with associated chest pain
+Universal,09/26/2006,The Amazing Adventures of Spiderman,The Amazing Adventures of Spiderman,Islands of Adventure,67 yom,Fainting
+Disney World,03/11/2017,The Barnstormer,The Barnstormer,Magic Kingdom,55 yom,guest complained of chest pain after riding attraction
+Disney World,2/19/13,The Barnstormer,The Barnstormer,Magic Kingdom,56 yof,seizure like symptoms
+Universal,1/31/08,Cat in the Hat,The Cat In The Hat,Islands of Adventure,32 yof,Nausea
+Universal,02/22/05,Hulk Ride,The Incredible Hulk Coaster,Islands of Adventure,56 yof,loss of consciousness.
+Universal,2/29/08,Hulk Rollercoaster,The Incredible Hulk Coaster,Islands of Adventure,28 yof,Seizure
+Universal,07/29/2012,Incredible Hulk,The Incredible Hulk Coaster,Islands of Adventure,18 yof,chest pain
+Universal,2/15/21,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,42 yof,syncope
+Universal,11/27/20,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,14 yof,seizure
+Universal:,2/16/20,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,48 yom,motion sickness
+Universal,7/24/17,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,36 yof,chest pain
+Universal,6/20/17,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,47 yof,syncope
+Universal,6/14/15,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,59 yom,chest discomfort
+Universal,3/14/14,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,40 yom,dizziness
+Universal,4/18/11,The Incredible Hulk Coaster,The Incredible Hulk Coaster,Islands of Adventure,29 yom,syncope
+Disney World,6/16/05,Liberty Riverboat,The Liberty Belle,Magic Kingdom,45 yof,fainted and fell while on Riverboat. Hurt ankle and knee
+Disney World,07/16/03,Liberty Riverboat,The Liberty Belle,Magic Kingdom,83 yof,fx pelvis
+Disney World,08/11/2003,Riverboat,The Liberty Belle,Magic Kingdom,71 yof,fell & hit head.
+Disney World,2/28/14,The Liberty Belle,The Liberty Belle,Magic Kingdom,80 yom,guest with personal illness felt weakness while on the riverboat
+Disney World,6/28/14,The Magic Carpets of Aladdin,The Magic Carpets of Aladdin,Magic Kingdom,8 yof,loss of consciousness on ride; regained consciousness and was trasnported
+Disney World,10/22/21,The Many Adventures of Winnie the Pooh,The Many Adventures of Winnie the Pooh,Magic Kingdom,20 yof,guest had a seizure after experiencing the attraction
+Disney World,1/31/12,Seas w/ Nemo & Friends,The Seas with Nemo & Friends,Epcot,78 yom,felt ill; subsequently diagnosed with heart attack
+Disney World,6/20/19,Seas with Nemo & Friends,The Seas with Nemo & Friends,Epcot,69 yof,guest fell and fractured hip while loading onto the attraction
+Disney World,8/17/14,Seas with Nemo & Friends,The Seas with Nemo & Friends,Epcot,63 yom,fell and struck face while assisting family member from vehicle; facial fractures.
+Disney World,4/14/14,Seas with Nemo & Friends,The Seas with Nemo & Friends,Epcot,62 yof,guest fell on mobbing walkway and injured knee
+Disney World,12/31/10,Seas with Nemo & Friends,The Seas with Nemo & Friends,Epcot,76 yof,guest fell while on moving walkway and injured her left leg.
+Disney World,3/13/08,The Seas w/ Nemo & Friends,The Seas with Nemo & Friends,Epcot,71 yof,Fell exiting vehicle; hit head and fractured left shoulder
+Disney World,11/10/2007,The Seas w/ Nemo & Friends,The Seas with Nemo & Friends,Epcot,81 yof,Fell while boarding the vehicle/back pain
+Disney World,9/16/18,The Seas with Nemo & Friends,The Seas with Nemo & Friends,Epcot,79 yof,guest felt ill prior to and after experiencing the attraction
+Disney World,1/14/18,The Seas with Nemo & Friends,The Seas with Nemo & Friends,Epcot,69 yom,guest with pre-existing heart condition had chest pain
+Disney World,07/04/2015,The Seas with Nemo and Friends,The Seas with Nemo & Friends,Epcot,81 yom,guest with pre-existing condition felt ill after exiting ride.
+Universal,04/05/2022,The Simpsons Ride,The Simpsons Ride,Universal Studios,25 yof,knee pain
+Universal,09/09/2014,The Simpsons Ride,The Simpsons Ride,Universal Studios,59 yom,headache
+Universal,01/11/2008,The Simpsons Ride,The Simpsons Ride,Universal Studios,68 yom,chest pain
+Disney World,07/02/2006,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,56 yof,Felt Dizzy.
+Disney World,12/07/2005,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,16 yof,felt ill.
+Disney World,5/16/04,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,62 yom,chest pains after ride
+Disney World,6/29/03,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,45 yof,chest pain
+Disney World,01/04/2002,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,47 yof," anxiety & claustrophobia, atrial fibrilation"
+Disney World,12/02/2020,The Twilight Zone Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,38 yof,guest had abdominal pain after experiencing attraction
+Disney World,3/26/17,The Twilight Zone Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,61 yom,felt ill
+Disney World,5/23/16,The Twilight Zone Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,18 yom,guest with preexisting history felt chest pain; numbness in arm
+Disney World,02/07/2014,The Twilight Zone Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,18 yof,guest with pre-existing condition experienced anxiety & numbness
+Disney World,8/19/14,The Twilight Zone Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,40 yof,guest with pre-existing condition experienced chest pain.
+Disney World,10/27/16,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,40 yom,guest felt disoriented
+Disney World,09/07/2012,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,25 yof," felt dizzy, numbness/pain in arms"
+Disney World,12/12/2008,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,41 yof,Numbness in right leg
+Disney World,7/30/08,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,62 yom,felt disoriented and dizzy
+Disney World,05/04/2008,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,32 yom," neck & head pain, diagnosed with existing brain tumor"
+Disney World,10/19/07,Tower of Terror,The Twilight Zone Tower of Terror,Hollywood Studios,77 yom,Fell ill after riding attraction  claimed memory loss and irregular heartbeat became ill after riding.
+Disney World,11/03/2009,Tobaggon Racer,Toboggan Racers,Blizzard Beach,67 yom,Cervical injury after collision near end of slide
+Disney World,06/18/09,Toboggan Racer,Toboggan Racers,Blizzard Beach,43 yof,Felt pain in abdomen and chest
+Disney World,03/04/2014,Tommorrowland Indy Speedway,Tomorrowland Speedway,Magic Kingdom,64 yof," guest fell while exiting vehicle, fractured fibula"
+Disney World,7/23/19,Tomorrowland Indy Speedway,Tomorrowland Speedway,Magic Kingdom,75 yom,guest fell loading onto the attraction; multiple abrasions and contusions
+Disney World,10/01/2015,Tomorrowland Indy Speedway,Tomorrowland Speedway,Magic Kingdom,64 yom,guest injured ankle attempting to step out of the vehicle.
+Disney World,09/06/2009,Tomorrowland Indy Speedway,Tomorrowland Speedway,Magic Kingdom,7 yom,fell after exiting vehicle and fractured arm.
+Disney World,9/23/22,Tomorrowland Speedway,Tomorrowland Speedway,Magic Kingdom,27 yof,guest went into labor after exiting the attraction
+Disney World,12/06/2016,Tomorrowland Speedway,Tomorrowland Speedway,Magic Kingdom,67 yom,guest with preexisting condition felt ill after exiting ride.
+Disney World,04/07/2015,Tomorrowland Speedway,Tomorrowland Speedway,Magic Kingdom,32 yof,guest with pre-existing health condition had seizure
+Disney World,12/14/2009,Tomorrowland Speedway,Tomorrowland Speedway,Magic Kingdom,59yom," felt dizzy,  tripped while exiting vehicle and injured his knee"
+Disney World,12/28/08,Tomorrowland Speedway,Tomorrowland Speedway,Magic Kingdom,79 yof,Felt dizzy and hot; loss of consciousness
+Disney World,03/08/2015,Tomorrowland Transit Authority,Tomorrowland Transit Authority People Mover,Magic Kingdom,68 yom," fell while exiting, fractured shoulder"
+Disney World,02/09/2015,Tomorrowland Transit Authority,Tomorrowland Transit Authority People Mover,Magic Kingdom,80 yom,dizziness and chest pain after riding
+Disney World,04/01/2015,Tomorrowland Transit Authority,Tomorrowland Transit Authority People Mover,Magic Kingdom,77 yom,guest with pre-existing condition felt weakness & disorientation
+Disney World,3/18/13,Tomorrowland Transit Authority,Tomorrowland Transit Authority People Mover,Magic Kingdom,73 yom,felt ill/lost consciousness after exiting ride.
+Disney World,9/25/22,Tomorrowland Transit Authority People Mover,Tomorrowland Transit Authority People Mover,Magic Kingdom,83 yom,guest with pre-existing condition experienced cardiac event
+Disney World,09/02/2022,Tomorrowland Transit Authority People Mover,Tomorrowland Transit Authority People Mover,Magic Kingdom,72 yof,guest loss consciousness while experiencing the attraction
+Disney World,09/07/2017,Toy Story Mania,Toy Story Midway Mania!,Hollywood Studios,70 yom,guest with pre-existing condition felt ill
+Disney World,06/10/2021,Toy Story Mania!,Toy Story Midway Mania!,Hollywood Studios,58 yof,guest felt dizzy and fell exiting the attraction
+Disney World,12/03/2020,Toy Story Mania!,Toy Story Midway Mania!,Hollywood Studios,54 yom,guest had a heart attack after having experienced the attraction
+Disney World,2/23/16,Toy Story Midway Mania,Toy Story Midway Mania!,Hollywood Studios,19 yof,guest with preexisting heart condition fainted while boarding attraction.
+Disney World,04/10/2014,Toy Story Midway Mania,Toy Story Midway Mania!,Hollywood Studios,54 yof," nausea & dizziness,  lost consciousness & subsequently passed away"
+Disney World,10/31/11,Toy Story Midway Mania,Toy Story Midway Mania!,Hollywood Studios,73 yom,guest with pre-existing health condition fell near restrooms after exiting ride & struck his head
+Disney World,11/20/11,Toy Story Midway Mania,Toy Story Midway Mania!,Hollywood Studios,87 yom,felt ill
+Universal,10/06/2015,Transformers: The 3D Ride,Transformers: The Ride 3D,Universal Studios,52 yof,chest discomfort
+Universal,4/19/18,Transformers: The Ride - 3D,Transformers: The Ride 3D,Universal Studios,49 yom,weakness
+Disney World,07/05/2022,Under the Sea Ã¢ÂÂ Journey of the Little Mermaid,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,61 yof,guest with pre-existing condition experienced stroke like symptoms after riding the attraction
+Disney World,8/16/16,Under the Sea Ã¢ÂÂ Journey of the Little Mermaid,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,53 yof,seizure
+Disney World,1/26/14,Under The Sea Ã¢ÂÂ Journey of the Little Mermaid,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,3 yof,guest with pre-existing condition had seizure after riding
+Disney World,09/02/2019,Under the Sea Ã¢ÂÂ Voyage of the Little Mermaid,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,56 yof,guest with pre-existing condition complained of being dizzy and light-headed after riding
+Disney World,7/21/19,Under the Sea Journey of the Little Mermaid,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,69 yof,guest with pre-existing medical condition had a seizure after experiencing the attraction
+Disney World,06/02/2017,Under the Sea- Journey of the Little Mermaid,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,34 yom,felt disoriented and fell after riding
+Disney World,07/04/2016,Walt Disney World Railroad,Walt Disney World Railroad,Magic Kingdom,41 yom,guest felt ill and began shaking after exiting.
+Disney World,05/05/2015,Walt Disney World Railroad,Walt Disney World Railroad,Magic Kingdom,71 yom,nausea and dizziness
+Disney World,6/18/22,Wildlife Express,Wildlife Express,Animal Kingdom,42 yom,guest felt ill after experiencing the attraction
