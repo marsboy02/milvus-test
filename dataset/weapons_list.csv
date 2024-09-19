@@ -1,0 +1,209 @@
+Weapon,Class,Slot
+Scattergun,Scout,Primary
+Force-A-Nature,Scout,Primary
+Shortstop,Scout,Primary
+Soda Popper,Scout,Primary
+Baby Face's Blaster,Scout,Primary
+Back Scatter,Scout,Primary
+Pistol,Scout,Secondary
+Lugermorph,Scout,Secondary
+C.A.P.P.E.R,Scout,Secondary
+Winger,Scout,Secondary
+Pretty Boy's Pocket Pistol,Scout,Secondary
+Flying Guillotine,Scout,Secondary
+Bonk! Atomic Punch,Scout,Secondary
+Crit-a-Cola,Scout,Secondary
+Mad Milk,Scout,Secondary
+Mutated Milk,Scout,Secondary
+Bat,Scout,Melee
+Holy Mackerel,Scout,Melee
+Unarmed Combat,Scout,Melee
+Batsaber,Scout,Melee
+Sandman,Scout,Melee
+Candy Cane,Scout,Melee
+Boston Basher,Scout,Melee
+Three-Rune Blade,Scout,Melee
+Sun-on-a-Stick,Scout,Melee
+Fan O'War,Scout,Melee
+Atomizer,Scout,Melee
+Wrap Assassin,Scout,Melee
+Rocket Launcher,Soldier,Primary
+Original,Soldier,Primary
+Direct Hit,Soldier,Primary
+Black Box,Soldier,Primary
+Rocket Jumper,Soldier,Primary
+Liberty Launcher,Soldier,Primary
+Cow Mangler 5000,Soldier,Primary
+Beggar's Bazooka,Soldier,Primary
+Air Strike,Soldier,Primary
+Shotgun,Soldier,Secondary
+Reserve Shooter,Soldier,Secondary
+Buff Banner,Soldier,Secondary
+Gunboats,Soldier,Secondary
+Battalion's Backup,Soldier,Secondary
+Concheror,Soldier,Secondary
+Mantreads,Soldier,Secondary
+Righteous Bison,Soldier,Secondary
+B.A.S.E Jumper,Soldier,Secondary
+Panic Attack,Soldier,Secondary
+Shovel,Soldier,Melee
+Equalizer,Soldier,Melee
+Pain Train,Soldier,Melee
+Half-Zatoichi,Soldier,Melee
+Disciplinary Action,Soldier,Melee
+Market Gardener,Soldier,Melee
+Escape Plan,Soldier,Melee
+Flame Thrower,Pyro,Primary
+Rainblower,Pyro,Primary
+Nostromo Napalmer,Pyro,Primary
+Backburner,Pyro,Primary
+Degreaser,Pyro,Primary
+Pholgistinator,Pyro,Primary
+Dragon's Fury,Pyro,Primary
+Shotgun,Pyro,Secondary
+Reserve Shooter,Pyro,Secondary
+Flare Gun,Pyro,Secondary
+Detonator,Pyro,Secondary
+Manmelter,Pyro,Secondary
+Scorch Shot,Pyro,Secondary
+Panic Attack,Pyro,Secondary
+Thermal Thruster,Pyro,Secondary
+Gas Passer,Pyro,Secondary
+Fire Axe,Pyro,Melee
+Lollichop,Pyro,Melee
+Axtinguisher,Pyro,Melee
+Postal Pummeler,Pyro,Melee
+Homewrecker,Pyro,Melee
+Maul,Pyro,Melee
+Powerjack,Pyro,Melee
+Back Scratcher,Pyro,Melee
+Sharpened Volcano Fragment,Pyro,Melee
+Third Degree,Pyro,Melee
+Neon Annihilator,Pyro,Melee
+Hot Hand,Pyro,Melee
+Grenade Launcher,Demoman,Primary
+Loch-n-Load,Demoman,Primary
+Ali Baba's Wee Booties,Demoman,Primary
+Bootlegger,Demoman,Primary
+Loose Cannon,Demoman,Primary
+B.A.S.E Jumper,Demoman,Primary
+Iron Bomber,Demoman,Primary
+Stickybomb Launcher,Demoman,Secondary
+Scottish Resistance,Demoman,Secondary
+Chargin' Targe,Demoman,Secondary
+Sticky Jumper,Demoman,Secondary
+Splendid Screen,Demoman,Secondary
+Tide Turner,Demoman,Secondary
+Quickiebomb Launcher,Demoman,Secondary
+Bottle,Demoman,Melee
+Scottish Handshake,Demoman,Melee
+Eyelander,Demoman,Melee
+Horseless Headless Horsemann's Headtaker,Demoman,Melee
+Nessie's Nine Iron,Demoman,Melee
+Scotsman's Skullcutter,Demoman,Melee
+Pain Train,Demoman,Melee
+Ullapool Caber,Demoman,Melee
+Caidheamh Mor,Demoman,Melee
+Half-Zatoichi,Demoman,Melee
+Persian Persuader,Demoman,Melee
+Minigun,Heavy,Primary
+Iron Curtain,Heavy,Primary
+Natascha,Heavy,Primary
+Brass Beast,Heavy,Primary
+Tomislav,Heavy,Primary
+Huo-Long Heater,Heavy,Primary
+Shotgun,Heavy,Secondary
+Family Business,Heavy,Secondary
+Sandvich,Heavy,Secondary
+Robo-Sandvich,Heavy,Secondary
+Dalokohs Bar,Heavy,Secondary
+Fishcake,Heavy,Secondary
+Buffalo Steak Sandvich,Heavy,Secondary
+Panic Attack,Heavy,Secondary
+Second Banana,Heavy,Secondary
+Fists,Heavy,Melee
+Apoco-Fists,Heavy,Melee
+Killing Gloves of Boxing,Heavy,Melee
+Gloves of Running Urgently,Heavy,Melee
+Bread Bite,Heavy,Melee
+Warrior's Spirit,Heavy,Melee
+Fists of Steel,Heavy,Melee
+Eviction Notice,Heavy,Melee
+Holiday Punch,Heavy,Melee
+Shotgun,Engineer,Primary
+Frontier Justice,Engineer,Primary
+Widowmaker,Engineer,Primary
+Pomson 6000,Engineer,Primary
+Rescue Ranger,Engineer,Primary
+Panic Attack,Engineer,Primary
+Pistol,Engineer,Secondary
+Lugermorph,Engineer,Secondary
+C.A.P.P.E.R,Engineer,Secondary
+Wrangler,Engineer,Secondary
+Giger Counter,Engineer,Secondary
+Short Circuit,Engineer,Secondary
+Wrench,Engineer,Melee
+Golden Wrench,Engineer,Melee
+Gunslinger,Engineer,Melee
+Southern Hospitality,Engineer,Melee
+Jag,Engineer,Melee
+Eureka Effect,Engineer,Melee
+Syringe Gun,Medic,Primary
+Blutsauger,Medic,Primary
+Crusader's Crossbow,Medic,Primary
+Overdose,Medic,Primary
+Medi Gun,Medic,Secondary
+Kritzkrieg,Medic,Secondary
+Quick-Fix,Medic,Secondary
+Vaccinator,Medic,Secondary
+Bonesaw,Medic,Melee
+Ubersaw,Medic,Melee
+Vita-Saw,Medic,Melee
+Amputator,Medic,Melee
+Solemn Vow,Medic,Melee
+Sniper Rifle,Sniper,Primary
+AWPer Hand,Sniper,Primary
+Huntsman,Sniper,Primary
+Fortified Compound,Sniper,Primary
+Sydney Sleeper,Sniper,Primary
+Bazaar Bargain,Sniper,Primary
+Machina,Sniper,Primary
+Shooting Star,Sniper,Primary
+Hitman's Heatmaker,Sniper,Primary
+Classic,Sniper,Primary
+SMG,Sniper,Secondary
+Cleaner's Carbine,Sniper,Secondary
+Jarate,Sniper,Secondary
+Self-Aware Beauty Mark,Sniper,Secondary
+Razorback,Sniper,Secondary
+Darwin's Danger Shield,Sniper,Secondary
+Cozy Camper,Sniper,Secondary
+Kukri,Sniper,Melee
+Tribalman's Shiv,Sniper,Melee
+Bushwacka,Sniper,Melee
+Shahanshah,Sniper,Melee
+Revolver,Spy,Primary
+Big Kill,Spy,Primary
+Ambassador,Spy,Primary
+L'Etranger,Spy,Primary
+Enforcer,Spy,Primary
+Diamondback,Spy,Primary
+Knife,Spy,Melee
+Sharp Dresser,Spy,Melee
+Black Rose,Spy,Melee
+Your Eternal Reward,Spy,Melee
+Wanga Prick,Spy,Melee
+Conniver's Kunai,Spy,Melee
+Big Earner,Spy,Melee
+Spy-cicle,Spy,Melee
+Saxxy,All,Melee
+Frying Pan,All,Melee
+Conscientious Objector,All,Melee
+Freedom Staff,All,Melee
+Bat Outta Hell,All,Melee
+Memory Maker,All,Melee
+Ham Shank,All,Melee
+Golden Frying Pan,All,Melee
+Necro Smasher,All,Melee
+Crossing Guard,All,Melee
+Prinny Machete,All,Melee
