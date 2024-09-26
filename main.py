@@ -26,6 +26,7 @@ connections.connect("default", host=database_url, port="19530")
 # 밀버스에 적용할 스키마 작성
 fields = [
     FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=False),
+    FieldSchema(name="title", dtype=DataType.VARCHER, max_length=512),
     FieldSchema(name="columns", dtype=DataType.VARCHAR, max_length=65535),
     FieldSchema(name="vector", dtype=DataType.FLOAT_VECTOR, dim=dimension)
 ]
@@ -45,12 +46,13 @@ print("embedding is ok")
 
 
 # insert
-ids, columns, vectors = [], [], []
-for i, (embedding, column_names) in enumerate(embeddings_list):
+ids, titles, columns, vectors = [], [], [], []
+for i, (embedding, column_names, title) in enumerate(embeddings_list):
     ids.append(i)
+    titles.append(title)
     columns.append(json.dumps(column_names))  # JSON 문자열로 변환
     vectors.append(embedding)
-entities = [ids, columns, vectors]
+entities = [ids, titles, columns, vectors]
 
 insert_result = hello_milvus.insert(entities)
 hello_milvus.flush()
