@@ -2,6 +2,8 @@ volumes/
 
 .idea
 
+.DS_Store
+
 venv/
 
 .env

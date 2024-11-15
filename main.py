@@ -1,26 +1,20 @@
-import pandas as pd
-from model.embedder import TabularEmbedder
 import os
+import pandas as pd
 from dotenv import load_dotenv
-import json
-from pymilvus import (
-    connections,
-    FieldSchema,
-    CollectionSchema,
-    DataType,
-    Collection,
-    utility,
-)
+from pymilvus import connections, FieldSchema, CollectionSchema, DataType, Collection, utility
+from model.embedder import TabularEmbedder
 
-# 전역변수 선언
-dimension = 128  # 벡터 차원을 실제 사용되는 차원 수로 설정합니다.
+# 전역변수 설정
+dimension = 128  # 벡터 차원 설정
 
-# env 설정
+# 환경변수 로드
 load_dotenv()
 database_url = os.getenv("DATABASE_URL")
+
+# Milvus 연결
 connections.connect("default", host=database_url, port="19530")
 
-# 밀버스에 적용할 스키마 작성
+# Milvus 컬렉션 스키마 정의
 fields = [
     FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=False),
     FieldSchema(name="title", dtype=DataType.VARCHAR, max_length=512),
@@ -28,56 +22,62 @@ fields = [
     FieldSchema(name="columns", dtype=DataType.VARCHAR, max_length=65535)
 ]
 
-schema = CollectionSchema(fields, "Schema to store vector and other related data in Milvus")
-if utility.has_collection("hello_milvus"):
-    utility.drop_collection("hello_milvus")
-hello_milvus = Collection("hello_milvus", schema)
+schema = CollectionSchema(fields, description="Schema to store vector and other related data in Milvus")
 
-# embedding
+# 기존 컬렉션 삭제 및 새로운 컬렉션 생성
+collection_name = "hello_milvus"
+if utility.has_collection(collection_name):
+    utility.drop_collection(collection_name)
+hello_milvus = Collection(collection_name, schema)
+
+# 임베딩 처리
 dataset_dir = "./dataset/"
 embedder = TabularEmbedder(dataset_dir=dataset_dir)
 embeddings_list = embedder.process_files()
-print("embedding is ok")
+print("Embedding process completed.")
 
-# insert
+# 데이터 준비 및 삽입
 ids, titles, vectors, columns = [], [], [], []
 for i, (title, embedding, column_names) in enumerate(embeddings_list):
     ids.append(i)
     titles.append(title)
     vectors.append(embedding)
     columns.append(" ".join(column_names))
-entities = [ids, titles, vectors, columns]
 
+entities = [ids, titles, vectors, columns]
 insert_result = hello_milvus.insert(entities)
 hello_milvus.flush()
 
-# index
-print(format("Start Creating index IVF_FLAT"))
-index = {
-    "index_type": "IVF_FLAT",
+# 인덱스 생성 및 로드
+print("Creating index with FLAT configuration.")
+index_params = {
+    "index_type": "FLAT",
     "metric_type": "COSINE",
-    "params": {"nlist": 128},
 }
-hello_milvus.create_index("vector", index)
+hello_milvus.create_index("vector", index_params)
 hello_milvus.load()
 
-
+# 검색 파라미터 설정
 search_params = {
     "metric_type": "COSINE",
     "params": {"nprobe": 10},
 }
-result = hello_milvus.search(vectors, "vector", search_params, limit=194, output_fields=["title"])
 
-
+# 검색 수행
+query_titles = [title for title, _, _ in embeddings_list]
 search_results = []
-for hits in result:
-    for hit in hits:
+for i, vector in enumerate(vectors):
+    result = hello_milvus.search([vector], "vector", search_params, limit=218, output_fields=["title"])
+    query_title = query_titles[i]
+    for hit in result[0]:
         search_results.append({
+            "query_title": query_title,
             "id": hit.id,
             "distance": hit.distance,
-            "title": hit.entity.get("title")
+            "target_title": hit.entity.get("title")
         })
 
+# 검색 결과 저장
 df = pd.DataFrame(search_results)
 df.to_csv("search_results.csv", index=False, encoding="utf-8-sig")
 print("CSV file saved as 'search_results.csv'")
