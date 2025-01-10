@@ -1,0 +1,101 @@
+geo,name,four_regions,eight_regions,six_regions
+prk,North Korea,asia,east_asia_pacific,east_asia_pacific
+tuv,Tuvalu,asia,east_asia_pacific,east_asia_pacific
+mne,Montenegro,europe,europe_east,europe_central_asia
+irn,Iran,asia,asia_west,middle_east_north_africa
+gnb,Guinea-Bissau,africa,africa_sub_saharan,sub_saharan_africa
+slv,El Salvador,americas,america_north,america
+eri,Eritrea,africa,africa_sub_saharan,sub_saharan_africa
+blz,Belize,americas,america_north,america
+sen,Senegal,africa,africa_sub_saharan,sub_saharan_africa
+sgp,Singapore,asia,east_asia_pacific,east_asia_pacific
+nam,Namibia,africa,africa_sub_saharan,sub_saharan_africa
+brn,Brunei,asia,east_asia_pacific,east_asia_pacific
+cpv,Cape Verde,africa,africa_sub_saharan,sub_saharan_africa
+tls,Timor-Leste,asia,east_asia_pacific,east_asia_pacific
+kwt,Kuwait,asia,asia_west,middle_east_north_africa
+fin,Finland,europe,europe_east,europe_central_asia
+zwe,Zimbabwe,africa,africa_sub_saharan,sub_saharan_africa
+geo,Georgia,europe,europe_east,europe_central_asia
+guy,Guyana,americas,america_south,america
+wsm,Samoa,asia,east_asia_pacific,east_asia_pacific
+mda,Moldova,europe,europe_east,europe_central_asia
+hrv,Croatia,europe,europe_east,europe_central_asia
+slb,Solomon Islands,asia,east_asia_pacific,east_asia_pacific
+mhl,Marshall Islands,asia,east_asia_pacific,east_asia_pacific
+svk,Slovak Republic,europe,europe_east,europe_central_asia
+mar,Morocco,africa,africa_north,middle_east_north_africa
+arm,Armenia,europe,europe_east,europe_central_asia
+bra,Brazil,americas,america_south,america
+arg,Argentina,americas,america_south,america
+bhs,Bahamas,americas,america_north,america
+pse,Palestine,asia,asia_west,middle_east_north_africa
+esp,Spain,europe,europe_west,europe_central_asia
+ind,India,asia,asia_west,south_asia
+fji,Fiji,asia,east_asia_pacific,east_asia_pacific
+hun,Hungary,europe,europe_east,europe_central_asia
+sdn,Sudan,africa,africa_sub_saharan,sub_saharan_africa
+srb,Serbia,europe,europe_east,europe_central_asia
+som,Somalia,africa,africa_sub_saharan,sub_saharan_africa
+nic,Nicaragua,americas,america_north,america
+kgz,Kyrgyz Republic,asia,asia_west,europe_central_asia
+phl,Philippines,asia,east_asia_pacific,east_asia_pacific
+kor,South Korea,asia,east_asia_pacific,east_asia_pacific
+qat,Qatar,asia,asia_west,middle_east_north_africa
+mwi,Malawi,africa,africa_sub_saharan,sub_saharan_africa
+vut,Vanuatu,asia,east_asia_pacific,east_asia_pacific
+png,Papua New Guinea,asia,east_asia_pacific,east_asia_pacific
+pan,Panama,americas,america_north,america
+nga,Nigeria,africa,africa_sub_saharan,sub_saharan_africa
+syr,Syria,asia,asia_west,middle_east_north_africa
+mmr,Myanmar,asia,east_asia_pacific,east_asia_pacific
+omn,Oman,asia,asia_west,middle_east_north_africa
+mkd,"Macedonia, FYR",europe,europe_east,europe_central_asia
+bgd,Bangladesh,asia,asia_west,south_asia
+tcd,Chad,africa,africa_sub_saharan,sub_saharan_africa
+cmr,Cameroon,africa,africa_sub_saharan,sub_saharan_africa
+tza,Tanzania,africa,africa_sub_saharan,sub_saharan_africa
+cog,"Congo, Rep.",africa,africa_sub_saharan,sub_saharan_africa
+svn,Slovenia,europe,europe_east,europe_central_asia
+grc,Greece,europe,europe_west,europe_central_asia
+est,Estonia,europe,europe_east,europe_central_asia
+mco,Monaco,europe,europe_west,europe_central_asia
+mrt,Mauritania,africa,africa_sub_saharan,sub_saharan_africa
+eth,Ethiopia,africa,africa_sub_saharan,sub_saharan_africa
+lca,St. Lucia,americas,america_north,america
+caf,Central African Republic,africa,africa_sub_saharan,sub_saharan_africa
+nld,Netherlands,europe,europe_west,europe_central_asia
+hnd,Honduras,americas,america_north,america
+swe,Sweden,europe,europe_west,europe_central_asia
+gnq,Equatorial Guinea,africa,africa_sub_saharan,sub_saharan_africa
+ven,Venezuela,americas,america_south,america
+blr,Belarus,europe,europe_east,europe_central_asia
+bol,Bolivia,americas,america_south,america
+bih,Bosnia and Herzegovina,europe,europe_east,europe_central_asia
+tto,Trinidad and Tobago,americas,america_north,america
+rou,Romania,europe,europe_east,europe_central_asia
+sau,Saudi Arabia,asia,asia_west,middle_east_north_africa
+zaf,South Africa,africa,africa_sub_saharan,sub_saharan_africa
+civ,Cote d'Ivoire,africa,africa_sub_saharan,sub_saharan_africa
+rus,Russia,europe,europe_east,europe_central_asia
+hti,Haiti,americas,america_north,america
+atg,Antigua and Barbuda,americas,america_north,america
+mus,Mauritius,africa,africa_sub_saharan,sub_saharan_africa
+stp,Sao Tome and Principe,africa,africa_sub_saharan,sub_saharan_africa
+alb,Albania,europe,europe_east,europe_central_asia
+com,Comoros,africa,africa_sub_saharan,sub_saharan_africa
+lka,Sri Lanka,asia,asia_west,south_asia
+bfa,Burkina Faso,africa,africa_sub_saharan,sub_saharan_africa
+kaz,Kazakhstan,asia,asia_west,europe_central_asia
+nzl,New Zealand,asia,east_asia_pacific,east_asia_pacific
+prt,Portugal,europe,europe_west,europe_central_asia
+syc,Seychelles,africa,africa_sub_saharan,sub_saharan_africa
+lao,Lao,asia,east_asia_pacific,east_asia_pacific
+gtm,Guatemala,americas,america_north,america
+bdi,Burundi,africa,africa_sub_saharan,sub_saharan_africa
+lux,Luxembourg,europe,europe_west,europe_central_asia
+ecu,Ecuador,americas,america_south,america
+mng,Mongolia,asia,east_asia_pacific,east_asia_pacific
+fra,France,europe,europe_west,europe_central_asia
+mdv,Maldives,asia,asia_west,south_asia
+tkm,Turkmenistan,asia,asia_west,europe_central_asia

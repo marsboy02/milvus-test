@@ -72,9 +72,9 @@ for i, vector in enumerate(vectors):
     for hit in result[0]:
         search_results.append({
             "query_title": query_title,
-            "id": hit.id,
+            "target_title": hit.entity.get("title"),
             "distance": hit.distance,
-            "target_title": hit.entity.get("title")
+            "id": hit.id,
         })
 
 # 검색 결과 저장

@@ -1,0 +1,160 @@
+country,code,region,economic_quality,health,education
+Denmark,DNK,Europe,7.0,16.0,5.0
+Sweden,SWE,Europe,8.0,9.0,8.0
+Norway,NOR,Europe,5.0,7.0,10.0
+Finland,FIN,Europe,20.0,15.0,2.0
+Switzerland,CHE,Europe,2.0,10.0,4.0
+Netherlands,NLD,Europe,10.0,11.0,6.0
+Luxembourg,LUX,Europe,6.0,12.0,36.0
+Iceland,ISL,Europe,21.0,8.0,11.0
+Germany,DEU,Europe,11.0,13.0,19.0
+New Zealand,NZL,Oceania,22.0,25.0,18.0
+Ireland,IRL,Europe,4.0,23.0,12.0
+United Kingdom,GBR,Europe,15.0,34.0,14.0
+Canada,CAN,North America,32.0,32.0,17.0
+Austria,AUT,Europe,25.0,22.0,22.0
+Australia,AUS,Oceania,23.0,21.0,7.0
+Japan,JPN,Asia,28.0,2.0,13.0
+Singapore,SGP,Asia,1.0,1.0,1.0
+Belgium,BEL,Europe,27.0,18.0,15.0
+United States,USA,North America,16.0,69.0,20.0
+Estonia,EST,Europe,14.0,37.0,21.0
+Hong Kong,HKG,Asia,3.0,14.0,9.0
+France,FRA,Europe,30.0,20.0,28.0
+Spain,ESP,Europe,52.0,26.0,30.0
+Czechia,CZE,Europe,17.0,28.0,31.0
+Portugal,PRT,Europe,46.0,40.0,39.0
+Slovenia,SVN,Europe,35.0,24.0,25.0
+Malta,MLT,Europe,18.0,19.0,38.0
+South Korea,KOR,Asia,9.0,3.0,3.0
+Italy,ITA,Europe,54.0,17.0,32.0
+Latvia,LVA,Europe,33.0,59.0,27.0
+Lithuania,LTU,Europe,31.0,61.0,24.0
+Israel,ISR,Asia,19.0,6.0,26.0
+Cyprus,CYP,Europe,42.0,29.0,34.0
+Slovakia,SVK,Europe,37.0,45.0,48.0
+Chile,CHL,South America,39.0,51.0,44.0
+Poland,POL,Europe,36.0,48.0,37.0
+Uruguay,URY,South America,60.0,35.0,53.0
+Costa Rica,CRI,South America,59.0,30.0,50.0
+Greece,GRC,Europe,86.0,41.0,33.0
+Croatia,HRV,Europe,47.0,53.0,43.0
+Hungary,HUN,Europe,29.0,46.0,41.0
+Malaysia,MYS,Asia,34.0,42.0,46.0
+United Arab Emirates,ARE,Asia,26.0,33.0,42.0
+Romania,ROU,Europe,44.0,72.0,54.0
+Qatar,QAT,Asia,13.0,38.0,60.0
+Mauritius,MUS,Africa,72.0,81.0,62.0
+Bulgaria,BGR,Europe,43.0,65.0,47.0
+Montenegro,MNE,Europe,69.0,103.0,51.0
+Panama,PAN,South America,50.0,57.0,93.0
+Seychelles,SYC,Africa,90.0,39.0,68.0
+Serbia,SRB,Europe,61.0,80.0,45.0
+Georgia,GEO,Europe,78.0,90.0,49.0
+China,CHN,Asia,24.0,5.0,56.0
+North Macedonia,MKD,Europe,73.0,74.0,88.0
+Trinidad and Tobago,TTO,North America,70.0,64.0,69.0
+Jamaica,JAM,North America,91.0,67.0,76.0
+Argentina,ARG,South America,118.0,60.0,58.0
+Peru,PER,South America,62.0,52.0,71.0
+Kuwait,KWT,Asia,51.0,43.0,75.0
+Armenia,ARM,Asia,83.0,68.0,59.0
+Bahrain,BHR,Asia,56.0,50.0,63.0
+Indonesia,IDN,Asia,58.0,87.0,89.0
+Thailand,THA,Asia,40.0,31.0,72.0
+Albania,ALB,Europe,101.0,66.0,57.0
+Brazil,BRA,South America,81.0,83.0,91.0
+Oman,OMN,Asia,63.0,55.0,83.0
+Dominican Republic,DOM,North America,66.0,89.0,99.0
+Kazakhstan,KAZ,Asia,38.0,77.0,35.0
+Moldova,MDA,Europe,93.0,93.0,52.0
+Mexico,MEX,North America,49.0,71.0,77.0
+Bosnia and Herzegovina,BIH,Europe,75.0,95.0,84.0
+Vietnam,VNM,Asia,48.0,44.0,67.0
+Ukraine,UKR,Europe,77.0,101.0,40.0
+South Africa,ZAF,Africa,74.0,129.0,102.0
+Paraguay,PRY,South America,84.0,88.0,103.0
+Russia,RUS,Europe,41.0,84.0,23.0
+Belarus,BLR,Europe,45.0,62.0,29.0
+Saudi Arabia,SAU,Asia,55.0,56.0,64.0
+Colombia,COL,South America,85.0,36.0,80.0
+Suriname,SUR,South America,108.0,123.0,97.0
+Botswana,BWA,Africa,57.0,131.0,100.0
+Philippines,PHL,Asia,53.0,96.0,86.0
+Ecuador,ECU,South America,114.0,82.0,82.0
+Jordan,JOR,Asia,121.0,100.0,90.0
+Mongolia,MNG,Asia,80.0,110.0,61.0
+Guyana,GUY,South America,64.0,120.0,96.0
+Namibia,NAM,Africa,133.0,125.0,109.0
+Sri Lanka,LKA,Asia,128.0,47.0,70.0
+Azerbaijan,AZE,Asia,65.0,85.0,79.0
+Kyrgyzstan,KGZ,Asia,88.0,76.0,85.0
+Turkey,TUR,Asia,71.0,63.0,74.0
+Morocco,MAR,Africa,95.0,86.0,122.0
+El Salvador,SLV,North America,107.0,98.0,108.0
+Ghana,GHA,Africa,134.0,119.0,118.0
+Tunisia,TUN,Africa,111.0,79.0,95.0
+Uzbekistan,UZB,Asia,79.0,49.0,73.0
+Guatemala,GTM,North America,76.0,104.0,124.0
+Senegal,SEN,Africa,122.0,117.0,148.0
+India,IND,Asia,89.0,112.0,106.0
+Cuba,CUB,North America,131.0,27.0,55.0
+Honduras,HND,North America,100.0,99.0,117.0
+Bolivia,BOL,South America,139.0,113.0,94.0
+Turkmenistan,TKM,Asia,67.0,54.0,66.0
+Kenya,KEN,Africa,98.0,114.0,113.0
+Algeria,DZA,Africa,132.0,70.0,92.0
+Nepal,NPL,Asia,102.0,118.0,119.0
+Rwanda,RWA,Africa,87.0,116.0,133.0
+Lebanon,LBN,Asia,161.0,102.0,65.0
+Tajikistan,TJK,Asia,109.0,75.0,81.0
+Nicaragua,NIC,North America,116.0,78.0,120.0
+Laos,LAO,Asia,97.0,111.0,111.0
+Tanzania,TZA,Africa,96.0,128.0,130.0
+Cambodia,KHM,Asia,68.0,92.0,127.0
+Gabon,GAB,Africa,113.0,140.0,107.0
+Egypt,EGY,Africa,136.0,107.0,105.0
+Djibouti,DJI,Africa,104.0,126.0,132.0
+Benin,BEN,Africa,110.0,147.0,139.0
+Bangladesh,BGD,Asia,103.0,106.0,126.0
+Malawi,MWI,Africa,147.0,121.0,145.0
+Iran,IRN,Asia,138.0,58.0,78.0
+Zambia,ZMB,Africa,162.0,137.0,134.0
+Comoros,COM,Africa,155.0,130.0,135.0
+Uganda,UGA,Africa,117.0,133.0,137.0
+Papua New Guinea,PNG,Oceania,126.0,149.0,141.0
+Equatorial Guinea,GNQ,Africa,94.0,156.0,129.0
+Lesotho,LSO,Africa,137.0,164.0,123.0
+Togo,TGO,Africa,140.0,142.0,131.0
+Eswatini,SWZ,Africa,106.0,161.0,125.0
+Burkina Faso,BFA,Africa,125.0,132.0,161.0
+Pakistan,PAK,Asia,129.0,124.0,140.0
+Madagascar,MDG,Africa,143.0,145.0,146.0
+Liberia,LBR,Africa,149.0,160.0,159.0
+Zimbabwe,ZWE,Africa,145.0,141.0,98.0
+Iraq,IRQ,Asia,105.0,115.0,121.0
+Guinea,GIN,Africa,154.0,159.0,156.0
+Nigeria,NGA,Africa,146.0,157.0,136.0
+Myanmar,MMR,Asia,142.0,109.0,114.0
+Sierra Leone,SLE,Africa,157.0,162.0,151.0
+Venezuela,VEN,South America,166.0,97.0,87.0
+Libya,LBY,Africa,99.0,105.0,112.0
+Cameroon,CMR,Africa,112.0,152.0,115.0
+Congo,COG,Africa,151.0,146.0,116.0
+Mozambique,MOZ,Africa,158.0,150.0,160.0
+Mali,MLI,Africa,119.0,144.0,163.0
+Niger,NER,Africa,124.0,143.0,167.0
+Ethiopia,ETH,Africa,115.0,122.0,149.0
+Mauritania,MRT,Africa,135.0,138.0,154.0
+Angola,AGO,Africa,120.0,158.0,152.0
+Haiti,HTI,North America,144.0,148.0,143.0
+Burundi,BDI,Africa,163.0,134.0,150.0
+Sudan,SDN,Africa,167.0,127.0,144.0
+Syria,SYR,Asia,148.0,108.0,128.0
+Eritrea,ERI,Africa,156.0,135.0,153.0
+Chad,TCD,Africa,141.0,165.0,166.0
+Somalia,SOM,Africa,165.0,163.0,158.0
+Afghanistan,AFG,Asia,152.0,153.0,157.0
+Central African Republic,CAF,Africa,130.0,167.0,165.0
+Yemen,YEM,Asia,164.0,136.0,155.0
+South Sudan,SSD,Africa,160.0,166.0,164.0

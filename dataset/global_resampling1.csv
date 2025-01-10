@@ -1,0 +1,160 @@
+country,code,region,political_regime
+Denmark,DNK,Europe,Liberal democracy
+Sweden,SWE,Europe,Liberal democracy
+Norway,NOR,Europe,Liberal democracy
+Finland,FIN,Europe,Liberal democracy
+Switzerland,CHE,Europe,Liberal democracy
+Netherlands,NLD,Europe,Liberal democracy
+Luxembourg,LUX,Europe,Liberal democracy
+Iceland,ISL,Europe,Liberal democracy
+Germany,DEU,Europe,Liberal democracy
+New Zealand,NZL,Oceania,Liberal democracy
+Ireland,IRL,Europe,Liberal democracy
+United Kingdom,GBR,Europe,Liberal democracy
+Canada,CAN,North America,Liberal democracy
+Austria,AUT,Europe,Electoral democracy
+Australia,AUS,Oceania,Liberal democracy
+Japan,JPN,Asia,Liberal democracy
+Singapore,SGP,Asia,Electoral autocracy
+Belgium,BEL,Europe,Liberal democracy
+United States,USA,North America,Liberal democracy
+Estonia,EST,Europe,Liberal democracy
+Hong Kong,HKG,Asia,Closed autocracy
+France,FRA,Europe,Liberal democracy
+Spain,ESP,Europe,Liberal democracy
+Czechia,CZE,Europe,Liberal democracy
+Portugal,PRT,Europe,Electoral democracy
+Slovenia,SVN,Europe,Electoral democracy
+Malta,MLT,Europe,Electoral democracy
+South Korea,KOR,Asia,Liberal democracy
+Italy,ITA,Europe,Liberal democracy
+Latvia,LVA,Europe,Liberal democracy
+Lithuania,LTU,Europe,Electoral democracy
+Israel,ISR,Asia,Electoral democracy
+Cyprus,CYP,Europe,Electoral democracy
+Slovakia,SVK,Europe,Electoral democracy
+Chile,CHL,South America,Liberal democracy
+Poland,POL,Europe,Electoral democracy
+Uruguay,URY,South America,Liberal democracy
+Costa Rica,CRI,South America,Liberal democracy
+Greece,GRC,Europe,Electoral democracy
+Croatia,HRV,Europe,Electoral democracy
+Hungary,HUN,Europe,Electoral autocracy
+Malaysia,MYS,Asia,Electoral democracy
+United Arab Emirates,ARE,Asia,Closed autocracy
+Romania,ROU,Europe,Electoral democracy
+Qatar,QAT,Asia,Closed autocracy
+Mauritius,MUS,Africa,Electoral autocracy
+Bulgaria,BGR,Europe,Electoral democracy
+Montenegro,MNE,Europe,Electoral democracy
+Panama,PAN,South America,Electoral democracy
+Seychelles,SYC,Africa,Liberal democracy
+Serbia,SRB,Europe,Electoral autocracy
+Georgia,GEO,Europe,Electoral democracy
+China,CHN,Asia,Closed autocracy
+North Macedonia,MKD,Europe,Electoral democracy
+Trinidad and Tobago,TTO,North America,Electoral democracy
+Jamaica,JAM,North America,Electoral democracy
+Argentina,ARG,South America,Electoral democracy
+Peru,PER,South America,Electoral democracy
+Kuwait,KWT,Asia,Electoral autocracy
+Armenia,ARM,Asia,Electoral democracy
+Bahrain,BHR,Asia,Closed autocracy
+Indonesia,IDN,Asia,Electoral democracy
+Thailand,THA,Asia,Electoral autocracy
+Albania,ALB,Europe,Electoral democracy
+Brazil,BRA,South America,Electoral democracy
+Oman,OMN,Asia,Closed autocracy
+Dominican Republic,DOM,North America,Electoral democracy
+Kazakhstan,KAZ,Asia,Electoral autocracy
+Moldova,MDA,Europe,Electoral democracy
+Mexico,MEX,North America,Electoral democracy
+Bosnia and Herzegovina,BIH,Europe,Electoral democracy
+Vietnam,VNM,Asia,Closed autocracy
+Ukraine,UKR,Europe,Electoral autocracy
+South Africa,ZAF,Africa,Electoral democracy
+Paraguay,PRY,South America,Electoral democracy
+Russia,RUS,Europe,Electoral autocracy
+Belarus,BLR,Europe,Electoral autocracy
+Saudi Arabia,SAU,Asia,Closed autocracy
+Colombia,COL,South America,Electoral democracy
+Suriname,SUR,South America,Liberal democracy
+Botswana,BWA,Africa,Electoral democracy
+Philippines,PHL,Asia,Electoral autocracy
+Ecuador,ECU,South America,Electoral democracy
+Jordan,JOR,Asia,Closed autocracy
+Mongolia,MNG,Asia,Electoral democracy
+Guyana,GUY,South America,Electoral democracy
+Namibia,NAM,Africa,Electoral democracy
+Sri Lanka,LKA,Asia,Electoral democracy
+Azerbaijan,AZE,Asia,Electoral autocracy
+Kyrgyzstan,KGZ,Asia,Electoral autocracy
+Turkey,TUR,Asia,Electoral autocracy
+Morocco,MAR,Africa,Closed autocracy
+El Salvador,SLV,North America,Electoral autocracy
+Ghana,GHA,Africa,Electoral democracy
+Tunisia,TUN,Africa,Electoral autocracy
+Uzbekistan,UZB,Asia,Closed autocracy
+Guatemala,GTM,North America,Electoral democracy
+Senegal,SEN,Africa,Electoral democracy
+India,IND,Asia,Electoral autocracy
+Cuba,CUB,North America,Closed autocracy
+Honduras,HND,North America,Electoral democracy
+Bolivia,BOL,South America,Electoral democracy
+Turkmenistan,TKM,Asia,Closed autocracy
+Kenya,KEN,Africa,Electoral democracy
+Algeria,DZA,Africa,Electoral autocracy
+Nepal,NPL,Asia,Electoral democracy
+Rwanda,RWA,Africa,Electoral autocracy
+Lebanon,LBN,Asia,Electoral autocracy
+Tajikistan,TJK,Asia,Electoral autocracy
+Nicaragua,NIC,North America,Electoral autocracy
+Laos,LAO,Asia,Closed autocracy
+Tanzania,TZA,Africa,Electoral autocracy
+Cambodia,KHM,Asia,Electoral autocracy
+Gabon,GAB,Africa,Closed autocracy
+Egypt,EGY,Africa,Electoral autocracy
+Djibouti,DJI,Africa,Electoral autocracy
+Benin,BEN,Africa,Electoral autocracy
+Bangladesh,BGD,Asia,Electoral autocracy
+Malawi,MWI,Africa,Electoral democracy
+Iran,IRN,Asia,Closed autocracy
+Zambia,ZMB,Africa,Electoral democracy
+Comoros,COM,Africa,Electoral autocracy
+Uganda,UGA,Africa,Electoral autocracy
+Papua New Guinea,PNG,Oceania,Electoral autocracy
+Equatorial Guinea,GNQ,Africa,Electoral autocracy
+Lesotho,LSO,Africa,Electoral democracy
+Togo,TGO,Africa,Electoral autocracy
+Eswatini,SWZ,Africa,Closed autocracy
+Burkina Faso,BFA,Africa,Closed autocracy
+Pakistan,PAK,Asia,Electoral autocracy
+Madagascar,MDG,Africa,Electoral autocracy
+Liberia,LBR,Africa,Electoral democracy
+Zimbabwe,ZWE,Africa,Electoral autocracy
+Iraq,IRQ,Asia,Electoral autocracy
+Guinea,GIN,Africa,Closed autocracy
+Nigeria,NGA,Africa,Electoral autocracy
+Myanmar,MMR,Asia,Closed autocracy
+Sierra Leone,SLE,Africa,Electoral autocracy
+Venezuela,VEN,South America,Electoral autocracy
+Libya,LBY,Africa,Closed autocracy
+Cameroon,CMR,Africa,Electoral autocracy
+Congo,COG,Africa,Electoral autocracy
+Mozambique,MOZ,Africa,Electoral autocracy
+Mali,MLI,Africa,Closed autocracy
+Niger,NER,Africa,Closed autocracy
+Ethiopia,ETH,Africa,Electoral autocracy
+Mauritania,MRT,Africa,Electoral autocracy
+Angola,AGO,Africa,Electoral autocracy
+Haiti,HTI,North America,Closed autocracy
+Burundi,BDI,Africa,Electoral autocracy
+Sudan,SDN,Africa,Closed autocracy
+Syria,SYR,Asia,Closed autocracy
+Eritrea,ERI,Africa,Closed autocracy
+Chad,TCD,Africa,Closed autocracy
+Somalia,SOM,Africa,Closed autocracy
+Afghanistan,AFG,Asia,Closed autocracy
+Central African Republic,CAF,Africa,Electoral autocracy
+Yemen,YEM,Asia,Closed autocracy
+South Sudan,SSD,Africa,Closed autocracy

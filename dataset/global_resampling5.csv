@@ -1,0 +1,160 @@
+country,region,natural_environment
+Denmark,Europe,5.0
+Sweden,Europe,1.0
+Norway,Europe,9.0
+Finland,Europe,2.0
+Switzerland,Europe,6.0
+Netherlands,Europe,39.0
+Luxembourg,Europe,10.0
+Iceland,Europe,13.0
+Germany,Europe,12.0
+New Zealand,Oceania,11.0
+Ireland,Europe,17.0
+United Kingdom,Europe,22.0
+Canada,North America,20.0
+Austria,Europe,7.0
+Australia,Oceania,19.0
+Japan,Asia,15.0
+Singapore,Asia,87.0
+Belgium,Europe,35.0
+United States,North America,28.0
+Estonia,Europe,8.0
+Hong Kong,Asia,30.0
+France,Europe,14.0
+Spain,Europe,34.0
+Czechia,Europe,27.0
+Portugal,Europe,32.0
+Slovenia,Europe,4.0
+Malta,Europe,104.0
+South Korea,Asia,63.0
+Italy,Europe,31.0
+Latvia,Europe,3.0
+Lithuania,Europe,16.0
+Israel,Asia,96.0
+Cyprus,Europe,38.0
+Slovakia,Europe,24.0
+Chile,South America,44.0
+Poland,Europe,43.0
+Uruguay,South America,52.0
+Costa Rica,South America,23.0
+Greece,Europe,29.0
+Croatia,Europe,26.0
+Hungary,Europe,36.0
+Malaysia,Asia,46.0
+United Arab Emirates,Asia,119.0
+Romania,Europe,45.0
+Qatar,Asia,134.0
+Mauritius,Africa,120.0
+Bulgaria,Europe,64.0
+Montenegro,Europe,100.0
+Panama,South America,25.0
+Seychelles,Africa,54.0
+Serbia,Europe,131.0
+Georgia,Europe,128.0
+China,Asia,139.0
+North Macedonia,Europe,92.0
+Trinidad and Tobago,North America,107.0
+Jamaica,North America,112.0
+Argentina,South America,49.0
+Peru,South America,33.0
+Kuwait,Asia,137.0
+Armenia,Asia,99.0
+Bahrain,Asia,142.0
+Indonesia,Asia,77.0
+Thailand,Asia,111.0
+Albania,Europe,57.0
+Brazil,South America,18.0
+Oman,Asia,153.0
+Dominican Republic,North America,55.0
+Kazakhstan,Asia,126.0
+Moldova,Europe,115.0
+Mexico,North America,60.0
+Bosnia and Herzegovina,Europe,135.0
+Vietnam,Asia,114.0
+Ukraine,Europe,88.0
+South Africa,Africa,140.0
+Paraguay,South America,37.0
+Russia,Europe,76.0
+Belarus,Europe,42.0
+Saudi Arabia,Asia,138.0
+Colombia,South America,40.0
+Suriname,South America,21.0
+Botswana,Africa,143.0
+Philippines,Asia,71.0
+Ecuador,South America,51.0
+Jordan,Asia,146.0
+Mongolia,Asia,148.0
+Guyana,South America,47.0
+Namibia,Africa,98.0
+Sri Lanka,Asia,58.0
+Azerbaijan,Asia,149.0
+Kyrgyzstan,Asia,95.0
+Turkey,Asia,86.0
+Morocco,Africa,132.0
+El Salvador,North America,121.0
+Ghana,Africa,106.0
+Tunisia,Africa,147.0
+Uzbekistan,Asia,162.0
+Guatemala,North America,81.0
+Senegal,Africa,75.0
+India,Asia,161.0
+Cuba,North America,83.0
+Honduras,North America,65.0
+Bolivia,South America,48.0
+Turkmenistan,Asia,159.0
+Kenya,Africa,122.0
+Algeria,Africa,144.0
+Nepal,Asia,133.0
+Rwanda,Africa,109.0
+Lebanon,Asia,116.0
+Tajikistan,Asia,150.0
+Nicaragua,North America,67.0
+Laos,Asia,72.0
+Tanzania,Africa,70.0
+Cambodia,Asia,78.0
+Gabon,Africa,90.0
+Egypt,Africa,156.0
+Djibouti,Africa,154.0
+Benin,Africa,123.0
+Bangladesh,Asia,151.0
+Malawi,Africa,66.0
+Iran,Asia,158.0
+Zambia,Africa,59.0
+Comoros,Africa,74.0
+Uganda,Africa,113.0
+Papua New Guinea,Oceania,62.0
+Equatorial Guinea,Africa,56.0
+Lesotho,Africa,165.0
+Togo,Africa,127.0
+Eswatini,Africa,145.0
+Burkina Faso,Africa,85.0
+Pakistan,Asia,166.0
+Madagascar,Africa,79.0
+Liberia,Africa,61.0
+Zimbabwe,Africa,110.0
+Iraq,Asia,167.0
+Guinea,Africa,68.0
+Nigeria,Africa,129.0
+Myanmar,Asia,84.0
+Sierra Leone,Africa,105.0
+Venezuela,South America,41.0
+Libya,Africa,157.0
+Cameroon,Africa,118.0
+Congo,Africa,94.0
+Mozambique,Africa,50.0
+Mali,Africa,97.0
+Niger,Africa,117.0
+Ethiopia,Africa,108.0
+Mauritania,Africa,164.0
+Angola,Africa,124.0
+Haiti,North America,141.0
+Burundi,Africa,101.0
+Sudan,Africa,163.0
+Syria,Asia,160.0
+Eritrea,Africa,130.0
+Chad,Africa,103.0
+Somalia,Africa,136.0
+Afghanistan,Asia,155.0
+Central African Republic,Africa,93.0
+Yemen,Asia,152.0
+South Sudan,Africa,125.0
